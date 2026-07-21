@@ -1,0 +1,23 @@
+{
+  "pmid": "30135715",
+  "title": "Current understanding of Alzheimer's disease diagnosis and treatment.",
+  "abstract": "Alzheimer's disease is the most common cause of dementia worldwide, with the prevalence continuing to grow in part because of the aging world population. This neurodegenerative disease process is characterized classically by two hallmark pathologies: β-amyloid plaque deposition and neurofibrillary tangles of hyperphosphorylated tau. Diagnosis is based upon clinical presentation fulfilling several criteria as well as fluid and imaging biomarkers. Treatment is currently targeted toward symptomatic therapy, although trials are underway that aim to reduce the production and overall burden of pathology within the brain. Here, we discuss recent advances in our understanding of the clinical evaluation and treatment of Alzheimer's disease, with updates regarding clinical trials still in progress.",
+  "authors": [
+    "Jason Weller",
+    "Andrew Budson"
+  ],
+  "journal": "F1000Research",
+  "year": "2018",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Humans",
+    "Nerve Net",
+    "tau Proteins"
+  ],
+  "doi": "10.12688/f1000research.14506.1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30135715/",
+  "subtopic": "pathology_amyloid",
+  "source_type": "pubmed",
+  "article_id": "pubmed_30135715"
+}

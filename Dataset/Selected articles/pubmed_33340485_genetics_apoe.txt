@@ -1,0 +1,10 @@
+Title: APOE and Alzheimer's disease: advances in genetics, pathophysiology, and therapeutic approaches.
+Authors: Alberto Serrano-Pozo, Sudeshna Das, Bradley T Hyman
+Journal: The Lancet. Neurology (2021)
+PMID: 33340485
+DOI: 10.1016/S1474-4422(20)30412-9
+MeSH Terms: Alzheimer Disease, Animals, Apolipoproteins E, Genetic Therapy, Humans
+URL: https://pubmed.ncbi.nlm.nih.gov/33340485/
+
+Abstract:
+The APOE ε4 allele remains the strongest genetic risk factor for sporadic Alzheimer's disease and the APOE ε2 allele the strongest genetic protective factor after multiple large scale genome-wide association studies and genome-wide association meta-analyses. However, no therapies directed at APOE are currently available. Although initial studies causally linked APOE with amyloid-β peptide aggregation and clearance, over the past 5 years our understanding of APOE pathogenesis has expanded beyond amyloid-β peptide-centric mechanisms to tau neurofibrillary degeneration, microglia and astrocyte responses, and blood-brain barrier disruption. Because all these pathological processes can potentially contribute to cognitive impairment, it is important to use this new knowledge to develop therapies directed at APOE. Several therapeutic approaches have been successful in mouse models expressing human APOE alleles, including increasing or reducing APOE levels, enhancing its lipidation, blocking the interactions between APOE and amyloid-β peptide, and genetically switching APOE4 to APOE3 or APOE2 isoforms, but translation to human clinical trials has proven challenging.

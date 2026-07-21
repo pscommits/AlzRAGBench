@@ -1,0 +1,142 @@
+[
+  {
+    "article_id": "pubmed_30135715",
+    "subtopic": "pathology_amyloid",
+    "title": "Current understanding of Alzheimer's disease diagnosis and treatment.",
+    "pmid": "30135715",
+    "year": "2018"
+  },
+  {
+    "article_id": "pubmed_21371747",
+    "subtopic": "pathology_tau",
+    "title": "Alzheimer's disease.",
+    "pmid": "21371747",
+    "year": "2011"
+  },
+  {
+    "article_id": "pubmed_33340485",
+    "subtopic": "genetics_apoe",
+    "title": "APOE and Alzheimer's disease: advances in genetics, pathophysiology, and therapeutic approaches.",
+    "pmid": "33340485",
+    "year": "2021"
+  },
+  {
+    "article_id": "pubmed_23276979",
+    "subtopic": "genetics_familial",
+    "title": "Genetics of familial and sporadic Alzheimer's disease.",
+    "pmid": "23276979",
+    "year": "2013"
+  },
+  {
+    "article_id": "pubmed_34101789",
+    "subtopic": "epidemiology",
+    "title": "The Epidemiology of Alzheimer's Disease Modifiable Risk Factors and Prevention.",
+    "pmid": "34101789",
+    "year": "2021"
+  },
+  {
+    "article_id": "pubmed_31753135",
+    "subtopic": "diagnosis_criteria",
+    "title": "Alzheimer's disease.",
+    "pmid": "31753135",
+    "year": "2019"
+  },
+  {
+    "article_id": "pubmed_34456336",
+    "subtopic": "biomarkers_csf",
+    "title": "The Amyloid-β Pathway in Alzheimer's Disease.",
+    "pmid": "34456336",
+    "year": "2021"
+  },
+  {
+    "article_id": "pubmed_26921134",
+    "subtopic": "imaging_pet",
+    "title": "Alzheimer's disease.",
+    "pmid": "26921134",
+    "year": "2016"
+  },
+  {
+    "article_id": "pubmed_26827786",
+    "subtopic": "imaging_mri",
+    "title": "Brain atrophy in Alzheimer's Disease and aging.",
+    "pmid": "26827786",
+    "year": "2016"
+  },
+  {
+    "article_id": "pubmed_38849944",
+    "subtopic": "mci",
+    "title": "Effects of intensive lifestyle changes on the progression of mild cognitive impairment or early dementia due to Alzheimer's disease: a randomized, controlled clinical trial.",
+    "pmid": "38849944",
+    "year": "2024"
+  },
+  {
+    "article_id": "pubmed_33035532",
+    "subtopic": "treatment_cholinesterase",
+    "title": "Efficacy of acetylcholinesterase inhibitors in Alzheimer's disease.",
+    "pmid": "33035532",
+    "year": "2021"
+  },
+  {
+    "article_id": "pubmed_12672860",
+    "subtopic": "treatment_memantine",
+    "title": "Memantine in moderate-to-severe Alzheimer's disease.",
+    "pmid": "12672860",
+    "year": "2003"
+  },
+  {
+    "article_id": "pubmed_37955845",
+    "subtopic": "treatment_immunotherapy",
+    "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease.",
+    "pmid": "37955845",
+    "year": "2024"
+  },
+  {
+    "article_id": "pubmed_36911732",
+    "subtopic": "neuroinflammation",
+    "title": "The effects of microglia-associated neuroinflammation on Alzheimer's disease.",
+    "pmid": "36911732",
+    "year": "2023"
+  },
+  {
+    "article_id": "pubmed_35301183",
+    "subtopic": "risk_factors_lifestyle",
+    "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+    "pmid": "35301183",
+    "year": "2022"
+  },
+  {
+    "article_id": "pubmed_39889875",
+    "subtopic": "risk_factors_vascular",
+    "title": "Environmental risk factors for all-cause dementia, Alzheimer's disease dementia, vascular dementia, and mild cognitive impairment: An umbrella review and meta-analysis.",
+    "pmid": "39889875",
+    "year": "2025"
+  },
+  {
+    "article_id": "pubmed_33986301",
+    "subtopic": "synaptic_dysfunction",
+    "title": "Alzheimer disease.",
+    "pmid": "33986301",
+    "year": "2021"
+  },
+  {
+    "article_id": "pubmed_33004510",
+    "subtopic": "sleep",
+    "title": "Glymphatic failure as a final common pathway to dementia.",
+    "pmid": "33004510",
+    "year": "2020"
+  },
+  {
+    "article_id": "pubmed_37972428",
+    "subtopic": "caregiving",
+    "title": "Economic Burden of Alzheimer's Disease: A Systematic Review.",
+    "pmid": "37972428",
+    "year": "2024"
+  },
+  {
+    "article_id": "pubmed_38967222",
+    "subtopic": "sex_differences",
+    "title": "Sex and gender differences in cognitive resilience to aging and Alzheimer's disease.",
+    "pmid": "38967222",
+    "year": "2024"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "chunk_id": "pubmed_34101789__chunk000",
+    "article_id": "pubmed_34101789",
+    "source_type": "pubmed",
+    "title": "The Epidemiology of Alzheimer's Disease Modifiable Risk Factors and Prevention.",
+    "chunk_index": 0,
+    "num_chunks_in_article": 1,
+    "word_count": 164,
+    "char_start": 0,
+    "char_end": 1242,
+    "text": "Title: The Epidemiology of Alzheimer's Disease Modifiable Risk Factors and Prevention. Mild Alzheimer's disease is the leading cause of dementia, accounting for 50-70% of cases. Alzheimer's disease is an irreversible neurodegenerative disease, which affects daily life activities and social functioning. As life expectancy increases and demographic ageing occurs, the global prevalence of Alzheimer's disease is expected to continue to rise especially in developing countries, leading to a costly burden of disease. Alzheimer's disease is a complex and multifactorial disorder that is determined by the interaction of genetic susceptibility and environmental factors across the life course. Epidemiological studies have identified potential modifiable risk and protective factors for Alzheimer's disease prevention. Moreover, Alzheimer's disease is considered to start decades earlier before clinical symptoms occur, thus interventions targeting several risk factors in non-demented elderly people even middle-aged population might prevent or delay Alzheimer's disease onset. Here, we provide an overview of current epidemiological advances related to Alzheimer's disease modifiable risk factors, highlighting the concept of early prevention.",
+    "metadata": {
+      "pmid": "34101789",
+      "title": "The Epidemiology of Alzheimer's Disease Modifiable Risk Factors and Prevention.",
+      "authors": [
+        "X-X Zhang",
+        "Y Tian",
+        "Z-T Wang",
+        "Y-H Ma",
+        "L Tan",
+        "J-T Yu"
+      ],
+      "journal": "The journal of prevention of Alzheimer's disease",
+      "year": "2021",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Cardiovascular Diseases",
+        "Exercise",
+        "Humans",
+        "Life Style",
+        "Prevalence",
+        "Protective Factors",
+        "Risk Factors"
+      ],
+      "doi": "10.14283/jpad.2021.15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34101789/",
+      "subtopic": "epidemiology",
+      "source_type": "pubmed",
+      "article_id": "pubmed_34101789"
+    }
+  }
+]

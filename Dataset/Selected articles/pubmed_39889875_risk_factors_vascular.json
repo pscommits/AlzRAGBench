@@ -1,0 +1,38 @@
+{
+  "pmid": "39889875",
+  "title": "Environmental risk factors for all-cause dementia, Alzheimer's disease dementia, vascular dementia, and mild cognitive impairment: An umbrella review and meta-analysis.",
+  "abstract": "BACKGROUND: Mitigation of environmental risk factors for neurocognitive disorders could reduce the number of incident cases. We sought to synthesize the literature on environmental risk factors for dementia and mild cognitive impairment.\nMETHODS: We conducted an umbrella review and meta-analysis. Multiple databases were systematically searched to identify systematic reviews and meta-analyses of longitudinal studies examining environmental risk factors for dementia or mild cognitive impairment. We used random effects multi-level, meta-analytic models to synthesize risk ratios for each risk factor while accounting for overlap in the studies within reviews. As a secondary objective, we examined risk factors for two common phenotypes of dementia: Alzheimer's disease dementia and vascular dementia.\nRESULTS: A total of 19 reviews containing 37 meta-analyses were included umbrella review. We found 9 factors where exposure was associated with higher risks of all-cause dementia: fine particulate matter, particulate matter, nitrogen dioxide, nitrogen oxides, carbon monoxide, shift work, night shift work, chronic noise, and extremely-low frequency magnetic fields. Neighbourhood greenness was associated with a lower risk of all-cause dementia. In a narrative review, we found that exposure to sulfur dioxide, proximity to roadways, ionizing radiation, aluminum, solvents, pesticides, and environmental tobacco smoke were also associated with dementia. We also found that fine particulate matter, extremely-low frequency magnetic fields, sulfur dioxide, chronic noise, and pesticides were related to Alzheimer's disease dementia. Fine particulate matter, particulate matter, and chronic noise were related to vascular dementia. No systematic review reported on mild cognitive impairment.\nCONCLUSION: Achieving stronger air quality targets has the potential to reduce population-level dementia risk. Neighbourhood (i.e., greenness and chronic noise) and occupational (i.e., shift work) characteristics are associated with dementia and are viable public health intervention points. Additional research should examine the relationship between other environmental risk factors and mild cognitive impairment and specific types of dementia.",
+  "authors": [
+    "Aaron Jones",
+    "Muhammad Usman Ali",
+    "Alexandra Mayhew",
+    "Komal Aryal",
+    "Rebecca H Correia",
+    "Darly Dash",
+    "Derek R Manis",
+    "Atiya Rehman",
+    "Megan E O'Connell",
+    "Vanessa Taler",
+    "Andrew P Costa",
+    "David B Hogan",
+    "Christina Wolfson",
+    "Parminder Raina",
+    "Lauren Griffith"
+  ],
+  "journal": "Environmental research",
+  "year": "2025",
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Cognitive Dysfunction",
+    "Dementia",
+    "Dementia, Vascular",
+    "Environmental Exposure",
+    "Risk Factors"
+  ],
+  "doi": "10.1016/j.envres.2025.121007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39889875/",
+  "subtopic": "risk_factors_vascular",
+  "source_type": "pubmed",
+  "article_id": "pubmed_39889875"
+}

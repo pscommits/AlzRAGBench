@@ -1,0 +1,36 @@
+{
+  "pmid": "34456336",
+  "title": "The Amyloid-β Pathway in Alzheimer's Disease.",
+  "abstract": "Breakthroughs in molecular medicine have positioned the amyloid-β (Aβ) pathway at the center of Alzheimer's disease (AD) pathophysiology. While the detailed molecular mechanisms of the pathway and the spatial-temporal dynamics leading to synaptic failure, neurodegeneration, and clinical onset are still under intense investigation, the established biochemical alterations of the Aβ cycle remain the core biological hallmark of AD and are promising targets for the development of disease-modifying therapies. Here, we systematically review and update the vast state-of-the-art literature of Aβ science with evidence from basic research studies to human genetic and multi-modal biomarker investigations, which supports a crucial role of Aβ pathway dyshomeostasis in AD pathophysiological dynamics. We discuss the evidence highlighting a differentiated interaction of distinct Aβ species with other AD-related biological mechanisms, such as tau-mediated, neuroimmune and inflammatory changes, as well as a neurochemical imbalance. Through the lens of the latest development of multimodal in vivo biomarkers of AD, this cross-disciplinary review examines the compelling hypothesis- and data-driven rationale for Aβ-targeting therapeutic strategies in development for the early treatment of AD.",
+  "authors": [
+    "Harald Hampel",
+    "John Hardy",
+    "Kaj Blennow",
+    "Christopher Chen",
+    "George Perry",
+    "Seung Hyun Kim",
+    "Victor L Villemagne",
+    "Paul Aisen",
+    "Michele Vendruscolo",
+    "Takeshi Iwatsubo",
+    "Colin L Masters",
+    "Min Cho",
+    "Lars Lannfelt",
+    "Jeffrey L Cummings",
+    "Andrea Vergallo"
+  ],
+  "journal": "Molecular psychiatry",
+  "year": "2021",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Biomarkers",
+    "Humans",
+    "tau Proteins"
+  ],
+  "doi": "10.1038/s41380-021-01249-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34456336/",
+  "subtopic": "biomarkers_csf",
+  "source_type": "pubmed",
+  "article_id": "pubmed_34456336"
+}

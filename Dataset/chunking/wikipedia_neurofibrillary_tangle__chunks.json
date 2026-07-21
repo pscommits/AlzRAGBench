@@ -1,0 +1,268 @@
+[
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk000",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 0,
+    "num_chunks_in_article": 14,
+    "word_count": 211,
+    "char_start": 0,
+    "char_end": 1508,
+    "text": "Title: Neurofibrillary tangle\n\nNeurofibrillary tangles (NFTs) are intracellular aggregates of hyperphosphorylated tau protein that are most commonly known as a primary biomarker of Alzheimer's disease. NFTs also are present in numerous other diseases known collectively as tauopathies. Little is known about their exact relationship to the different pathologies, but it is typically recognized that tauopathy is an important factor in the pathogenesis of several neurodegenerative diseases. NFTs consist primarily of a misfolded, hyperphosphorylated microtubule-associated protein known as tau, which abnormally polymerizes into insoluble filaments within cells. Under the electron microscope, these polymers of tau are seen to take two basic forms: paired helical filaments (PHFs) and straight filaments. These basic types of tau filaments can vary structurally, especially in different tauopathies. The filaments bundle together to form the neurofibrillary tangles that are evident under the light microscope. Classical NFTs are located within the neuronal cell body, although it is now recognized that abnormal, filamentous tau occurs also in neuronal dendrites and axons (referred to as neuropil threads) and the dystrophic (abnormal) neurites that surround neuritic Abeta plaques. Mature NFTs in cell bodies can have a torch-like or globose appearance, depending on the type of neuron involved. When tangle-containing neurons die, the tangles can remain in the neuropil as extracellular \"ghost tangles\".",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk001",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 1,
+    "num_chunks_in_article": 14,
+    "word_count": 219,
+    "char_start": null,
+    "char_end": null,
+    "text": "neurites that surround neuritic Abeta plaques. Mature NFTs in cell bodies can have a torch-like or globose appearance, depending on the type of neuron involved. When tangle-containing neurons die, the tangles can remain in the neuropil as extracellular \"ghost tangles\". == Formation ==\nThe precise mechanism of tangle formation is not completely understood. Tau protein normally binds to microtubules in cells, where it contributes to the formation and stabilization of these important components of the cytoskeleton. In the tauopathies, tau molecules are hyperphosphorylated and they fold into the wrong shape; in this deviant state they cause other tau molecules to misfold and stick to one another, eventually forming abnormal filaments. The misfolded tau molecules appear to act as seeds that transform other tau molecules to the abnormal state, thereby multiplying and spreading in the brain by a prion-like mechanism. The role of hyperphosphorylation in this process is uncertain. One possibility is that hyperphosphorylation reduces the normal binding of tau to microtubules, freeing the protein to self-assemble into polymers, but as of 2024, Michel Goedert and colleagues stated that \"It is unknown if phosphorylation is necessary and/or sufficient for the assembly of tau into filaments in the brain\". These authors also note that filamentous tau in NFTs is marked by other posttranslational modifications that could influence its properties in disease.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk002",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 2,
+    "num_chunks_in_article": 14,
+    "word_count": 219,
+    "char_start": 2440,
+    "char_end": 3886,
+    "text": "is unknown if phosphorylation is necessary and/or sufficient for the assembly of tau into filaments in the brain\". These authors also note that filamentous tau in NFTs is marked by other posttranslational modifications that could influence its properties in disease. In any case, hyperphosphorylation and misfolding of tau are well-established characteristics of NFTs that likely are important in the development of tauopathies. Three different maturation states of NFTs have been defined using  anti-tau and anti-ubiquitin immunostaining. At stage 0 there are morphologically normal pyramidal cells showing diffuse or fine granular cytoplasmic staining with anti-tau antibodies (in other words, the cells appear to be healthy with minimal presence of aberrant tau); at stage 1 some delicate, elongated inclusions are stained by antibodies to tau (these are early tangles); stage 2 is represented by the classic appearance of NFTs as seen with anti-tau immunostaining; stage 3 is exemplified by ghost tangles (tangles outside of cells where the host neuron has died), which are characterized by a reduced immunostaining for tau but marked immunostaining for ubiquitin. In this sequence of events, the abnormal phosphorylation of tau occurs before the appearance of ubiquitin immunoreactivity. Once formed, NFTs appear to last for a long time in the brain, possibly remaining for many years after the death of the neurons in which they are formed.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk003",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 3,
+    "num_chunks_in_article": 14,
+    "word_count": 183,
+    "char_start": 3641,
+    "char_end": 4747,
+    "text": "abnormal phosphorylation of tau occurs before the appearance of ubiquitin immunoreactivity. Once formed, NFTs appear to last for a long time in the brain, possibly remaining for many years after the death of the neurons in which they are formed. Ghost tangles can become immunoreactive with antibodies to other proteins in the extracellular environment, such as Abeta. == Causes ==\n\n\n=== Genetics ===\nIn adult humans there are 6 different types (\"isoforms\") of tau protein. The different tau isoforms range from 352 to 441 amino acids in length, and they influence the type of neurofibrillary pathology that is present in different tauopathies. An important segment of tau that regulates its binding to microtubules and also its anomalous self-assembly into fibrils is the repeat domain that consists of stretches of recurring amino acids; the repeat domain in tau contains either 3 or 4 Repeats (forming what are called \"3R tau\" and \"4R tau\"). There are also two different inserts in the amino terminal part of tau, whose presence or absence - along with either 3 or 4 repeats - define the 6 tau isoforms.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk004",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 4,
+    "num_chunks_in_article": 14,
+    "word_count": 191,
+    "char_start": 4539,
+    "char_end": 5737,
+    "text": "(forming what are called \"3R tau\" and \"4R tau\"). There are also two different inserts in the amino terminal part of tau, whose presence or absence - along with either 3 or 4 repeats - define the 6 tau isoforms. In some tauopathies, including progressive supranuclear palsy, corticobasal degeneration, and argyrophilic grain disease, the intracellular inclusions consist of 4R tau; in Pick disease the inclusions consist of 3R tau, and in Alzheimer's disease both 3R tau and 4R tau are involved in the formation of neurofibrillary tangles. A healthy ratio of 3R tau to 4R tau (which normally is approximately 1:1 in the adult human brain) appears to be important in preventing tauopathy. In addition to these variations in normally expressed tau isoforms, missense mutations and mutations that affect the splicing of the genetic message for tau are associated with various tauopathies. In 1998, mutations in the MAPT gene were linked to a type of frontotemporal dementia with Parkinsonism; in the brains of affected patients, abnormal tau filaments were found in both neurons and glial cells. As of 2023, 65 different mutations had been identified that are involved in neurodegenerative tauopathies.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk005",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 5,
+    "num_chunks_in_article": 14,
+    "word_count": 198,
+    "char_start": 5473,
+    "char_end": 6792,
+    "text": "to a type of frontotemporal dementia with Parkinsonism; in the brains of affected patients, abnormal tau filaments were found in both neurons and glial cells. As of 2023, 65 different mutations had been identified that are involved in neurodegenerative tauopathies. === Traumatic brain injury ===\nTraumatic brain injury can refer to acute injury that generally occurs once (such as in automobile accidents) or chronic repetitive brain injury as occurs in boxing and certain other sports in which concussions are common, such as American football. In cases of severe, acute traumatic brain injury, the protein amyloid beta (Aβ) (which is associated with amyloid plaques) can accumulate in the brain, often in the absence of tauopathy; in contrast, tauopathy with neurofibrillary tangles and neuropil threads is the main abnormality following repetitive mild brain injury (a disorder referred to as chronic traumatic encephalopathy (CTE)), (previously called dementia pugilistica). The distribution of tau pathology in CTE differs from that in other neurodegenerative disorders such as Alzheimer's disease. In CTE, the early appearance of hyperphosphorylated tau in neurons (and astrocytes) is most obvious around blood vessels and in the depths of the sulci, where the shear forces during head impact are most impactful.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk006",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 6,
+    "num_chunks_in_article": 14,
+    "word_count": 174,
+    "char_start": 6542,
+    "char_end": 7633,
+    "text": "disorders such as Alzheimer's disease. In CTE, the early appearance of hyperphosphorylated tau in neurons (and astrocytes) is most obvious around blood vessels and in the depths of the sulci, where the shear forces during head impact are most impactful. These forces are thought to cause elongated structures such as blood vessels and axons to stretch abnormally, stimulating the abnormal accumulation of tau within cells. As CTE advances, tauopathy appears in an increasing number of brain areas. === Aluminium ===\nThe idea that there is a link between aluminium (aluminum) exposure and the formation of neurofibrillary tangles has floated around the scientific community for some time without having been definitively proven or disproven. Aluminium is a metal that has no known function in living systems, and it is well known to be neurotoxic in high doses. It is the most ubiquitous metal in the earth's crust, so it is rather hard to avoid; the most common sources of aluminium exposure in humans are food, drinking water, and inhalation (aluminium exposure via vaccines is negligible).",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk007",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 7,
+    "num_chunks_in_article": 14,
+    "word_count": 204,
+    "char_start": 7393,
+    "char_end": 8724,
+    "text": "high doses. It is the most ubiquitous metal in the earth's crust, so it is rather hard to avoid; the most common sources of aluminium exposure in humans are food, drinking water, and inhalation (aluminium exposure via vaccines is negligible). Large amounts of aluminium have long been known to be toxic; for instance, in the early days of treatment, people undergoing hemodialysis for kidney failure were exposed to high levels of aluminium as part of the treatment, sometimes causing a serious disorder known as dialysis encephalopathy in which seizures and cognitive dysfunction are present. Aluminium has been largely eliminated from dialysis treatments, so that today the risk of encephalopathy has been greatly reduced. In 1965, researchers injected aluminium into the brains of rabbits and noted that neurons developed inclusions that superficially resembled the neurofibrillary tangles of Alzheimer's disease. Subsequent research, however, has shown that the cytopathology caused by aluminium are different from that in Alzheimer's disease. Studies have detected aluminium in tangle-bearing neurons from Alzheimer patients, but it is not certain if the aluminium caused the tangles or simply binds to them, and the idea that aluminium is a cause of Alzheimer's disease per se has failed to gain wide acceptance in the field.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk008",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 8,
+    "num_chunks_in_article": 14,
+    "word_count": 213,
+    "char_start": 8504,
+    "char_end": 9838,
+    "text": "Alzheimer patients, but it is not certain if the aluminium caused the tangles or simply binds to them, and the idea that aluminium is a cause of Alzheimer's disease per se has failed to gain wide acceptance in the field. In addition, many other metals have been suggested to be risk factors for Alzheimer's disease, including zinc, copper, mercury, manganese, cadmium, and magnesium. Given the current state of knowledge, it is reasonable to conclude that excessive aluminium is toxic to the brain, that it can cause seizures and dementia, and that it can induce abnormalities in neurons, but it does not appear to engender the neurofibrillary tangles that characterize naturally occurring human neurodegenerative disorders such as Alzheimer's disease. == Pathology ==\nIt has been shown that the degree of cognitive impairment in diseases such as AD is significantly correlated with the presence of neurofibrillary tangles. === Neuron loss ===\nTraditionally believed to play a major role in neuron loss, NFTs are an early event in pathologies such as Alzheimer's disease, and as more NFTs form, there is substantially more neuron loss. However, it has been shown that there is significant neuron loss before the formation of neurofibrillary tangles, and that NFTs account for only a small proportion (around 8.1%) of this neuron loss.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk009",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 9,
+    "num_chunks_in_article": 14,
+    "word_count": 203,
+    "char_start": 9592,
+    "char_end": 10952,
+    "text": "NFTs form, there is substantially more neuron loss. However, it has been shown that there is significant neuron loss before the formation of neurofibrillary tangles, and that NFTs account for only a small proportion (around 8.1%) of this neuron loss. Coupled with the longevity of neurons containing NFTs, it is likely that some other factor is primarily responsible for the bulk of neuron loss in these diseases, not the formation of neurofibrillary tangles. === Primary age-related tauopathy vs. classical Alzheimer's ===\nIt is currently unclear as to whether or not primary age-related tauopathy (PART), a term in which includes some cases formerly referred to as neurofibrillary tangle-predominant dementia (NFTPD) or tangle-only dementia, is a variant of the traditional Alzheimer's disease, or a distinct entity. Characterized by later onset and milder cognitive impairment, the distribution of NFT pathology is more closely related to that found in centenarians showing no or limited cognitive impairment. NFTs are generally limited to allocortical/limbic regions of the brain with limited progression to the neocortex but a greater density in the allocortical/hippocampal region. Plaques are generally absent. === Alzheimer disease with concomitant dementia with Lewy bodies (AD+DLB) ===\nThe degree of NFT involvement in AD is defined by Braak staging.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk010",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 10,
+    "num_chunks_in_article": 14,
+    "word_count": 215,
+    "char_start": 10683,
+    "char_end": 12115,
+    "text": "limited progression to the neocortex but a greater density in the allocortical/hippocampal region. Plaques are generally absent. === Alzheimer disease with concomitant dementia with Lewy bodies (AD+DLB) === The degree of NFT involvement in AD is defined by Braak staging. Braak stages I and II are used when NFT involvement is confined mainly to the transentorhinal region of the brain. Stages III and IV are indicated when there is involvement of limbic regions such as the hippocampus, and V and VI when there's extensive neocortical involvement. This should not be confused with the degree of senile plaque involvement, which progresses differently. Neurofibrillary tangle and modified Braak scores were lower in AD+DLB, however, neocortical NFT scores show markedly different patterns between AD+DLB and Classical Alzheimer's. In pure AD, NFT are predominantly found at a high frequency: In AD+DLB, the distribution of NFT frequency was found to be bimodal: NFTs were either frequent or few to absent. Additionally, neocortical NFT frequency in the AD+DLB group tended to parallel the severity of other types of tau cytopathology. === Link to aggression and depression in people living with Alzheimer's disease ===\nA recent study looked for correlation between the quantitative aspects of Alzheimer's disease (neuron loss, neuritic plaque and neurofibrillary tangle load) and aggression frequently found in Alzheimer's patients.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk011",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 11,
+    "num_chunks_in_article": 14,
+    "word_count": 220,
+    "char_start": 11826,
+    "char_end": 13342,
+    "text": "Link to aggression and depression in people living with Alzheimer's disease === A recent study looked for correlation between the quantitative aspects of Alzheimer's disease (neuron loss, neuritic plaque and neurofibrillary tangle load) and aggression frequently found in Alzheimer's patients. It was found that only an increase in neurofibrillary tangle load was associated with severity of aggression and chronic aggression in Alzheimer's patients. While this study does indicate a correlation between NFT load and severity of aggression, it does not provide a causative argument. Research has also indicated that patients with AD and comorbid depression show higher levels of neurofibrillary tangle formation than individuals with AD but no depression. Comorbid depression increased the odds for advanced neuropathologic disease stage even when controlling for age, gender, education and cognitive function. == Treatment ==\n\n\n=== Statins ===\nStatins have been shown to reduce the neurofibrillary tangle burden in mouse models, likely due to their anti-inflammatory capacities. === Cyclin-dependent kinase 5 ===\nCyclin-dependent kinase 5 (CDK5) is a kinase that has been previously hypothesized to contribute to tau pathologies. RNA interference (RNAi) mediated silencing of the CDK5 gene has been proposed as a novel therapeutic strategy against tau pathology, such as neurofibrillary tangles. Knockdown of CDK5 has been shown to reduce the phosphorylation of tau in primary neuronal cultures and in mouse models.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk012",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 12,
+    "num_chunks_in_article": 14,
+    "word_count": 212,
+    "char_start": 13095,
+    "char_end": 14520,
+    "text": "silencing of the CDK5 gene has been proposed as a novel therapeutic strategy against tau pathology, such as neurofibrillary tangles. Knockdown of CDK5 has been shown to reduce the phosphorylation of tau in primary neuronal cultures and in mouse models. Furthermore, this silencing showed a dramatic reduction in the number of neurofibrillary tangles. However, in conditions such as Alzheimer's disease, only about 1% is hereditary, and therefore RNAi therapy may be inadequate for addressing the needs of the majority of those who have this disease. === Lithium ===\nLithium has been shown to decrease the phosphorylation of tau. Lithium treatment has been shown to reduce the density of neurofibrillary tangles in transgenic models in the hippocampus and spinal cord. Despite the decrease in density of NFTs, motor and memory  deficits were not seen to improve following treatment. Additionally, no preventive effects have been seen in patients undergoing lithium treatment. === Curcumin ===\nCurcumin has been shown to reduce memory deficit and tau monomers in animal models, however no clinical trials have shown curcumin to remove tau from the brain. == Other conditions ==\nProgressive supranuclear palsy although with straight filament rather than PHF tau\nDementia pugilistica (chronic traumatic encephalopathy)\nFrontotemporal dementia and parkinsonism linked to chromosome 17 however without detectable β-amyloid plaques.",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  },
+  {
+    "chunk_id": "wikipedia_neurofibrillary_tangle__chunk013",
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "source_type": "wikipedia",
+    "title": "Neurofibrillary tangle",
+    "chunk_index": 13,
+    "num_chunks_in_article": 14,
+    "word_count": 131,
+    "char_start": null,
+    "char_end": null,
+    "text": "curcumin to remove tau from the brain. == Other conditions == Progressive supranuclear palsy although with straight filament rather than PHF tau Dementia pugilistica (chronic traumatic encephalopathy) Frontotemporal dementia and parkinsonism linked to chromosome 17 however without detectable β-amyloid plaques. Lytico-Bodig disease (Parkinson-dementia complex of Guam)\nGanglioglioma and gangliocytoma\nMeningioangiomatosis\nSubacute sclerosing panencephalitis\nAs well as lead encephalopathy, tuberous sclerosis, Pantothenate kinase-associated neurodegeneration, and lipofuscinosis\n\n\n== See also ==\nProteopathy\n\n\n== References ==\n\n\n== External links ==\nPathologic page about Neurofibrillary tangles Archived 2015-09-24 at the Wayback Machine, by the University of Oklahoma. http://www.termedia.pl/magazine.php?magazine_id=20&article_id=5368&magazine_subpage=ABSTRACT\nhttps://web.archive.org/web/20051028184424/http://www.lifesci.sussex.ac.uk/home/Julian_Thorpe/ad_cyto.htm#tau\nIt Takes Tau to Tangle : Plaques, Tangles and Neurodegenerative Disease (requires Flash video software)\nThe Truth about Neurofibrillary Tangles (Flash video)\nNeurofibrillary Tangles - a definition (Flash video)\nNeurofibrillary Tangles in Alzheimer's Disease (Flash video)",
+    "metadata": {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "title": "Neurofibrillary tangle",
+      "pageid": 2374961,
+      "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle"
+    }
+  }
+]

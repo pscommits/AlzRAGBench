@@ -1,0 +1,36 @@
+[
+  {
+    "chunk_id": "pubmed_31753135__chunk000",
+    "article_id": "pubmed_31753135",
+    "source_type": "pubmed",
+    "title": "Alzheimer's disease.",
+    "chunk_index": 0,
+    "num_chunks_in_article": 1,
+    "word_count": 218,
+    "char_start": null,
+    "char_end": null,
+    "text": "Title: Alzheimer's disease. Alzheimer's disease (AD) dementia refers to a particular onset and course of cognitive and functional decline associated with age together with a particular neuropathology. It was first described by Alois Alzheimer in 1906 about a patient whom he first encountered in 1901. Modern clinical diagnostic criteria have been developed, and criteria have also been proposed to recognize preclinical (or presymptomatic) stages of the disease with the use of biomarkers. The primary neuropathology was described by Alzheimer, and in the mid-1980s subsequently evolved into a more specific neuropathologic definition that recognizes the comorbid neuropathologies that frequently contribute to clinical dementia. Alzheimer's disease is now the most common form of neurodegenerative dementia in the United States with a disproportionate disease burden in minority populations. Deficits in the ability to encode and store new memories characterizes the initial stages of the disease. Subsequent progressive changes in cognition and behavior accompany the later stages. Changes in amyloid precursor protein (APP) cleavage and production of the APP fragment beta-amyloid (Aβ) along with hyperphosphorylated tau protein aggregation coalesce to cause reduction in synaptic strength, synaptic loss, and neurodegeneration. Metabolic, vascular, and inflammatory changes, as well as comorbid pathologies are key components of the disease process. Symptomatic treatment offers a modest, clinically measurable effect in cognition, but disease-modifying therapies are desperately needed.",
+    "metadata": {
+      "pmid": "31753135",
+      "title": "Alzheimer's disease.",
+      "authors": [
+        "Jose A Soria Lopez",
+        "Hector M González",
+        "Gabriel C Léger"
+      ],
+      "journal": "Handbook of clinical neurology",
+      "year": "2019",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Female",
+        "Humans",
+        "Male"
+      ],
+      "doi": "10.1016/B978-0-12-804766-8.00013-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31753135/",
+      "subtopic": "diagnosis_criteria",
+      "source_type": "pubmed",
+      "article_id": "pubmed_31753135"
+    }
+  }
+]

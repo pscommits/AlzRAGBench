@@ -1,0 +1,61 @@
+Title: Cholinesterase inhibitor
+URL: https://en.wikipedia.org/wiki/Cholinesterase_inhibitor
+
+Cholinesterase inhibitors (ChEIs), also known as anti-cholinesterase, are chemicals that prevent the breakdown of the neurotransmitter acetylcholine or butyrylcholine by cholinesterase. This increases the amount of the acetylcholine or butyrylcholine in the synaptic cleft that can bind to muscarinic receptors, nicotinic receptors and others. This group of inhibitors is divided into two subgroups, acetylcholinesterase inhibitors (AChEIs) and butyrylcholinesterase inhibitors (BChEIs).
+ChEIs may be used as drugs for Alzheimer's and myasthenia gravis, and also as chemical weapons and insecticides. Side effects when used as drugs may include loss of appetite, nausea, vomiting, loose stools, vivid dreams at night, dehydration, rash, bradycardia, peptic ulcer disease, seizures, weight loss, rhinorrhea, salivation, muscle cramps, and fasciculations.
+ChEIs are indirect-acting parasympathomimetic drugs.
+ChEls are widely used as chemical weapons. Since November 2019 the group of ACheIs known as Novichoks have been banned as agents of warfare under the Chemical Weapons Convention. Novichok agents are neurotoxic organophosphorus compounds and are considered more potent than VX gas, also a neurotoxic organophosphorus compound.
+
+
+== Medical use ==
+
+While 4 ChEIs are approved in the US for the treatment of Alzheimer's Disease, only three of these are available commercially. The three available are rivastigmine, donepezil, and galantamine, while tacrine is not. They are generally used to treat Alzheimer's disease and dementia. If a benefit occurs, it is generally during the second or third month after starting.
+It is difficult to determine which ChEI has greater efficacy, due to design flaws in head-to-head comparison studies.
+Pyridostigmine is used in the treatment of myasthenia gravis.
+Neostigmine is used in combination with a muscarinic antagonist to reverse the effects of non-depolarizing muscle relaxants e.g. rocuronium bromide
+
+
+== Cholinesterase inhibitor toxicity ==
+
+Common side effects of one ChEI include insomnia, nausea and vomiting, accidental injury, headache, dizziness, bradycardia, hypotension, ecchymosis, and sleep disturbance.
+
+
+== Binding affinity ==
+
+
+=== Acetylcholinesterase inhibitors ===
+Donepezil, phenserine, huperzine A, and BW284c51 are selective AChE inhibitors.
+
+
+=== Butyrylcholinesterase inhibitor ===
+Tetra (monoisopropyl) pyrophosphoramide (Iso-OMPA) and ethopropazine are selective BChE inhibitors.
+
+
+=== AChE and BChE inhibitor ===
+Paraoxon and rivastigmine are both acetylcholinesterase and butyrylcholinesterase inhibitors.
+In 2015, the United States Food and Drug Administration's Adverse Event Reporting System database compared rivastigmine to the other ChEI drugs donepezil and galantamine found that rivastigmine was associated with a higher frequency of reports of death as an adverse event.
+
+
+=== Acetylcholinesterase inhibitors and nicotinic receptor modulator ===
+
+Galantamine might be less well tolerated than donepezil and rivastigmine.
+
+
+== Chemical weapons ==
+
+
+=== Assassination Attempt ===
+Cholinesterase inhibitors came to a public attention in 2020 when Russian opposition and dissent figure Alexei Navalny was treated in Berlin Charité hospital for poisoning by a Russian-made nerve agent which is known since 2019 as belonging to the Novichok agents subgroup of ChEI.
+
+
+== See also ==
+Organophosphate and carbamate
+
+
+== Further reading ==
+Institute, National; (UK), Care Excellence (2019-12-27). Cholinesterase inhibitors and memantine for dementia. National Institute for Health and Care Excellence (NICE). Retrieved 2019-12-27. {{cite book}}: |website= ignored (help)
+Parsons, Chris G.; Danysz, Wojciech; Dekundy, Andrzej; Pulte, Irena (2013-05-09). "Memantine and Cholinesterase Inhibitors: Complementary Mechanisms in the Treatment of Alzheimer's Disease". Neurotoxicity Research. 24 (3). Springer Science and Business Media LLC: 358–369. doi:10.1007/s12640-013-9398-z. ISSN 1029-8428. PMC 3753463. PMID 23657927.
+Meng, Yan‑Hong; Wang, Pan‑Pan; Song, Ya‑Xue; Wang, Jian‑Hua (2019-03-01). "Cholinesterase inhibitors and memantine for Parkinson's disease dementia and Lewy body dementia: A meta‑analysis". Experimental and Therapeutic Medicine. 17 (3): 1611–1624. doi:10.3892/etm.2018.7129. ISSN 1792-0981. PMC 6364145. PMID 30783428. Retrieved 2019-12-27.
+
+
+== References ==

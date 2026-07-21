@@ -1,0 +1,194 @@
+{
+  "chunk_size_words": 220,
+  "overlap_words": 40,
+  "num_articles": 31,
+  "total_chunks": 287,
+  "articles": [
+    {
+      "article_id": "pubmed_12672860",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_12672860__chunks.json"
+    },
+    {
+      "article_id": "pubmed_21371747",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_21371747__chunks.json"
+    },
+    {
+      "article_id": "pubmed_23276979",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_23276979__chunks.json"
+    },
+    {
+      "article_id": "pubmed_26827786",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_26827786__chunks.json"
+    },
+    {
+      "article_id": "pubmed_26921134",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_26921134__chunks.json"
+    },
+    {
+      "article_id": "pubmed_30135715",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_30135715__chunks.json"
+    },
+    {
+      "article_id": "pubmed_31753135",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_31753135__chunks.json"
+    },
+    {
+      "article_id": "pubmed_33004510",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_33004510__chunks.json"
+    },
+    {
+      "article_id": "pubmed_33035532",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_33035532__chunks.json"
+    },
+    {
+      "article_id": "pubmed_33340485",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_33340485__chunks.json"
+    },
+    {
+      "article_id": "pubmed_33986301",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_33986301__chunks.json"
+    },
+    {
+      "article_id": "pubmed_34101789",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_34101789__chunks.json"
+    },
+    {
+      "article_id": "pubmed_34456336",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_34456336__chunks.json"
+    },
+    {
+      "article_id": "pubmed_35301183",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_35301183__chunks.json"
+    },
+    {
+      "article_id": "pubmed_36911732",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_36911732__chunks.json"
+    },
+    {
+      "article_id": "pubmed_37955845",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_37955845__chunks.json"
+    },
+    {
+      "article_id": "pubmed_37972428",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_37972428__chunks.json"
+    },
+    {
+      "article_id": "pubmed_38849944",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_38849944__chunks.json"
+    },
+    {
+      "article_id": "pubmed_38967222",
+      "source_type": "pubmed",
+      "num_chunks": 1,
+      "chunks_file": "pubmed_38967222__chunks.json"
+    },
+    {
+      "article_id": "pubmed_39889875",
+      "source_type": "pubmed",
+      "num_chunks": 2,
+      "chunks_file": "pubmed_39889875__chunks.json"
+    },
+    {
+      "article_id": "textbook_statpearls_alzheimer_disease",
+      "source_type": "textbook",
+      "num_chunks": 43,
+      "chunks_file": "textbook_statpearls_alzheimer_disease__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_alzheimers_disease",
+      "source_type": "wikipedia",
+      "num_chunks": 58,
+      "chunks_file": "wikipedia_alzheimers_disease__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_amyloid_beta",
+      "source_type": "wikipedia",
+      "num_chunks": 11,
+      "chunks_file": "wikipedia_amyloid_beta__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_apolipoprotein_e",
+      "source_type": "wikipedia",
+      "num_chunks": 12,
+      "chunks_file": "wikipedia_apolipoprotein_e__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_cholinesterase_inhibitor",
+      "source_type": "wikipedia",
+      "num_chunks": 4,
+      "chunks_file": "wikipedia_cholinesterase_inhibitor__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_dementia",
+      "source_type": "wikipedia",
+      "num_chunks": 70,
+      "chunks_file": "wikipedia_dementia__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_lecanemab",
+      "source_type": "wikipedia",
+      "num_chunks": 9,
+      "chunks_file": "wikipedia_lecanemab__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_memantine",
+      "source_type": "wikipedia",
+      "num_chunks": 17,
+      "chunks_file": "wikipedia_memantine__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_mild_cognitive_impairment",
+      "source_type": "wikipedia",
+      "num_chunks": 8,
+      "chunks_file": "wikipedia_mild_cognitive_impairment__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_neurofibrillary_tangle",
+      "source_type": "wikipedia",
+      "num_chunks": 14,
+      "chunks_file": "wikipedia_neurofibrillary_tangle__chunks.json"
+    },
+    {
+      "article_id": "wikipedia_tau_protein",
+      "source_type": "wikipedia",
+      "num_chunks": 14,
+      "chunks_file": "wikipedia_tau_protein__chunks.json"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "pubmed_37955845__chunk000",
+    "article_id": "pubmed_37955845",
+    "source_type": "pubmed",
+    "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease.",
+    "chunk_index": 0,
+    "num_chunks_in_article": 1,
+    "word_count": 205,
+    "char_start": 0,
+    "char_end": 1476,
+    "text": "Title: Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease. Two monoclonal antibodies (mAbs), aducanumab and lecanemab, have received accelerated approval from the US FDA for initiation of treatment in early Alzheimer's disease patients who have proven β-amyloid pathology (Aβ). One of these, lecanemab, has subsequently received full approval and other monoclonal antibodies are poised for positive review and approval. Anti-amyloid mAbs share the feature of producing a marked reduction in total brain Aβ revealed by amyloid positron emission tomography. Trials associated with slowing of cognitive decline have achieved a reduction in measurable plaque Aβ in the range of 15-25 centiloids; trials of agents that did not reach this threshold were not associated with cognitive benefit. mAbs have differences in terms of titration schedules, MRI monitoring schedules for amyloid-related imaging abnormalities (ARIA), and continuing versus interrupted therapy. The approximate 30% slowing of decline observed with mAbs is clinically meaningful in terms of extended cognitive integrity and delay of onset of the more severe dementia phases of Alzheimer's disease. Approval of these agents initiates a new era in Alzheimer's disease therapeutics with disease-modifying properties. Further advances are needed, i.e. greater efficacy, improved safety, enhanced convenience, and better understanding of ill-understood observations such as brain volume loss.",
+    "metadata": {
+      "pmid": "37955845",
+      "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease.",
+      "authors": [
+        "Jeffrey Cummings",
+        "Amanda M Leisgang Osse",
+        "Davis Cammann",
+        "Jayde Powell",
+        "Jingchun Chen"
+      ],
+      "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+      "year": "2024",
+      "mesh_terms": [
+        "Humans",
+        "Alzheimer Disease",
+        "Antibodies, Monoclonal",
+        "Amyloid beta-Peptides"
+      ],
+      "doi": "10.1007/s40259-023-00633-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37955845/",
+      "subtopic": "treatment_immunotherapy",
+      "source_type": "pubmed",
+      "article_id": "pubmed_37955845"
+    }
+  }
+]

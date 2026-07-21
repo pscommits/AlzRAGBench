@@ -1,0 +1,26 @@
+{
+  "pmid": "37972428",
+  "title": "Economic Burden of Alzheimer's Disease: A Systematic Review.",
+  "abstract": "OBJECTIVES: Alzheimer's disease (AD) has become one of the most prevalent neurodegenerative disorders among the elderly. The global cost of dementia is expected to reach US $2 trillion in 2030. In this systematic review, existing evidence on the cost of dementia specific to AD is appraised.\nMETHODS: A comprehensive search was done on 3 databases, namely PubMed, ScienceDirect, and Web of Science, to identify original cost-of-illness studies that only evaluate the economic burden of AD up to August 2022. The risk of bias in the studies was assessed using Consolidated Health Economic Evaluation Reporting Standards 2022 criteria. Cost articles without specifying etiology of AD or those in non-English were excluded.\nRESULTS: Twelve of 5536 studies met the inclusion criteria. The total annual cost of AD per capita ranged from US $468.28 in mild AD to US $171 283.80 in severe AD. The cost of care raised nonlinearly with disease severity. Indirect caregiving cost represented the main contributor to societal cost in community-dwelling patients. When special caregiving accommodation was opted in daily care, it results in cost shifting from indirect cost to direct nonmedical cost. Formal caregiving accommodation caused increase in direct cost up to 67.3% of overall economic burden of the disease.\nCONCLUSIONS: AD exerts a huge economic burden on patients and caregivers. Overall rise of each cost component could be anticipated with disease deterioration. Choice of special caregiving accommodation could reduce caregiver's productivity loss but increase the direct nonmedical expenditure of the disease from societal perspective.",
+  "authors": [
+    "Lyn Xuan Tay",
+    "Siew Chin Ong",
+    "Lynn Jia Tay",
+    "Trecia Ng",
+    "Thaigarajan Parumasivam"
+  ],
+  "journal": "Value in health regional issues",
+  "year": "2024",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Humans",
+    "Cost of Illness",
+    "Caregivers",
+    "Health Care Costs"
+  ],
+  "doi": "10.1016/j.vhri.2023.09.008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37972428/",
+  "subtopic": "caregiving",
+  "source_type": "pubmed",
+  "article_id": "pubmed_37972428"
+}

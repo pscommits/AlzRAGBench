@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "pubmed_35301183__chunk000",
+    "article_id": "pubmed_35301183",
+    "source_type": "pubmed",
+    "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+    "chunk_index": 0,
+    "num_chunks_in_article": 2,
+    "word_count": 213,
+    "char_start": 0,
+    "char_end": 1454,
+    "text": "Title: Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies. OBJECTIVE: Physical activity (PA) is associated with a decreased incidence of dementia, but much of the evidence comes from short follow-ups prone to reverse causation. This meta-analysis investigates the effect of study length on the association. DESIGN: A systematic review and meta-analysis. Pooled effect sizes, dose-response analysis and funnel plots were used to synthesise the results. DATA SOURCES: CINAHL (last search 19 October 2021), PsycInfo, Scopus, PubMed, Web of Science (21 October 2021) and SPORTDiscus (26 October 2021). ELIGIBILITY CRITERIA: Studies of adults with a prospective follow-up of at least 1 year, a valid cognitive measure or cohort in mid-life at baseline and an estimate of the association between baseline PA and follow-up all-cause dementia, Alzheimer's disease or vascular dementia were included (n=58). RESULTS: PA was associated with a decreased risk of all-cause dementia (pooled relative risk 0.80, 95% CI 0.77 to 0.84, n=257 983), Alzheimer's disease (0.86, 95% CI 0.80 to 0.93, n=128 261) and vascular dementia (0.79, 95% CI 0.66 to 0.95, n=33 870), even in longer follow-ups (≥20 years) for all-cause dementia and Alzheimer's disease. Neither baseline age, follow-up length nor study quality significantly moderated the associations.",
+    "metadata": {
+      "pmid": "35301183",
+      "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+      "authors": [
+        "Paula Iso-Markku",
+        "Urho M Kujala",
+        "Keegan Knittle",
+        "Juho Polet",
+        "Eero Vuoksimaa",
+        "Katja Waller"
+      ],
+      "journal": "British journal of sports medicine",
+      "year": "2022",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Dementia, Vascular",
+        "Disease Progression",
+        "Exercise",
+        "Humans",
+        "Prospective Studies",
+        "Protective Factors"
+      ],
+      "doi": "10.1136/bjsports-2021-104981",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35301183/",
+      "subtopic": "risk_factors_lifestyle",
+      "source_type": "pubmed",
+      "article_id": "pubmed_35301183"
+    }
+  },
+  {
+    "chunk_id": "pubmed_35301183__chunk001",
+    "article_id": "pubmed_35301183",
+    "source_type": "pubmed",
+    "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+    "chunk_index": 1,
+    "num_chunks_in_article": 2,
+    "word_count": 109,
+    "char_start": null,
+    "char_end": null,
+    "text": "0.80 to 0.93, n=128 261) and vascular dementia (0.79, 95% CI 0.66 to 0.95, n=33 870), even in longer follow-ups (≥20 years) for all-cause dementia and Alzheimer's disease. Neither baseline age, follow-up length nor study quality significantly moderated the associations. Dose-response meta-analyses revealed significant linear, spline and quadratic trends within estimates for all-cause dementia incidence, but only a significant spline trend for Alzheimer's disease. Funnel plots showed possible publication bias for all-cause dementia and Alzheimer's disease. CONCLUSION: PA was associated with lower incidence of all-cause dementia and Alzheimer's disease, even in longer follow-ups, supporting PA as a modifiable protective lifestyle factor, even after reducing the effects of reverse causation.",
+    "metadata": {
+      "pmid": "35301183",
+      "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+      "authors": [
+        "Paula Iso-Markku",
+        "Urho M Kujala",
+        "Keegan Knittle",
+        "Juho Polet",
+        "Eero Vuoksimaa",
+        "Katja Waller"
+      ],
+      "journal": "British journal of sports medicine",
+      "year": "2022",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Dementia, Vascular",
+        "Disease Progression",
+        "Exercise",
+        "Humans",
+        "Prospective Studies",
+        "Protective Factors"
+      ],
+      "doi": "10.1136/bjsports-2021-104981",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35301183/",
+      "subtopic": "risk_factors_lifestyle",
+      "source_type": "pubmed",
+      "article_id": "pubmed_35301183"
+    }
+  }
+]

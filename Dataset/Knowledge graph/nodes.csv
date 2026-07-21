@@ -1,0 +1,55 @@
+nodeId:ID,name,type:LABEL,description
+AD,Alzheimer's Disease,Disease,Most common cause of dementia worldwide; biologically defined by amyloid plaques and neurofibrillary tangles
+Dementia,Dementia,Disease,Umbrella syndrome of acquired cognitive decline affecting daily function
+VascularDementia,Vascular Dementia,Disease,"Second most common dementia subtype, driven by cerebrovascular disease"
+MixedDementia,Mixed Dementia,Disease,"Co-occurrence of more than one dementia pathology, most often AD plus vascular dementia"
+MCI,Mild Cognitive Impairment,Disease,Prodromal cognitive decline stage; amnestic MCI often precedes AD
+DownSyndrome,Down Syndrome,Disease,Trisomy 21 condition; extra APP gene copy links it to the amyloid hypothesis
+AmyloidBeta,Amyloid-beta (Abeta),Protein,Peptide fragment of APP that aggregates into amyloid plaques; core AD biomarker
+APP,Amyloid Precursor Protein / APP gene,Protein_Gene,Transmembrane protein cleaved to release amyloid-beta; gene on chromosome 21
+TauProtein,Tau Protein,Protein,Microtubule-stabilizing protein; hyperphosphorylated form aggregates into tangles
+NFT,Neurofibrillary Tangles,Pathology,Intracellular aggregates of hyperphosphorylated tau; hallmark AD pathology
+AmyloidPlaques,Amyloid Plaques,Pathology,Extracellular aggregates of amyloid-beta fibrils; hallmark AD pathology
+APOE,Apolipoprotein E (APOE),Protein_Gene,Lipid-transport protein/gene; allele status is the major genetic risk modifier for sporadic AD
+APOE_e4,APOE epsilon-4 allele,GeneVariant,Strongest common genetic risk factor for sporadic AD
+APOE_e2,APOE epsilon-2 allele,GeneVariant,Strongest common genetic protective factor against AD
+PSEN1,Presenilin 1 (PSEN1),Gene,Gene on chromosome 14; mutations cause autosomal-dominant familial AD
+PSEN2,Presenilin 2 (PSEN2),Gene,Gene on chromosome 1; mutations cause autosomal-dominant familial AD
+Chr21,Chromosome 21,Chromosome,Carries the APP gene; triplicated in Down syndrome
+Chr14,Chromosome 14,Chromosome,Carries the PSEN1 gene
+Chr1,Chromosome 1,Chromosome,Carries the PSEN2 gene
+Hippocampus,Hippocampus,BrainRegion,Brain region for memory formation; earliest major atrophy site in AD
+Microglia,Microglia,CellType,Brain innate-immune cells; mediate neuroinflammation and interact with Abeta and tau
+Neuroinflammation,Neuroinflammation,Mechanism,"Innate immune activation implicated in AD pathogenesis, partly independent of amyloid"
+GlymphaticSystem,Glymphatic System,Mechanism,"Brain waste-clearance system, most active during sleep; degrades with age"
+SleepDisturbance,Sleep Disturbance,RiskFactor,Impaired sleep architecture is a frequent antecedent of dementia onset
+SynapticDysfunction,Synaptic Dysfunction / Loss,Mechanism,Loss of synaptic homeostasis central to AD-associated cognitive decline
+AmyloidCascadeHypothesis,Amyloid Cascade Hypothesis,Theory,Hypothesis that amyloid-beta accumulation triggers downstream tau pathology and neurodegeneration
+NMDAReceptor,NMDA Receptor,MolecularTarget,Glutamate receptor; pathological overstimulation implicated in excitotoxic neurodegeneration
+GlutamateExcitotoxicity,Glutamate Excitotoxicity,Mechanism,"Pathological NMDA receptor overstimulation by glutamate, hypothesized to contribute to AD"
+Acetylcholine,Acetylcholine,Neurotransmitter,Neurotransmitter reduced in the AD brain; target of cholinesterase inhibitor therapy
+CholinesteraseInhibitors,Cholinesterase Inhibitors,DrugClass,Main symptomatic AD drug class; raises synaptic acetylcholine
+Donepezil,Donepezil,Drug,Reversible cholinesterase inhibitor used for symptomatic AD treatment
+Rivastigmine,Rivastigmine,Drug,Pseudo-irreversible cholinesterase inhibitor used for AD
+Galantamine,Galantamine,Drug,"Reversible cholinesterase inhibitor, less well tolerated than donepezil"
+Tacrine,Tacrine,Drug,First licensed cholinesterase inhibitor; withdrawn due to hepatotoxicity
+Hepatotoxicity,Hepatotoxicity,AdverseEffect,Liver toxicity that led to tacrine's discontinuation
+Memantine,Memantine,Drug,NMDA receptor antagonist used for moderate-to-severe AD
+AntiAmyloidAntibodies,Anti-Amyloid Monoclonal Antibodies,DrugClass,Disease-modifying antibody class that clears brain amyloid-beta
+Lecanemab,Lecanemab,Drug,"FDA-approved (2023) anti-amyloid antibody; slows cognitive decline, can cause ARIA"
+Aducanumab,Aducanumab,Drug,FDA accelerated-approval anti-amyloid antibody for early AD
+ARIA,Amyloid-Related Imaging Abnormalities (ARIA),AdverseEffect,Brain edema/microhemorrhage side effect of anti-amyloid antibody therapy
+FluidBiomarkers,"CSF / Plasma Biomarkers (Abeta42, tau)",Biomarker,Cerebrospinal fluid or plasma amyloid-beta and tau levels used for AD diagnosis
+AmyloidPET,Amyloid PET Imaging,Biomarker,In-vivo imaging technique that detects brain amyloid plaque burden
+TauPET,Tau PET Imaging,Biomarker,Imaging technique for tau pathology; aids differential diagnosis and trial selection
+MRIAtrophy,Structural MRI (atrophy),Biomarker,Detects hippocampal and cortical atrophy for diagnosis and disease tracking
+PhysicalActivity,Physical Activity,ProtectiveFactor,Associated with a meaningfully lower risk of AD and all-cause dementia
+CardiovascularRisk,Cardiovascular / Vascular Risk Factors,RiskFactor,Hypertension and vascular disease raise dementia and AD risk
+AirPollution,Air Pollution (particulate matter),RiskFactor,Fine particulate matter and related pollutants raise dementia and AD risk
+Aging,Aging,RiskFactor,The single greatest risk factor for AD and dementia generally
+FamilyHistory,Family History / Genetic Predisposition,RiskFactor,A first-degree relative with AD raises personal risk substantially
+CaregiverBurden,Caregiver Burden,SocialImpact,Indirect caregiving cost is the main driver of AD's societal cost
+EconomicBurden,Economic Burden of AD,SocialImpact,Global dementia care cost is projected to reach roughly $2 trillion by 2030
+SexDifferences,Sex / Gender Differences,ModifyingFactor,"Biological sex and gender modify AD risk, pathology burden, and resilience"
+MemoryLoss,Memory Loss,Symptom,Short-term memory loss is typically the earliest noticeable AD symptom
+CognitiveDecline,Cognitive Decline,Symptom,Progressive decline in cognition and function across AD stages

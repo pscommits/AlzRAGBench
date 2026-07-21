@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "pubmed_23276979__chunk000",
+    "article_id": "pubmed_23276979",
+    "source_type": "pubmed",
+    "title": "Genetics of familial and sporadic Alzheimer's disease.",
+    "chunk_index": 0,
+    "num_chunks_in_article": 1,
+    "word_count": 173,
+    "char_start": 0,
+    "char_end": 1127,
+    "text": "Title: Genetics of familial and sporadic Alzheimer's disease. Alzheimer's disease (AD) is an age-related progressive neurodegenerative disorder. A majority of cases manifest as a late onset sporadic form but genetically the disease is divided into familial cases and sporadic cases. The familial form is due to mutations in three major genes (amyloid precursor protein (APP) gene, presenilin1 (PSEN1) gene and presenilin 2 (PSEN2) gene). In contrast, many genetic and environmental factors may contribute to determining the sporadic AD form. Despite many years of research and great progress in the knowledge of the molecular pathogenesis of AD, a full understanding of the etiology of the sporadic form is still not yet in reach. Genome-wide association studies (GWASs) revealed the genetic complexity of the disease and recent studies suggested that epigenetic mechanisms may play an essential role in disease development. This review provides an overview of all the milestones in AD genetic research, as well as the new and promising approach, in order to better understand the genetic profile for predicting the risk of AD.",
+    "metadata": {
+      "pmid": "23276979",
+      "title": "Genetics of familial and sporadic Alzheimer's disease.",
+      "authors": [
+        "Irene Piaceri",
+        "Benedetta Nacmias",
+        "Sandro Sorbi"
+      ],
+      "journal": "Frontiers in bioscience (Elite edition)",
+      "year": "2013",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Amyloid beta-Protein Precursor",
+        "Apolipoproteins E",
+        "Genetic Predisposition to Disease",
+        "Genome-Wide Association Study",
+        "Humans",
+        "Models, Genetic",
+        "Mutation",
+        "Neurofibrillary Tangles",
+        "Presenilins"
+      ],
+      "doi": "10.2741/e605",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23276979/",
+      "subtopic": "genetics_familial",
+      "source_type": "pubmed",
+      "article_id": "pubmed_23276979"
+    }
+  }
+]

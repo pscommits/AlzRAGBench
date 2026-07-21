@@ -1,0 +1,36 @@
+{
+  "pmid": "12672860",
+  "title": "Memantine in moderate-to-severe Alzheimer's disease.",
+  "abstract": "BACKGROUND: Overstimulation of the N-methyl-D-aspartate (NMDA) receptor by glutamate is implicated in neurodegenerative disorders. Accordingly, we investigated memantine, an NMDA antagonist, for the treatment of Alzheimer's disease.\nMETHODS: Patients with moderate-to-severe Alzheimer's disease were randomly assigned to receive placebo or 20 mg of memantine daily for 28 weeks. The primary efficacy variables were the Clinician's Interview-Based Impression of Change Plus Caregiver Input (CIBIC-Plus) and the Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory modified for severe dementia (ADCS-ADLsev). The secondary efficacy end points included the Severe Impairment Battery and other measures of cognition, function, and behavior. Treatment differences between base line and the end point were assessed. Missing observations were imputed by using the most recent previous observation (the last observation carried forward). The results were also analyzed with only the observed values included, without replacing the missing values (observed-cases analysis).\nRESULTS: Two hundred fifty-two patients (67 percent women; mean age, 76 years) from 32 U.S. centers were enrolled. Of these, 181 (72 percent) completed the study and were evaluated at week 28. Seventy-one patients discontinued treatment prematurely (42 taking placebo and 29 taking memantine). Patients receiving memantine had a better outcome than those receiving placebo, according to the results of the CIBIC-Plus (P=0.06 with the last observation carried forward, P=0.03 for observed cases), the ADCS-ADLsev (P=0.02 with the last observation carried forward, P=0.003 for observed cases), and the Severe Impairment Battery (P<0.001 with the last observation carried forward, P=0.002 for observed cases). Memantine was not associated with a significant frequency of adverse events.\nCONCLUSIONS: Antiglutamatergic treatment reduced clinical deterioration in moderate-to-severe Alzheimer's disease, a phase associated with distress for patients and burden on caregivers, for which other treatments are not available.",
+  "authors": [
+    "Barry Reisberg",
+    "Rachelle Doody",
+    "Albrecht Stöffler",
+    "Frederick Schmitt",
+    "Steven Ferris",
+    "Hans Jörg Möbius"
+  ],
+  "journal": "The New England journal of medicine",
+  "year": "2003",
+  "mesh_terms": [
+    "Activities of Daily Living",
+    "Aged",
+    "Alzheimer Disease",
+    "Behavior",
+    "Cognition",
+    "Disease Progression",
+    "Excitatory Amino Acid Antagonists",
+    "Female",
+    "Humans",
+    "Male",
+    "Memantine",
+    "Middle Aged",
+    "N-Methylaspartate",
+    "Severity of Illness Index"
+  ],
+  "doi": "10.1056/NEJMoa013128",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12672860/",
+  "subtopic": "treatment_memantine",
+  "source_type": "pubmed",
+  "article_id": "pubmed_12672860"
+}

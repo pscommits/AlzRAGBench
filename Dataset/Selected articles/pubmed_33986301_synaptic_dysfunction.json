@@ -1,0 +1,30 @@
+{
+  "pmid": "33986301",
+  "title": "Alzheimer disease.",
+  "abstract": "Alzheimer disease (AD) is biologically defined by the presence of β-amyloid-containing plaques and tau-containing neurofibrillary tangles. AD is a genetic and sporadic neurodegenerative disease that causes an amnestic cognitive impairment in its prototypical presentation and non-amnestic cognitive impairment in its less common variants. AD is a common cause of cognitive impairment acquired in midlife and late-life but its clinical impact is modified by other neurodegenerative and cerebrovascular conditions. This Primer conceives of AD biology as the brain disorder that results from a complex interplay of loss of synaptic homeostasis and dysfunction in the highly interrelated endosomal/lysosomal clearance pathways in which the precursors, aggregated species and post-translationally modified products of Aβ and tau play important roles. Therapeutic endeavours are still struggling to find targets within this framework that substantially change the clinical course in persons with AD.",
+  "authors": [
+    "David S Knopman",
+    "Helene Amieva",
+    "Ronald C Petersen",
+    "Gäel Chételat",
+    "David M Holtzman",
+    "Bradley T Hyman",
+    "Ralph A Nixon",
+    "David T Jones"
+  ],
+  "journal": "Nature reviews. Disease primers",
+  "year": "2021",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Cognitive Dysfunction",
+    "Humans",
+    "Neurodegenerative Diseases",
+    "Neurofibrillary Tangles"
+  ],
+  "doi": "10.1038/s41572-021-00269-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33986301/",
+  "subtopic": "synaptic_dysfunction",
+  "source_type": "pubmed",
+  "article_id": "pubmed_33986301"
+}

@@ -1,0 +1,10 @@
+Title: The effects of microglia-associated neuroinflammation on Alzheimer's disease.
+Authors: Cuicui Wang, Shuai Zong, Xiaolin Cui, Xueying Wang, Shuang Wu, Le Wang, Yingchao Liu, Zhiming Lu
+Journal: Frontiers in immunology (2023)
+PMID: 36911732
+DOI: 10.3389/fimmu.2023.1117172
+MeSH Terms: Humans, Alzheimer Disease, Microglia, Neuroinflammatory Diseases, Amyloid beta-Peptides, Amyloidogenic Proteins
+URL: https://pubmed.ncbi.nlm.nih.gov/36911732/
+
+Abstract:
+Alzheimer's disease (AD) is defined as a severe chronic degenerative neurological disease in human. The pathogenic mechanism of AD has been convincingly elucidated by the "amyloid cascade hypothesis" with the main focus of the pathological accretion of β-amyloid (Aβ) peptides outside the cell. However, increasing evidence suggests that this hypothesis is weak in explaining the pathogenesis of AD. Neuroinflammation is crucial in the development of AD, which is proven by the elevated levels of inflammatory markers and the identification of AD risk genes relevant to the innate immune function. Here, we summarize the effects of microglia-mediated neuroinflammation on AD, focusing on the temporal and spatial changes in microglial phenotype, the interactions among microglia, Aβ, tau, and neurons, and the prospects and recent advances in neuroinflammation as a diagnostic and therapeutic target of AD.

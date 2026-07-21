@@ -1,0 +1,62 @@
+[
+  {
+    "article_id": "wikipedia_alzheimers_disease",
+    "title": "Alzheimer's disease",
+    "url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "chars": 65278
+  },
+  {
+    "article_id": "wikipedia_amyloid_beta",
+    "title": "Amyloid beta",
+    "url": "https://en.wikipedia.org/wiki/Amyloid_beta",
+    "chars": 11342
+  },
+  {
+    "article_id": "wikipedia_tau_protein",
+    "title": "Tau protein",
+    "url": "https://en.wikipedia.org/wiki/Tau_protein",
+    "chars": 15654
+  },
+  {
+    "article_id": "wikipedia_apolipoprotein_e",
+    "title": "Apolipoprotein E",
+    "url": "https://en.wikipedia.org/wiki/Apolipoprotein_E",
+    "chars": 12804
+  },
+  {
+    "article_id": "wikipedia_dementia",
+    "title": "Dementia",
+    "url": "https://en.wikipedia.org/wiki/Dementia",
+    "chars": 77239
+  },
+  {
+    "article_id": "wikipedia_mild_cognitive_impairment",
+    "title": "Mild cognitive impairment",
+    "url": "https://en.wikipedia.org/wiki/Mild_cognitive_impairment",
+    "chars": 8686
+  },
+  {
+    "article_id": "wikipedia_cholinesterase_inhibitor",
+    "title": "Cholinesterase inhibitor",
+    "url": "https://en.wikipedia.org/wiki/Cholinesterase_inhibitor",
+    "chars": 4354
+  },
+  {
+    "article_id": "wikipedia_memantine",
+    "title": "Memantine",
+    "url": "https://en.wikipedia.org/wiki/Memantine",
+    "chars": 18823
+  },
+  {
+    "article_id": "wikipedia_neurofibrillary_tangle",
+    "title": "Neurofibrillary tangle",
+    "url": "https://en.wikipedia.org/wiki/Neurofibrillary_tangle",
+    "chars": 15430
+  },
+  {
+    "article_id": "wikipedia_lecanemab",
+    "title": "Lecanemab",
+    "url": "https://en.wikipedia.org/wiki/Lecanemab",
+    "chars": 9638
+  }
+]

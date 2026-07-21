@@ -1,0 +1,10 @@
+Title: Glymphatic failure as a final common pathway to dementia.
+Authors: Maiken Nedergaard, Steven A Goldman
+Journal: Science (New York, N.Y.) (2020)
+PMID: 33004510
+DOI: 10.1126/science.abb8739
+MeSH Terms: Aging, Alzheimer Disease, Animals, Aquaporin 4, Cardiovascular Diseases, Glymphatic System, Humans, Lymphatic System, Mice, Polymorphism, Genetic, Prion Proteins, Protein Aggregates, Sleep, Sleep Wake Disorders
+URL: https://pubmed.ncbi.nlm.nih.gov/33004510/
+
+Abstract:
+Sleep is evolutionarily conserved across all species, and impaired sleep is a common trait of the diseased brain. Sleep quality decreases as we age, and disruption of the regular sleep architecture is a frequent antecedent to the onset of dementia in neurodegenerative diseases. The glymphatic system, which clears the brain of protein waste products, is mostly active during sleep. Yet the glymphatic system degrades with age, suggesting a causal relationship between sleep disturbance and symptomatic progression in the neurodegenerative dementias. The ties that bind sleep, aging, glymphatic clearance, and protein aggregation have shed new light on the pathogenesis of a broad range of neurodegenerative diseases, for which glymphatic failure may constitute a therapeutically targetable final common pathway.

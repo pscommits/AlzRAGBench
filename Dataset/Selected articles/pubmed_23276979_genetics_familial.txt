@@ -1,0 +1,10 @@
+Title: Genetics of familial and sporadic Alzheimer's disease.
+Authors: Irene Piaceri, Benedetta Nacmias, Sandro Sorbi
+Journal: Frontiers in bioscience (Elite edition) (2013)
+PMID: 23276979
+DOI: 10.2741/e605
+MeSH Terms: Alzheimer Disease, Amyloid beta-Protein Precursor, Apolipoproteins E, Genetic Predisposition to Disease, Genome-Wide Association Study, Humans, Models, Genetic, Mutation, Neurofibrillary Tangles, Presenilins
+URL: https://pubmed.ncbi.nlm.nih.gov/23276979/
+
+Abstract:
+Alzheimer's disease (AD) is an age-related progressive neurodegenerative disorder. A majority of cases manifest as a late onset sporadic form but genetically the disease is divided into familial cases and sporadic cases. The familial form is due to mutations in three major genes (amyloid precursor protein (APP) gene, presenilin1 (PSEN1) gene and presenilin 2 (PSEN2) gene). In contrast, many genetic and environmental factors may contribute to determining the sporadic AD form. Despite many years of research and great progress in the knowledge of the molecular pathogenesis of AD, a full understanding of the etiology of the sporadic form is still not yet in reach. Genome-wide association studies (GWASs) revealed the genetic complexity of the disease and recent studies suggested that epigenetic mechanisms may play an essential role in disease development. This review provides an overview of all the milestones in AD genetic research, as well as the new and promising approach, in order to better understand the genetic profile for predicting the risk of AD.

@@ -1,0 +1,92 @@
+Title: Lecanemab
+URL: https://en.wikipedia.org/wiki/Lecanemab
+
+Lecanemab, sold under the brand name Leqembi, is a monoclonal antibody medication used for the treatment of mild Alzheimer's disease. Lecanemab is an amyloid beta-directed antibody. It is given via intravenous infusion or subcutaneous injection. In clinical trials, it demonstrated small or no clinically significant efficacy in Alzheimer's disease. The most common side effects of lecanemab include headache, infusion-related reactions, and amyloid-related imaging abnormalities, a side effect known to occur with the class of antibodies targeting amyloid. Lecanemab was jointly developed by Eisai, Biogen, and Bioarctic.
+
+
+== Medical uses ==
+Lecanemab is indicated for the treatment of Alzheimer's disease in people who have mild cognitive impairment or mild dementia, but not in people who already have moderate or severe dementia.
+
+
+=== Efficacy ===
+A 2026 meta-analysis suggests that lecanemab has no effect in the treatment of Alzheimer's disease. A 2026 Cochrane review found no effect or at best small effect.
+
+
+== Adverse effects ==
+Lecanemab may cause harmful adverse effects. Lecanemab may cause amyloid-related imaging abnormalities (ARIA). ARIA is often asymptomatic, but serious and life-threatening events rarely may occur. ARIA most commonly presents as temporary swelling of the brain that usually resolves over time and may be accompanied by small spots of bleeding in or on the surface of the brain, though some people may have symptoms such as headache, confusion, dizziness, vision changes, nausea and seizure. 
+Compared to placebo, all doses of the drug caused accelerated brain shrinkage. However, one study indicates the brain volume reductions are consistent with amyloid plaque removal.
+
+
+== Pharmacology ==
+
+
+=== Mechanism of action ===
+
+Lecanemab is a humanized monoclonal antibody consisting of a humanized version of a mouse antibody, mAb158, that recognizes protofibrils and prevents amyloid beta deposition in animal models of Alzheimer's disease.
+
+
+== History ==
+In July 2022, the US Food and Drug Administration (FDA) accepted an application for accelerated approval for lecanemab.
+In September 2022, Biogen announced positive results from an ongoing phase III clinical trial.
+In November 2022, it was announced that the drug was a success in clinical trials and exceeded its goal in reaching primary endpoints.
+
+The efficacy of lecanemab was evaluated in a double-blind, placebo-controlled, parallel-group, dose-finding study of 856 participants with Alzheimer's disease. Treatment was initiated in participants whose disease was in the stage of mild cognitive impairment or mild dementia and who had confirmed presence of amyloid beta pathology. Participants receiving the treatment showed significant dose- and time-dependent reduction of amyloid beta plaque: Those receiving the approved dose of lecanemab, 10 milligrams/kilogram every two weeks, had a statistically significant reduction in brain amyloid plaque from baseline to week 79 compared with those receiving a placebo, who had no reduction of amyloid beta plaque.
+The FDA approved lecanemab in January 2023 via the accelerated approval pathway for the treatment of Alzheimer's disease. The FDA granted the application for lecanemab fast track, priority review, and breakthrough therapy designations. The approval of Leqembi was granted to Eisai R&D Management Co., Ltd. In July 2023, the FDA converted lecanemab to traditional approval.
+The efficacy of lecanemab was evaluated using results from Study 301 (CLARITY AD), a phase III randomized, controlled clinical trial. Study 301 was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study that enrolled 1,795 participants with Alzheimer's disease. Treatment was initiated in participants with mild cognitive impairment or mild dementia stage of disease and confirmed presence of amyloid beta pathology. Participants were randomized in a 1:1 ratio to receive placebo or lecanemab at a dose of 10 milligrams (mg)/kilograms (kg), once every two weeks. Lecanemab demonstrated a reduction of decline from baseline to 18 months on the primary endpoint, the Clinical Dementia Rating Scale Sum of Boxes score, compared to placebo. Statistically significant differences between treatment groups were also demonstrated on all secondary endpoints, which included the Alzheimer's Disease Assessment Scale Cognitive Subscale 14, and the Alzheimer's Disease Cooperative Study–Activities of Daily Living Scale for Mild Cognitive Impairment.
+In August 2025, the FDA approved a subcutaneous auto-injector form called "Leqembi Iqlik" for maintenance dosing after an initial series of infusions over 18 months.
+
+
+== Society and culture ==
+
+
+=== Legal status ===
+Lecanemab was granted accelerated approval for medical use in the United States in January 2023, and traditional approval in July 2023. Lecanemab was approved for medical use in South Korea in May 2024, Mexico in December 2024,, the EU in April 2025, and Canada in October 2025.
+
+
+==== Australia ====
+In October 2024, the Australian Therapeutic Goods Administration (TGA) decided not to register lecanemab. In December 2024, Eisai requested reconsideration of the decision, and the TGA confirmed its decision to not register lecanemab in March 2025.
+
+
+==== Canada ====
+In October 2025, lecanemab was authorized in Canada. Due to its high cost (about US$26,000 per year), lecanemab was not included for coverage in the public health system. It was added to the prescription drug list in December 2025.
+
+
+==== European Union ====
+In July 2024, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency recommended the refusal of the marketing authorization for lecanemab. The manufacturer requested re-examination.
+In November 2024, after re-examining its initial opinion, the CHMP recommended granting a marketing authorization to lecanemab (Leqembi) for treating mild cognitive impairment (memory and thinking problems) or mild dementia due to Alzheimer's disease (early Alzheimer's disease) in people who have only one or no copy of ApoE4, a certain form of the gene for the protein apolipoprotein E. Lecanemab was authorized for medical use in the European Union in April 2025.
+
+
+==== United Kingdom ====
+In August 2024, the Medicines and Healthcare products Regulatory Agency (MHRA) granted marketing authorization for England, Scotland, and Wales. It may not be used in people with two copies of the ApoE4 allele. Statistically, these people develop Alzheimer's disease more frequently and earlier, but also have a particularly high incidence of ARIA when treated with lecanemab. According to the MHRA, the risk outweighs the benefit for these people and genetic testing is recommended before starting treatment.
+The English branch of the National Health Service (NHS) announced it would not cover the costs of treatment, as according to draft guidance from the National Institute for Health and Care Excellence (NICE), the small benefit does not justify the cost of treatment.
+Drugs in Northern Ireland are regulated by the European Medicines Agency after Brexit in accordance with the Northern Ireland Protocol.
+
+
+==== United States ====
+In January 2023, the FDA granted accelerated approval for lecanemab. In July 2023, the FDA converted lecanemab to traditional approval.
+
+
+=== Reception ===
+In October 2023, lecanemab was designated as a "Do Not Use" drug by Public Citizen's Health Research Group. It had urged the FDA not to approve it, arguing that there were serious safety concerns and very small treatment benefits.
+
+
+=== Economics ===
+
+Lecanemab pricing is US$26,500 per year, with a company-estimated "per-patient societal value" of $37,600. However, cost-effectiveness analysis by the Institute for Clinical and Economic Review (ICER) concluded that a broad range of $8,900 to $21,500 would be appropriate. According to an estimate by the manufacturer, Eisai, about 85% of eligible people with early-stage Alzheimer's in the United States are covered by Medicare.
+After reviewing the clinical evidence and considering the treatments' other potential benefits, disadvantages, and contextual considerations noted above, the California Technology Assessment Forum unanimously concluded that lecanemab represents "low" long-term value of money. At lecanemab's net price, approximately 5% of the 1.4 million people in the US eligible for Alzheimer's disease treatment that targets beta-amyloid could be treated within five years without crossing the ICER potential budget impact threshold of $777 million per year. As a result, ICER issued an access and affordability alert for lecanemab in the management of Alzheimer's disease. This alert indicates that the health care costs of the treatment might stress the health system in the short term, resulting in the displacement of other services and a rapid increase in insurance costs.
+
+
+=== Names ===
+Lecanemab is the international nonproprietary name.
+
+
+== Research ==
+Lecanemab was jointly developed by the companies Eisai, Biogen, BioArctic and is in clinical trials for the treatment of Alzheimer's disease.
+It has shown statistically significant but minor effectiveness, with studies suggesting a modest decrease in cognitive decline in Alzheimer's participants compared with a control group given a placebo instead.
+According to a phase III clinical trial (n = 1795), lecanemab has been associated with both ARIA-E (cerebral edema) and ARIA-H (microhaemorrhages, or small haemorrhages, and hemosiderosis) sub-types. Mild to moderate infusion-related reactions may also occur.
+
+
+== References ==
+
+
+== Further reading ==

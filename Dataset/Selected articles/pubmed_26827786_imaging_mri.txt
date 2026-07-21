@@ -1,0 +1,10 @@
+Title: Brain atrophy in Alzheimer's Disease and aging.
+Authors: Lorenzo Pini, Michela Pievani, Martina Bocchetta, Daniele Altomare, Paolo Bosco, Enrica Cavedo, Samantha Galluzzi, Moira Marizzoni, Giovanni B Frisoni
+Journal: Ageing research reviews (2016)
+PMID: 26827786
+DOI: 10.1016/j.arr.2016.01.002
+MeSH Terms: Aging, Alzheimer Disease, Animals, Atrophy, Disease Progression, Humans, Magnetic Resonance Imaging, White Matter
+URL: https://pubmed.ncbi.nlm.nih.gov/26827786/
+
+Abstract:
+Thanks to its safety and accessibility, magnetic resonance imaging (MRI) is extensively used in clinical routine and research field, largely contributing to our understanding of the pathophysiology of neurodegenerative disorders such as Alzheimer's disease (AD). This review aims to provide a comprehensive overview of the main findings in AD and normal aging over the past twenty years, focusing on the patterns of gray and white matter changes assessed in vivo using MRI. Major progresses in the field concern the segmentation of the hippocampus with novel manual and automatic segmentation approaches, which might soon enable to assess also hippocampal subfields. Advancements in quantification of hippocampal volumetry might pave the way to its broader use as outcome marker in AD clinical trials. Patterns of cortical atrophy have been shown to accurately track disease progression and seem promising in distinguishing among AD subtypes. Disease progression has also been associated with changes in white matter tracts. Recent studies have investigated two areas often overlooked in AD, such as the striatum and basal forebrain, reporting significant atrophy, although the impact of these changes on cognition is still unclear. Future integration of different MRI modalities may further advance the field by providing more powerful biomarkers of disease onset and progression.
