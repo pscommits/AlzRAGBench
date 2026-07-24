@@ -1,0 +1,902 @@
+[
+  {
+    "question_id": "q01",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "The strongest genetic risk factor for sporadic Alzheimer's disease disease is APOEε4.",
+    "expected_answer": "The APOE epsilon-4 (e4) allele is the strongest genetic risk factor for sporadic Alzheimer's disease, confirmed by large-scale GWAS meta-analyses.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 5.447726249694824
+  },
+  {
+    "question_id": "q01",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APO strongestE epsilon-4 allele (APOEE) is the strongest genetic risk factor for sporadic Alzheimer's disease.",
+    "expected_answer": "The APOE epsilon-4 (e4) allele is the strongest genetic risk factor for sporadic Alzheimer's disease, confirmed by large-scale GWAS meta-analyses.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 3.9447555541992188
+  },
+  {
+    "question_id": "q01",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APO strongestEpsilon-4 allele",
+    "expected_answer": "The APOE epsilon-4 (e4) allele is the strongest genetic risk factor for sporadic Alzheimer's disease, confirmed by large-scale GWAS meta-analyses.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.520983457565308
+  },
+  {
+    "question_id": "q02",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APO strongest genetic protective factor against Alzheimer's disease is APOE2 allele.",
+    "expected_answer": "The APOE epsilon-2 (e2) allele is the strongest known genetic protective factor against Alzheimer's disease.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 5.2845306396484375
+  },
+  {
+    "question_id": "q02",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APO strongestE epsilon-2 allele (APOEE) is the strongest genetic protective factor against Alzheimer's disease.",
+    "expected_answer": "The APOE epsilon-2 (e2) allele is the strongest known genetic protective factor against Alzheimer's disease.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 3.646678924560547
+  },
+  {
+    "question_id": "q02",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APOE epsilon-2 allele",
+    "expected_answer": "The APOE epsilon-2 (e2) allele is the strongest known genetic protective factor against Alzheimer's disease.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.015192985534668
+  },
+  {
+    "question_id": "q03",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "The three genes that, when mutated, when mutated, cause the familial (autosomal-dominant form of Alzheimer's disease are amyloid-beta precursor protein (APP) and presenilins PSEN1 and PSEN2.",
+    "expected_answer": "APP (amyloid precursor protein), PSEN1 (presenilin 1), and PSEN2 (presenilin 2).",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 8.56865644454956
+  },
+  {
+    "question_id": "q03",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Presenilin 1 (PSEN1IN 2, Presenilin 2, and Amyloid Precursor Protein / APP gene.",
+    "expected_answer": "APP (amyloid precursor protein), PSEN1 (presenilin 1), and PSEN2 (presenilin 2).",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 5.286793231964111
+  },
+  {
+    "question_id": "q03",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "APP, PSEN1 and PSEN2",
+    "expected_answer": "APP (amyloid precursor protein), PSEN1 (presenilin 1), and PSEN2 (presenilin 2).",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 8.024652242660522
+  },
+  {
+    "question_id": "q04",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "According to the passage from Wikipedia, worldwide with Alzheimer's disease.",
+    "expected_answer": "Alzheimer's disease accounts for approximately 60-70% of dementia cases worldwide.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 6.302595376968384
+  },
+  {
+    "question_id": "q04",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Alzheimer's Disease accounts for roughly 60-70- of all dementia dementia cases worldwide.",
+    "expected_answer": "Alzheimer's disease accounts for approximately 60-70% of dementia cases worldwide.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 3.645958185195923
+  },
+  {
+    "question_id": "q04",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "60-70%",
+    "expected_answer": "Alzheimer's disease accounts for approximately 60-70% of dementia cases worldwide.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.6253015995025635
+  },
+  {
+    "question_id": "q05",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "In July 2023, the FDA converted lecanemab to traditional approval.",
+    "expected_answer": "Lecanemab received accelerated FDA approval in January 2023, then was converted to full traditional approval in July 2023.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 6.684237241744995
+  },
+  {
+    "question_id": "q05",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Lecanemab received full FDA approval in 2023 in 20233 for treating early Alzheimer's disease.",
+    "expected_answer": "Lecanemab received accelerated FDA approval in January 2023, then was converted to full traditional approval in July 2023.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 5.430079936981201
+  },
+  {
+    "question_id": "q05",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "In 2023",
+    "expected_answer": "Lecanemab received accelerated FDA approval in January 2023, then was converted to full traditional approval in July 2023.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.568084239959717
+  },
+  {
+    "question_id": "q06",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "The first cholinesterase inhibitor licensed for Alzheimer's treatment was tacrine, but it is no longer used for use due to to its side effects on effects on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on",
+    "expected_answer": "Tacrine was the first licensed cholinesterase inhibitor for Alzheimer's disease; it is no longer used because of its hepatotoxicity.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 16.762754201889038
+  },
+  {
+    "question_id": "q06",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "The first cholinesterase inhibitor licensed for Alzheimer's treatment for Alzheimer's Disease is Tacrine. Tacrine was the first licensed cholinesterase inhibitor licensed for AD.'s. it.",
+    "expected_answer": "Tacrine was the first licensed cholinesterase inhibitor for Alzheimer's disease; it is no longer used because of its hepatotoxicity.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.383002519607544
+  },
+  {
+    "question_id": "q06",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Tacrine was the first licensed cholinesterase inhibitor for for Alzheimer's treatment, but is no longer used due to treat the side effects of the drug.",
+    "expected_answer": "Tacrine was the first licensed cholinesterase inhibitor for Alzheimer's disease; it is no longer used because of its hepatotoxicity.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 12.678537845611572
+  },
+  {
+    "question_id": "q07",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Memantineurophosphericin, and antichlorphosphin, antichphosph, antlorosph, antph antph ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant",
+    "expected_answer": "Memantine is an uncompetitive NMDA (N-methyl-D-aspartate) receptor antagonist that reduces glutamate-driven excitotoxicity.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 16.63140892982483
+  },
+  {
+    "question_id": "q07",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Memantine's mechanism of action in treating Alzheimer's is as an uncompetitive NMDA Receptor antagonist, which helps reduce clinical deterioration in moderate-to-severe AD.",
+    "expected_answer": "Memantine is an uncompetitive NMDA (N-methyl-D-aspartate) receptor antagonist that reduces glutamate-driven excitotoxicity.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 5.483363628387451
+  },
+  {
+    "question_id": "q07",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Memantineurophosphorytic, and anticholine, and antich, antich, antich ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant ant",
+    "expected_answer": "Memantine is an uncompetitive NMDA (N-methyl-D-aspartate) receptor antagonist that reduces glutamate-driven excitotoxicity.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 18.39416217803955
+  },
+  {
+    "question_id": "q08",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Amyloid-related imaging abnormalities (ARIA)",
+    "expected_answer": "ARIA (amyloid-related imaging abnormalities) -- brain edema and/or microhemorrhage -- is the key adverse effect requiring MRI monitoring.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 4.885216951370239
+  },
+  {
+    "question_id": "q08",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Amyloid-Related Imaging Abnormalities (ARIA)",
+    "expected_answer": "ARIA (amyloid-related imaging abnormalities) -- brain edema and/or microhemorrhage -- is the key adverse effect requiring MRI monitoring.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 3.444052219390869
+  },
+  {
+    "question_id": "q08",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Amyloid-related imaging abnormalities (ARIA)",
+    "expected_answer": "ARIA (amyloid-related imaging abnormalities) -- brain edema and/or microhemorrhage -- is the key adverse effect requiring MRI monitoring.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.8038952350616455
+  },
+  {
+    "question_id": "q09",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Anti-amyloid antibody trials slowed cognitive decline by 150% to 15% in the phase III trials.",
+    "expected_answer": "Approximately 30% slowing of cognitive decline was observed in successful anti-amyloid antibody trials.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 8.021231651306152
+  },
+  {
+    "question_id": "q09",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Anti-amyloid antibody trials achieved roughly a 30% slowing of cognitive decline.",
+    "expected_answer": "Approximately 30% slowing of cognitive decline was observed in successful anti-amyloid antibody trials.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 3.6064369678497314
+  },
+  {
+    "question_id": "q09",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Anti-amyloid antibody trials achieved roughly a 30% slowing of cognitive decline.",
+    "expected_answer": "Approximately 30% slowing of cognitive decline was observed in successful anti-amyloid antibody trials.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 8.457962036132812
+  },
+  {
+    "question_id": "q10",
+    "method": "vectorrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Down syndrome",
+    "expected_answer": "Down syndrome (trisomy 21) -- the extra chromosome 21 copy means an extra APP gene copy, supporting the amyloid hypothesis.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 5.0559985637664795
+  },
+  {
+    "question_id": "q10",
+    "method": "graphrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Down Syndrome",
+    "expected_answer": "Down syndrome (trisomy 21) -- the extra chromosome 21 copy means an extra APP gene copy, supporting the amyloid hypothesis.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 2.81817364692688
+  },
+  {
+    "question_id": "q10",
+    "method": "hybridrag",
+    "designed_to_favor": "vectorrag",
+    "generated_answer": "Down Syndrome",
+    "expected_answer": "Down syndrome (trisomy 21) -- the extra chromosome 21 copy means an extra APP gene copy, supporting the amyloid hypothesis.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.586958885192871
+  },
+  {
+    "question_id": "q11",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Carrying the APOE4 allele increases Alzheimer's risk is more in women than in men.",
+    "expected_answer": "APOE e4 is the strongest genetic risk allele for AD, but its risk-raising effect is not sex-neutral: carrying APOE4 increases AD risk more in women than in men, consistent with broader findings that sex/gender modify AD risk-factor impact and cognitive resilience.",
+    "vector_hit_rate": 0.3333333333333333,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 7.026077747344971
+  },
+  {
+    "question_id": "q11",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Carrying the APOE epsilon-4 allele increases the risk risk of Alzheimer's's Disease more in women than than in men.",
+    "expected_answer": "APOE e4 is the strongest genetic risk allele for AD, but its risk-raising effect is not sex-neutral: carrying APOE4 increases AD risk more in women than in men, consistent with broader findings that sex/gender modify AD risk-factor impact and cognitive resilience.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 4.7970380783081055
+  },
+  {
+    "question_id": "q11",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Carrying the APOE4 raises AD risk risk more in women than in women.",
+    "expected_answer": "APOE e4 is the strongest genetic risk allele for AD, but its risk-raising effect is not sex-neutral: carrying APOE4 increases AD risk more in women than in men, consistent with broader findings that sex/gender modify AD risk-factor impact and cognitive resilience.",
+    "vector_hit_rate": 0.3333333333333333,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 9.391793251037598
+  },
+  {
+    "question_id": "q12",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Poor sleep is thought to contribute to dementia-related protein aggregation, it is thought to dementia-related by which chain of chain of events events by which by which poor sleep is is is to contribute to contribute to to dementia-related protein aggregation.",
+    "expected_answer": "Sleep disturbance impairs the glymphatic system, the brain's waste-clearance pathway that is mostly active during sleep and which normally helps clear amyloid-beta and other aggregation-prone proteins; the glymphatic system also degrades with age, so impaired sleep plus aging compounds reduced clearance, contributing to protein aggregation and dementia onset.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 12.35958194732666
+  },
+  {
+    "question_id": "q12",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Poor sleep disturbances in sleep architecture can lead to the glymphatic system to the brain clearance activity, which is greatest during sleep. Poor sleep is thought to contribute to contribute to to dementia-related protein aggregation.",
+    "expected_answer": "Sleep disturbance impairs the glymphatic system, the brain's waste-clearance pathway that is mostly active during sleep and which normally helps clear amyloid-beta and other aggregation-prone proteins; the glymphatic system also degrades with age, so impaired sleep plus aging compounds reduced clearance, contributing to protein aggregation and dementia onset.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 8.910152196884155
+  },
+  {
+    "question_id": "q12",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Poor sleep disturbance of the glymphatic system's system's activity, which is greatest during sleep.",
+    "expected_answer": "Sleep disturbance impairs the glymphatic system, the brain's waste-clearance pathway that is mostly active during sleep and which normally helps clear amyloid-beta and other aggregation-prone proteins; the glymphatic system also degrades with age, so impaired sleep plus aging compounds reduced clearance, contributing to protein aggregation and dementia onset.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 10.455712080001831
+  },
+  {
+    "question_id": "q13",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Microgliaia are the principal immunological cells of the central nervous system, serving as they are the tissue-resident macrophages of the brain; they are capable of recognizing and and taking up Aβ through multiple pattern recognition receptors, making them central amyloidloid clearance within brain. However, them are deleterious to neurological function, them are topographically associated with aberrant deposits of tau and beta within brain, even when each pathologic component occurs in distinct brain regions.",
+    "expected_answer": "Microglia are the primary mediators of neuroinflammation in AD, and they directly interact with both amyloid-beta and tau pathology -- meaning microglial activity sits at the intersection of the amyloid-centric and neuroinflammation-centric explanations of disease progression, and evidence for the latter has weakened purely amyloid-centric models.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 18.870266675949097
+  },
+  {
+    "question_id": "q13",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Microgliaia connect the amyloid hypothesis and the neuroinflammation hypothesis of Alzheimer's Disease by physically interact with amyloid-beta deposits and tau pathology, influencing its spread and clearance.",
+    "expected_answer": "Microglia are the primary mediators of neuroinflammation in AD, and they directly interact with both amyloid-beta and tau pathology -- meaning microglial activity sits at the intersection of the amyloid-centric and neuroinflammation-centric explanations of disease progression, and evidence for the latter has weakened purely amyloid-centric models.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 6.109554052352905
+  },
+  {
+    "question_id": "q13",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Microgliaia are the principal immunological cells of the central nervous system, serving as the tissue-resident macrophages of the brain; they are capable of of and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+    "expected_answer": "Microglia are the primary mediators of neuroinflammation in AD, and they directly interact with both amyloid-beta and tau pathology -- meaning microglial activity sits at the intersection of the amyloid-centric and neuroinflammation-centric explanations of disease progression, and evidence for the latter has weakened purely amyloid-centric models.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 17.88010573387146
+  },
+  {
+    "question_id": "q14",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Down syndrome is considered a natural model supporting the amyloid cascade hypothesis because individuals with Down syndrome have an extra copy of chromosome 21, leading to an extra copy of the APP gene for APP, which is duplicated in an extra copy of the APP gene for, leading to increase production of APP, which increases the production of production of amyloid-beta (Aβ) peptides).",
+    "expected_answer": "Down syndrome is caused by trisomy of chromosome 21; since the APP gene sits on chromosome 21, individuals with Down syndrome carry an extra APP gene copy, leading to greater APP expression and amyloid-beta production -- which is exactly the mechanism the amyloid cascade hypothesis proposes drives Alzheimer's pathology.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 14.073953628540039
+  },
+  {
+    "question_id": "q14",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Down syndrome is considered a natural model supporting the amyloid cascade hypothesis because it has an extra copy of chromosome 21, which leads to an extra copy of APP gene APP gene triplication in Down syndrome. This extra APP triplication in Down syndrome is a key line of evidence for the amyloid hypothesis.",
+    "expected_answer": "Down syndrome is caused by trisomy of chromosome 21; since the APP gene sits on chromosome 21, individuals with Down syndrome carry an extra APP gene copy, leading to greater APP expression and amyloid-beta production -- which is exactly the mechanism the amyloid cascade hypothesis proposes drives Alzheimer's pathology.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.8,
+    "elapsed_seconds": 10.075948476791382
+  },
+  {
+    "question_id": "q14",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Down syndrome is considered a natural model supporting the amyloid cascade hypothesis, tracing the full genetic toolecular chain due to the extra copy of chromosome 21 and an extra copy of the APP gene for the APP.",
+    "expected_answer": "Down syndrome is caused by trisomy of chromosome 21; since the APP gene sits on chromosome 21, individuals with Down syndrome carry an extra APP gene copy, leading to greater APP expression and amyloid-beta production -- which is exactly the mechanism the amyloid cascade hypothesis proposes drives Alzheimer's pathology.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 0.8,
+    "elapsed_seconds": 13.521694898605347
+  },
+  {
+    "question_id": "q15",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Vascular risk factors, vascular risk factors, vascular dementia, and mixed dementia are related to Alzheimer's disease.",
+    "expected_answer": "Cardiovascular/vascular risk factors raise the risk of vascular dementia; vascular dementia frequently co-occurs with Alzheimer's disease as 'mixed dementia,' which is in fact the most common mixed-dementia presentation -- so managing vascular risk is relevant to both pure vascular dementia and AD-vascular comorbidity.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 8.379994869232178
+  },
+  {
+    "question_id": "q15",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Vascular risk factors, vascular dementia, and mixed dementia are primary drivers of vascular dementia, and vascular dementia. Alzheimer's disease is frequently diagnosed alongside vascular dementia as mixed dementia. Alzheimer disease is biologically defined by beta-amyloid plaques together with neuro neurofibrillary tangles.",
+    "expected_answer": "Cardiovascular/vascular risk factors raise the risk of vascular dementia; vascular dementia frequently co-occurs with Alzheimer's disease as 'mixed dementia,' which is in fact the most common mixed-dementia presentation -- so managing vascular risk is relevant to both pure vascular dementia and AD-vascular comorbidity.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 8.911241292953491
+  },
+  {
+    "question_id": "q15",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Vascular risk factors, vascular risk factors, and vascular dementia, and mixed dementia are all contribute to Alzheimer's disease.",
+    "expected_answer": "Cardiovascular/vascular risk factors raise the risk of vascular dementia; vascular dementia frequently co-occurs with Alzheimer's disease as 'mixed dementia,' which is in fact the most common mixed-dementia presentation -- so managing vascular risk is relevant to both pure vascular dementia and AD-vascular comorbidity.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.134549617767334
+  },
+  {
+    "question_id": "q16",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "APOE genotype influences Alzheimer's pathology through three distinct biological mechanisms: 1) promoting the breakdown of reelin signaling, 2) the of inflammation and oxidation, and 3) the of inflammation.",
+    "expected_answer": "Beyond its originally described role in amyloid-beta aggregation and clearance, APOE genotype is now linked to (1) tau neurofibrillary degeneration, (2) microglia and astrocyte inflammatory responses, and (3) blood-brain barrier disruption.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 10.978721380233765
+  },
+  {
+    "question_id": "q16",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "APO.E genotype influences Alzheimer's pathology through three distinct biological mechanisms: \n1. 1) APOE epsilon-4 allele shapes microglial and astrocyte inflammatory responses in AD.2) 2 AE epsilon epsilon-2 allele shapes microglia and astrocytete inflammatory responses in AD.3 3 33E epsilon epsilon-2 allele shapes microglia andte andte responses AD",
+    "expected_answer": "Beyond its originally described role in amyloid-beta aggregation and clearance, APOE genotype is now linked to (1) tau neurofibrillary degeneration, (2) microglia and astrocyte inflammatory responses, and (3) blood-brain barrier disruption.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 14.095510244369507
+  },
+  {
+    "question_id": "q16",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "APOE genotype shapes microglial and astrocyte inflammatory responses in AD. APOE also shapes microglia and astrocyte responses in AD.",
+    "expected_answer": "Beyond its originally described role in amyloid-beta aggregation and clearance, APOE genotype is now linked to (1) tau neurofibrillary degeneration, (2) microglia and astrocyte inflammatory responses, and (3) blood-brain barrier disruption.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.331419229507446
+  },
+  {
+    "question_id": "q17",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Mild cognitive impairment (MCI) is a risk factor for dementia, and Alzheimer's disease. Biomarkers used to track its progression: low levels of amyloid and increased tau proteins in CSF, ApoE4 positivity, scores on cognitive tests like paired associates immediate recall test and symbol substitution test, increased tau protein in CSF, and measurements of right entororinal thickness and measurements of right entorhinal cortex right hippocampal volume on MRI.",
+    "expected_answer": "Amnestic MCI is frequently a prodromal stage of Alzheimer's disease, converting to probable AD at roughly 10-15% per year; a low plasma Abeta42/40 ratio can strongly support an AD diagnosis even at the MCI/early-dementia stage, and structural MRI can track progressive gray-matter loss as MCI converts toward full AD dementia.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 16.990761518478394
+  },
+  {
+    "question_id": "q17",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Mild Cognitive Imp (MCI) is a stage of the prodromal stage of Alzheimer's disease (AD) disease) and the biomarkers used to track its progression.",
+    "expected_answer": "Amnestic MCI is frequently a prodromal stage of Alzheimer's disease, converting to probable AD at roughly 10-15% per year; a low plasma Abeta42/40 ratio can strongly support an AD diagnosis even at the MCI/early-dementia stage, and structural MRI can track progressive gray-matter loss as MCI converts toward full AD dementia.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 7.5034003257751465
+  },
+  {
+    "question_id": "q17",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Mild cognitive impairment (MCI) is a stage of Alzheimer's disease. Biomarkers used to track its progression: low levels of amyloid and increased tau proteins in CSF are potential biomarkers although they are not specific to AD. Combining various variables such as ApoE4 positivity scores on cognitive tests like the paired associates immediate recall test and symbol symbol substitution test increased tau protein in CSF measurements of right entorhinal cortex thickness and right hippocampal volume on MRI can help predict progression to MCI from this preclinical stage. Mild Cognitive Impairment impairment",
+    "expected_answer": "Amnestic MCI is frequently a prodromal stage of Alzheimer's disease, converting to probable AD at roughly 10-15% per year; a low plasma Abeta42/40 ratio can strongly support an AD diagnosis even at the MCI/early-dementia stage, and structural MRI can track progressive gray-matter loss as MCI converts toward full AD dementia.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 23.710129022598267
+  },
+  {
+    "question_id": "q18",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Cholinesterase inhibitors are approved for treating AD, such as donepezil, rivastigmine, andantamine, and memantineut, are approved treating AD such as well. Cholinesterase inhibitors are approved treating, AD as. Cholinesterase inhibitors approved, as. Cholinesterase inhibitors, as Cholinesterase inhibitors, Cholinesterase inhibitors, Cholinasease inhibitors Cholinesterase inhibitors, Cholinasease, Cholinasease, Cholinasease, Cholinasease, Cholinase,olinaseolinolinaseolinolinolinolinolinaseolinolinolin",
+    "expected_answer": "In established AD, cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are the main symptomatic drug class, with roughly similar and mild efficacy. In MCI specifically, results are weaker: donepezil showed only minor, short-term benefit with notable side effects, and rivastigmine failed to stop or slow progression to Alzheimer's disease at all.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 22.577901601791382
+  },
+  {
+    "question_id": "q18",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Cholinesteresterase inhibitors are primarily treatable for Alzheimer's Disease (AD) and mild cognitive impairment (MCI) and early dementia. Cholinesterase inhibitors are the main class of drugs used for symptomatic AD treatment. Cholinesterase inhibitors block acetylcholine breakdown, raising synaptic acetylcholine levels. Cholinesterase inhibitors are the main class of drugs used for symptomatic AD treatment Cholin.",
+    "expected_answer": "In established AD, cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are the main symptomatic drug class, with roughly similar and mild efficacy. In MCI specifically, results are weaker: donepezil showed only minor, short-term benefit with notable side effects, and rivastigmine failed to stop or slow progression to Alzheimer's disease at all.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 15.117863178253174
+  },
+  {
+    "question_id": "q18",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Cholinesterase inhibitors are the main class of drugs used for treating AD, and are the main class of drugs used for symptomatic AD treatment of AD. Cholinesterase inhibitors function by increasing the levels of acetylcholineoline, a neurotransmitter that plays role in nerve cell communication and is involved in learning memory memory and cognitive functions. Within this category  this 3 drugs have received FDA approval for treating AD: donepezil, , , .",
+    "expected_answer": "In established AD, cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are the main symptomatic drug class, with roughly similar and mild efficacy. In MCI specifically, results are weaker: donepezil showed only minor, short-term benefit with notable side effects, and rivastigmine failed to stop or slow progression to Alzheimer's disease at all.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 20.595027685165405
+  },
+  {
+    "question_id": "q19",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Physical activity, cognitive exercises, higher education and attainment, cognitive and in, and activities, and, and, and and, and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+    "expected_answer": "All three are modifiable, non-genetic environmental/lifestyle factors that epidemiological studies have linked to Alzheimer's risk: physical activity is protective (lower AD and all-cause dementia incidence), while air pollution (fine particulate matter) and vascular/cardiovascular risk factors both raise AD and dementia risk -- making all three candidate targets for AD prevention strategies.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 15.422817945480347
+  },
+  {
+    "question_id": "q19",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Physical activity, air pollution, and risk factors are all contribute to Alzheimer's risk.",
+    "expected_answer": "All three are modifiable, non-genetic environmental/lifestyle factors that epidemiological studies have linked to Alzheimer's risk: physical activity is protective (lower AD and all-cause dementia incidence), while air pollution (fine particulate matter) and vascular/cardiovascular risk factors both raise AD and dementia risk -- making all three candidate targets for AD prevention strategies.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 4.516820430755615
+  },
+  {
+    "question_id": "q19",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "Physical activity is a protective factor for for dementia and Alzheimer's disease vascular risk factors are the primary drivers of vascular disease vascular risk.",
+    "expected_answer": "All three are modifiable, non-genetic environmental/lifestyle factors that epidemiological studies have linked to Alzheimer's risk: physical activity is protective (lower AD and all-cause dementia incidence), while air pollution (fine particulate matter) and vascular/cardiovascular risk factors both raise AD and dementia risk -- making all three candidate targets for AD prevention strategies.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.337153911590576
+  },
+  {
+    "question_id": "q20",
+    "method": "vectorrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "The economic burden of Alzheimer's disease (AD) has become one of the most prevalent neurodegenerative disorders among the elderly. The global cost of dementia is expected to reach US $2 trillion in 20300. In this systematic review, existing evidence on the cost economic burden of AD up to August 202. The risk of bias in the studies was assessed using Consolidated Health Economic Evaluation Reporting Standards 202222 criteria.",
+    "expected_answer": "Indirect caregiving cost (lost productivity, unpaid family care) is the main contributor to AD's overall societal cost. When formal caregiving accommodation (e.g. a care facility) is used instead, costs shift from indirect cost to direct nonmedical cost, and formal accommodation can raise direct costs to as much as 67.3% of the overall economic burden.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 13.476598978042603
+  },
+  {
+    "question_id": "q20",
+    "method": "graphrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "The economic burden of Alzheimer's disease is projected to reach roughly $2 trillion by 20300 by 2030. (source: pubmed_379724428). Indirect caregiving cost is the main driver of AD's overall societal economic burden. (source: pubmed_37972828).",
+    "expected_answer": "Indirect caregiving cost (lost productivity, unpaid family care) is the main contributor to AD's overall societal cost. When formal caregiving accommodation (e.g. a care facility) is used instead, costs shift from indirect cost to direct nonmedical cost, and formal accommodation can raise direct costs to as much as 67.3% of the overall economic burden.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 9.180216073989868
+  },
+  {
+    "question_id": "q20",
+    "method": "hybridrag",
+    "designed_to_favor": "graphrag",
+    "generated_answer": "The economic burden of Alzheimer's disease is significantly increases with caregiving arrangements. The economic burden of AD is increased with indirect caregiving cost.",
+    "expected_answer": "Indirect caregiving cost (lost productivity, unpaid family care) is the main contributor to AD's overall societal cost. When formal caregiving accommodation (e.g. a care facility) is used instead, costs shift from indirect cost to direct nonmedical cost, and formal accommodation can raise direct costs to as much as 67.3% of the overall economic burden.",
+    "vector_hit_rate": 1.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.130815267562866
+  },
+  {
+    "question_id": "q21",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Cholinesterase inhibitors, memantine, and anti-amyloid monoclonal antibodies for Alzheimer's disease. Cholinesterase inhibitors increase acetylcholinesterase, cholinesterase inhibitors function by increasing the levels of acetylcholine, a neurotransmitter that plays a neurotransmitter that plays role in nerve cell communication and involved in learning memory, memory, and cognitive functions. Within this category, 3 drugs have received FDA approval for treating AD: donepezil, rivastigmine, and galantamine.",
+    "expected_answer": "Cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are purely symptomatic: they raise synaptic acetylcholine and produce mild, possibly non-clinically-significant benefit. Memantine is also symptomatic, blocking NMDA receptor overstimulation by glutamate, and reduced clinical deterioration in moderate-to-severe AD in trials. Anti-amyloid monoclonal antibodies (lecanemab, aducanumab) are disease-modifying: they directly clear brain amyloid plaque and produced roughly 30% slowing of cognitive decline in trials, but carry a distinct risk -- ARIA (brain edema/microhemorrhage) -- not seen with the older symptomatic drug classes.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 18.33841586112976
+  },
+  {
+    "question_id": "q21",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Cholinesterase inhibitors, memantine, and anti-amyloid monoclonal antibodies are used for treating Alzheimer's disease. Cholinesterase inhibitors increase acetylcholine, memantine reduce amyloid plaques, and amyloid-related imaging abnormalities (ARIA) and cognitive decline.",
+    "expected_answer": "Cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are purely symptomatic: they raise synaptic acetylcholine and produce mild, possibly non-clinically-significant benefit. Memantine is also symptomatic, blocking NMDA receptor overstimulation by glutamate, and reduced clinical deterioration in moderate-to-severe AD in trials. Anti-amyloid monoclonal antibodies (lecanemab, aducanumab) are disease-modifying: they directly clear brain amyloid plaque and produced roughly 30% slowing of cognitive decline in trials, but carry a distinct risk -- ARIA (brain edema/microhemorrhage) -- not seen with the older symptomatic drug classes.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 10.12451982498169
+  },
+  {
+    "question_id": "q21",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Cholinesterase inhibitors, memantine, and anti-amyloid monoclonal antibodies for Alzheimer's disease. Cholinesterase inhibitors function by increasing the levels of acetylcholineoline, a neurotransmitter that plays a role in nerve cell communication and is involved in memory and cognitive functions. Within this category 3 drugs have received FDA approval for treating AD: donepezil, rivastigmine, andantagonistamine (NMDA) antagonist memantineut. Memantine. Memut Mem.ut Mem.utut. Memutututut Memututut.utut Memututututututut",
+    "expected_answer": "Cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are purely symptomatic: they raise synaptic acetylcholine and produce mild, possibly non-clinically-significant benefit. Memantine is also symptomatic, blocking NMDA receptor overstimulation by glutamate, and reduced clinical deterioration in moderate-to-severe AD in trials. Anti-amyloid monoclonal antibodies (lecanemab, aducanumab) are disease-modifying: they directly clear brain amyloid plaque and produced roughly 30% slowing of cognitive decline in trials, but carry a distinct risk -- ARIA (brain edema/microhemorrhage) -- not seen with the older symptomatic drug classes.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 23.027713298797607
+  },
+  {
+    "question_id": "q22",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The amyloid cascade hypothesis and neuroinflammflammation hypothesis both explain Alzheimer's disease by suggesting that the accumulation of Aβ peptides and neurodegeneration and tauopathy.",
+    "expected_answer": "The amyloid cascade hypothesis holds that amyloid-beta accumulation is the central driver of AD, initiating downstream tau pathology, synaptic loss, and neurodegeneration -- consistent with amyloid plaques and tau tangles being AD's two hallmark pathologies. However, evidence of elevated inflammatory markers and innate-immune AD risk genes suggests this hypothesis is incomplete: microglia-mediated neuroinflammation interacts independently with both amyloid-beta and tau, and researchers increasingly see disease-promoting and protective factors interacting with, rather than being strictly downstream of, the core amyloid mechanism.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 9.658579349517822
+  },
+  {
+    "question_id": "q22",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The amyloid cascade hypothesis explains Alzheimer's disease by explaining the amyloid plaques and tau neurofibrillary tangles as the core pathologies. The neuroinflammation hypothesis of Alzheimer disease by the by the neuroinflammation as core disease the disease the disease the disease disease the the disease disease the disease disease the disease the disease the disease disease the disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease disease",
+    "expected_answer": "The amyloid cascade hypothesis holds that amyloid-beta accumulation is the central driver of AD, initiating downstream tau pathology, synaptic loss, and neurodegeneration -- consistent with amyloid plaques and tau tangles being AD's two hallmark pathologies. However, evidence of elevated inflammatory markers and innate-immune AD risk genes suggests this hypothesis is incomplete: microglia-mediated neuroinflammation interacts independently with both amyloid-beta and tau, and researchers increasingly see disease-promoting and protective factors interacting with, rather than being strictly downstream of, the core amyloid mechanism.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 16.362295627593994
+  },
+  {
+    "question_id": "q22",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The amyloid Cascadeoothesis and neuroinflammation hypothesis of Alzheimer's disease both explain the disease by describing the accumulation of and neuroinflammation.",
+    "expected_answer": "The amyloid cascade hypothesis holds that amyloid-beta accumulation is the central driver of AD, initiating downstream tau pathology, synaptic loss, and neurodegeneration -- consistent with amyloid plaques and tau tangles being AD's two hallmark pathologies. However, evidence of elevated inflammatory markers and innate-immune AD risk genes suggests this hypothesis is incomplete: microglia-mediated neuroinflammation interacts independently with both amyloid-beta and tau, and researchers increasingly see disease-promoting and protective factors interacting with, rather than being strictly downstream of, the core amyloid mechanism.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.362685203552246
+  },
+  {
+    "question_id": "q23",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Genetic factors, environmental factors, and lifestyle, factors, and, and, and and, and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+    "expected_answer": "Genetic risk operates on two tiers: rare autosomal-dominant mutations in APP, PSEN1, or PSEN2 cause early-onset familial AD with near-complete penetrance, while common APOE allele variation (e4 raises risk, e2 lowers it) modulates risk in the much more common sporadic form. Layered on top of this genetic baseline, modifiable factors meaningfully shift risk in either direction: physical activity and cardiovascular health are protective, while vascular risk factors, air pollution, and poor sleep (via impaired glymphatic clearance) raise risk. AD is explicitly described as a multifactorial disorder determined by the interaction of genetic susceptibility and environmental factors across the life course, with early-life and midlife interventions offering the most potential to shift outcomes.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 14.947608709335327
+  },
+  {
+    "question_id": "q23",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Genetic factors, lifestyle/environmental factors together shape an individual's overall Alzheimer's risk profile:\n\n1. Genetic Factors:\n1/2APP: PSEN1 mutations are one of three known causes of three known causes of autosomal-dominant familial AD. (PSEN2 mutations are one of one of known of three causes three causes autosomalominominant familial AD (SEN mutations one one one known three three three autosomalominominant familial AD ( mutations one one one three three three autosomalominomin familial AD ( mutations one one one three three autosomalominomin familial ( mutations one one one three autos autosomalomin",
+    "expected_answer": "Genetic risk operates on two tiers: rare autosomal-dominant mutations in APP, PSEN1, or PSEN2 cause early-onset familial AD with near-complete penetrance, while common APOE allele variation (e4 raises risk, e2 lowers it) modulates risk in the much more common sporadic form. Layered on top of this genetic baseline, modifiable factors meaningfully shift risk in either direction: physical activity and cardiovascular health are protective, while vascular risk factors, air pollution, and poor sleep (via impaired glymphatic clearance) raise risk. AD is explicitly described as a multifactorial disorder determined by the interaction of genetic susceptibility and environmental factors across the life course, with early-life and midlife interventions offering the most potential to shift outcomes.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.9,
+    "elapsed_seconds": 20.077784776687622
+  },
+  {
+    "question_id": "q23",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Genetic factors, such as well-known as APOE, PSEN1/2 APP, APP, and modifiable lifestyle/environmental factors together shape an individual's overall Alzheimer's risk profile.",
+    "expected_answer": "Genetic risk operates on two tiers: rare autosomal-dominant mutations in APP, PSEN1, or PSEN2 cause early-onset familial AD with near-complete penetrance, while common APOE allele variation (e4 raises risk, e2 lowers it) modulates risk in the much more common sporadic form. Layered on top of this genetic baseline, modifiable factors meaningfully shift risk in either direction: physical activity and cardiovascular health are protective, while vascular risk factors, air pollution, and poor sleep (via impaired glymphatic clearance) raise risk. AD is explicitly described as a multifactorial disorder determined by the interaction of genetic susceptibility and environmental factors across the life course, with early-life and midlife interventions offering the most potential to shift outcomes.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 0.9,
+    "elapsed_seconds": 13.782842636108398
+  },
+  {
+    "question_id": "q24",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "An APP gene mutation in the APP gene for hereditary early-onset Alzheimer's disease (familial AD) disease. This form AD form AD accounts for no more than 10% of all cases and the vast majority of AD is not accompanied by such mutations. However, and Alzheimer's Alzheimer's disease disease disease is likely result from altered proteolytictic processing. is is is evidenced by by the fact that many mutations that lead to lead fAD occur near gamma-secretase cleavage sites on APP is on is near-secret cleavage sites on on APP on near cleavage sites on APP on APP on cleavage sites APP",
+    "expected_answer": "An APP gene mutation alters how amyloid precursor protein is cleaved, increasing production of the amyloid-beta fragment. Amyloid-beta aggregates into extracellular plaques and, together with hyperphosphorylated tau (which aggregates into intracellular neurofibrillary tangles), causes reduction in synaptic strength and synaptic loss. This synaptic dysfunction and downstream neurodegeneration is what produces the clinically measurable progressive decline in cognition and function that defines Alzheimer's disease.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 26.508684873580933
+  },
+  {
+    "question_id": "q24",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "An APP gene mutation in the APP gene leads to the production of Amyloid Prec (APP gene) to cleavage of APP, which produces the to amyloid-beta fragment central to AD pathology. This amyloid-beta accumulation contributes to to synaptic strength reduction and synapse loss. synaptic dysfunction loss to cognitive decline.",
+    "expected_answer": "An APP gene mutation alters how amyloid precursor protein is cleaved, increasing production of the amyloid-beta fragment. Amyloid-beta aggregates into extracellular plaques and, together with hyperphosphorylated tau (which aggregates into intracellular neurofibrillary tangles), causes reduction in synaptic strength and synaptic loss. This synaptic dysfunction and downstream neurodegeneration is what produces the clinically measurable progressive decline in cognition and function that defines Alzheimer's disease.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 11.780990839004517
+  },
+  {
+    "question_id": "q24",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "An APP gene mutation in the APP gene for autosomal-dominant familial Alzheimer's disease (famil) causes hereditary early-onset Alzheimer's disease (familial AD, fAD). This form of AD accounts for no more than 10% of all cases, and the vast majority of AD is not accompanied by such mutations. However, familial Alzheimer's disease is likely to result from altered proteolytic processing This is evidenced by by the fact that many mutations that lead to fAD occur near gamma-secretase cleavage sites on APP One of One of most common mutations fAD London Mutation London Mutation London Mutation London Mutation",
+    "expected_answer": "An APP gene mutation alters how amyloid precursor protein is cleaved, increasing production of the amyloid-beta fragment. Amyloid-beta aggregates into extracellular plaques and, together with hyperphosphorylated tau (which aggregates into intracellular neurofibrillary tangles), causes reduction in synaptic strength and synaptic loss. This synaptic dysfunction and downstream neurodegeneration is what produces the clinically measurable progressive decline in cognition and function that defines Alzheimer's disease.",
+    "vector_hit_rate": 0.0,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 24.757113933563232
+  },
+  {
+    "question_id": "q25",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "CSFrequently used to support diagnosing and staging Alzheimer's disease from its preclinical to symptomatic stages. CSF biomarkers, PET imaging, and structural MRI collectively support diagnosing and staging Alzheimer's disease from preclinical to symptomatic stages.",
+    "expected_answer": "CSF amyloid-beta42 and tau are established core fluid biomarkers reflecting the disease's molecular hallmarks. Amyloid PET visualizes brain plaque burden in vivo and is increasingly used clinically, while tau PET offers additional value for differential diagnosis and clinical trial patient selection. Structural MRI complements these by tracking hippocampal and cortical atrophy, an established outcome marker of neurodegeneration. Together, these modalities let researchers define 'preclinical Alzheimer's disease' -- biomarker evidence of AD pathology in cognitively healthy individuals -- extending diagnosis earlier than clinical symptoms alone would allow, which is also reflected in the StatPearls textbook's staged clinical/pathological description of the disease.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 9.90040397644043
+  },
+  {
+    "question_id": "q25",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "CSFibrin cerebrokinal fluid (CSF) biomarkers, positron imaging resonance imaging (PET) and structural magnetic resonance imaging (MRI) collectively support diagnosingosing and staging Alzheimer's disease from its preclinical to symptomatic stages.",
+    "expected_answer": "CSF amyloid-beta42 and tau are established core fluid biomarkers reflecting the disease's molecular hallmarks. Amyloid PET visualizes brain plaque burden in vivo and is increasingly used clinically, while tau PET offers additional value for differential diagnosis and clinical trial patient selection. Structural MRI complements these by tracking hippocampal and cortical atrophy, an established outcome marker of neurodegeneration. Together, these modalities let researchers define 'preclinical Alzheimer's disease' -- biomarker evidence of AD pathology in cognitively healthy individuals -- extending diagnosis earlier than clinical symptoms alone would allow, which is also reflected in the StatPearls textbook's staged clinical/pathological description of the disease.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.6,
+    "elapsed_seconds": 10.552224397659302
+  },
+  {
+    "question_id": "q25",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "CSF biomarkers, PET imaging, and structural MRI collectively support diagnosing and staging Alzheimer's disease from its preclinical to symptomatic stages. CSF biomarkers, PET imaging, and structural MRI collectively support diagnosing and staging Alzheimer's disease from its preclinical to symptomatic stages.",
+    "expected_answer": "CSF amyloid-beta42 and tau are established core fluid biomarkers reflecting the disease's molecular hallmarks. Amyloid PET visualizes brain plaque burden in vivo and is increasingly used clinically, while tau PET offers additional value for differential diagnosis and clinical trial patient selection. Structural MRI complements these by tracking hippocampal and cortical atrophy, an established outcome marker of neurodegeneration. Together, these modalities let researchers define 'preclinical Alzheimer's disease' -- biomarker evidence of AD pathology in cognitively healthy individuals -- extending diagnosis earlier than clinical symptoms alone would allow, which is also reflected in the StatPearls textbook's staged clinical/pathological description of the disease.",
+    "vector_hit_rate": 0.5,
+    "graph_hit_rate": 0.6,
+    "elapsed_seconds": 13.332298278808594
+  },
+  {
+    "question_id": "q26",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Sex differences and gender and APOE genotype jointly shape resilience to cognitive decline aging and and's disease.",
+    "expected_answer": "Sex and gender significantly impact the prevalence of protective and risk factors and influence the burden of both AD pathology (amyloid and tau) and comorbid pathologies like cerebrovascular disease, which together shape cognitive trajectories. This interacts directly with genetics: carrying the APOE e4 allele raises AD risk more in women than in men, meaning the same genetic risk factor confers different real-world resilience outcomes depending on sex -- and resilience itself appears to shift across different ages and disease stages rather than being fixed.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 7.51111364364624
+  },
+  {
+    "question_id": "q26",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Sex differences in aging and APOE genotype jointly shape resilience to cognitive decline in and in and's disease.",
+    "expected_answer": "Sex and gender significantly impact the prevalence of protective and risk factors and influence the burden of both AD pathology (amyloid and tau) and comorbid pathologies like cerebrovascular disease, which together shape cognitive trajectories. This interacts directly with genetics: carrying the APOE e4 allele raises AD risk more in women than in men, meaning the same genetic risk factor confers different real-world resilience outcomes depending on sex -- and resilience itself appears to shift across different ages and disease stages rather than being fixed.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 5.291512489318848
+  },
+  {
+    "question_id": "q26",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Sex differences in cognitive resilience to cognitive decline vary by age and cognitive status. Initial evidence supports sex-specific distinctions in brain pathology. Findings suggest sex differences in the impact of pathology Findings. There is sex differences in in the in in the transition to in clinical stages.",
+    "expected_answer": "Sex and gender significantly impact the prevalence of protective and risk factors and influence the burden of both AD pathology (amyloid and tau) and comorbid pathologies like cerebrovascular disease, which together shape cognitive trajectories. This interacts directly with genetics: carrying the APOE e4 allele raises AD risk more in women than in men, meaning the same genetic risk factor confers different real-world resilience outcomes depending on sex -- and resilience itself appears to shift across different ages and disease stages rather than being fixed.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 14.566320180892944
+  },
+  {
+    "question_id": "q27",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The glymphaticatic system, sleep, and aging, interact to form a proposed 'final common pathway' pathway to dementia, and this relates amyloid and tau aggregation seen Alzheimer's disease specifically.",
+    "expected_answer": "The glymphatic system clears the brain of protein waste products and is mostly active during sleep, but it degrades with age -- so aging and poor sleep compound to reduce clearance capacity. Since this system's role is clearing aggregation-prone proteins, its failure is proposed as a 'final common pathway' across neurodegenerative dementias, including Alzheimer's, where impaired clearance would be expected to worsen the buildup of amyloid-beta plaques and hyperphosphorylated tau tangles that define AD's core pathology.",
+    "vector_hit_rate": 0.3333333333333333,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 10.27915906906128
+  },
+  {
+    "question_id": "q27",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The glymphatic system, sleep and aging interact to form a proposed 'final common pathway to dementia. Aging, sleep and sleep Disturbance sleep Disturbance sleep Distances sleep sleepances Distances sleepances sleep sleep Distances sleep sleepances sleep sleepances sleepances sleepances sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep sleep",
+    "expected_answer": "The glymphatic system clears the brain of protein waste products and is mostly active during sleep, but it degrades with age -- so aging and poor sleep compound to reduce clearance capacity. Since this system's role is clearing aggregation-prone proteins, its failure is proposed as a 'final common pathway' across neurodegenerative dementias, including Alzheimer's, where impaired clearance would be expected to worsen the buildup of amyloid-beta plaques and hyperphosphorylated tau tangles that define AD's core pathology.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.8333333333333334,
+    "elapsed_seconds": 17.425543785095215
+  },
+  {
+    "question_id": "q27",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The glymphatic system, sleep, and aging, are interconnected, to form a, dementia, pathway. The, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
+    "expected_answer": "The glymphatic system clears the brain of protein waste products and is mostly active during sleep, but it degrades with age -- so aging and poor sleep compound to reduce clearance capacity. Since this system's role is clearing aggregation-prone proteins, its failure is proposed as a 'final common pathway' across neurodegenerative dementias, including Alzheimer's, where impaired clearance would be expected to worsen the buildup of amyloid-beta plaques and hyperphosphorylated tau tangles that define AD's core pathology.",
+    "vector_hit_rate": 0.3333333333333333,
+    "graph_hit_rate": 0.8333333333333334,
+    "elapsed_seconds": 19.15360426902771
+  },
+  {
+    "question_id": "q28",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "Alzheimer societal impact of Alzheimer's disease when considering economic burden, caregiver burden, and epidemiological prevalence trends together is a huge, burden on patients and and caregivers. Overall rise of each cost component could be anticipated with disease deterioration. Choice special special caregiving accommodation could reduce caregiver's's productivity loss increase direct nonmedical expenditure of the disease societal perspective.",
+    "expected_answer": "AD prevalence continues to rise with global population aging, and the disease is expected to remain the leading cause of dementia (50-70% of cases). This growing prevalence directly drives cost: the global cost of dementia care is projected to reach roughly $2 trillion by 2030, with indirect caregiving costs (largely borne by family caregivers) as the single largest cost contributor for community-dwelling patients, while formal caregiving accommodation shifts costs toward direct expenditure. Together, rising prevalence and disproportionate caregiving burden make AD an escalating public health and economic priority, reinforcing the case for early prevention efforts targeting modifiable risk factors.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 11.807656526565552
+  },
+  {
+    "question_id": "q28",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The overall societal impact of Alzheimer's disease is significant societal, with a combination of economic burden, caregiver burden, and epidemiological prevalence trends. The global cost of AD-related dementia care is projected to reach roughly $2 trillion by 2030.",
+    "expected_answer": "AD prevalence continues to rise with global population aging, and the disease is expected to remain the leading cause of dementia (50-70% of cases). This growing prevalence directly drives cost: the global cost of dementia care is projected to reach roughly $2 trillion by 2030, with indirect caregiving costs (largely borne by family caregivers) as the single largest cost contributor for community-dwelling patients, while formal caregiving accommodation shifts costs toward direct expenditure. Together, rising prevalence and disproportionate caregiving burden make AD an escalating public health and economic priority, reinforcing the case for early prevention efforts targeting modifiable risk factors.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 8.717788696289062
+  },
+  {
+    "question_id": "q28",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The overall societal impact of Alzheimer's disease is projected to reach roughly $2 trillion by 2033 200300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "expected_answer": "AD prevalence continues to rise with global population aging, and the disease is expected to remain the leading cause of dementia (50-70% of cases). This growing prevalence directly drives cost: the global cost of dementia care is projected to reach roughly $2 trillion by 2030, with indirect caregiving costs (largely borne by family caregivers) as the single largest cost contributor for community-dwelling patients, while formal caregiving accommodation shifts costs toward direct expenditure. Together, rising prevalence and disproportionate caregiving burden make AD an escalating public health and economic priority, reinforcing the case for early prevention efforts targeting modifiable risk factors.",
+    "vector_hit_rate": 0.6666666666666666,
+    "graph_hit_rate": 1.0,
+    "elapsed_seconds": 16.36372709274292
+  },
+  {
+    "question_id": "q29",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The StatPearls textbook's staged clinical and pathological description of Alzheimer's disease aligns with the biomarker-based findings on amyloid, tau, tau, and imaging, and biomarkers described in the PubMed literature.",
+    "expected_answer": "The textbook frames AD through etiology, pathophysiology, histopathology, staging, and prognosis sections that describe progressive amyloid plaque and neurofibrillary tangle accumulation alongside clinical decline. This matches the PubMed literature's biomarker-based framing: fluid biomarkers (CSF/plasma amyloid-beta and tau) and imaging biomarkers (amyloid PET, tau PET, structural MRI) are used to detect the same underlying amyloid/tau pathology described in the textbook, but push detection earlier -- into a 'preclinical' stage before clinical symptoms appear -- refining the textbook's clinical staging with molecular and imaging precision.",
+    "vector_hit_rate": 0.25,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 9.239500284194946
+  },
+  {
+    "question_id": "q29",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The StatPearls textbook's staged clinical and pathological description of Alzheimer's disease aligns with the biomarker-based findings on amyloid, tau and and imaging described in the literature.",
+    "expected_answer": "The textbook frames AD through etiology, pathophysiology, histopathology, staging, and prognosis sections that describe progressive amyloid plaque and neurofibrillary tangle accumulation alongside clinical decline. This matches the PubMed literature's biomarker-based framing: fluid biomarkers (CSF/plasma amyloid-beta and tau) and imaging biomarkers (amyloid PET, tau PET, structural MRI) are used to detect the same underlying amyloid/tau pathology described in the textbook, but push detection earlier -- into a 'preclinical' stage before clinical symptoms appear -- refining the textbook's clinical staging with molecular and imaging precision.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.7142857142857143,
+    "elapsed_seconds": 6.028486728668213
+  },
+  {
+    "question_id": "q29",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "The StatPearls textbook's textbook's staged clinical and pathological description of Alzheimer's disease aligns with the biomarker-based findings on amyloid, tau, and imaging, and tau, and, and, and and, and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+    "expected_answer": "The textbook frames AD through etiology, pathophysiology, histopathology, staging, and prognosis sections that describe progressive amyloid plaque and neurofibrillary tangle accumulation alongside clinical decline. This matches the PubMed literature's biomarker-based framing: fluid biomarkers (CSF/plasma amyloid-beta and tau) and imaging biomarkers (amyloid PET, tau PET, structural MRI) are used to detect the same underlying amyloid/tau pathology described in the textbook, but push detection earlier -- into a 'preclinical' stage before clinical symptoms appear -- refining the textbook's clinical staging with molecular and imaging precision.",
+    "vector_hit_rate": 0.25,
+    "graph_hit_rate": 0.7142857142857143,
+    "elapsed_seconds": 18.118435621261597
+  },
+  {
+    "question_id": "q30",
+    "method": "vectorrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "A comprehensive Alzheimer's prevention strategy for Alzheimer's prevention of Alzheimer's disease would include a combination of both genetic and and modifiable risk factors. Genetic risk factors include some of of the of of the of of the of of the of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of",
+    "expected_answer": "A comprehensive strategy would combine early genetic risk stratification (APOE genotyping to identify e4 carriers at elevated risk, with awareness that risk is sex-modified, and family-history screening given the 10-30% risk increase with an affected first-degree relative) with modifiable-factor interventions started in midlife or earlier: promoting physical activity (a consistently protective factor), managing cardiovascular/vascular risk factors, reducing environmental exposures like air pollution, and protecting sleep quality to preserve glymphatic clearance. Because AD is described as starting decades before clinical symptoms, this combined genetic-plus-lifestyle approach targeting non-demented middle-aged and elderly populations offers the greatest potential to prevent or delay onset, complementing emerging disease-modifying drug therapies rather than replacing them.",
+    "vector_hit_rate": 0.16666666666666666,
+    "graph_hit_rate": null,
+    "elapsed_seconds": 15.746572017669678
+  },
+  {
+    "question_id": "q30",
+    "method": "graphrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "A comprehensive Alzheimer's prevention strategy for Alzheimer's prevention of would include:\n\n1. Genetic Risk factors: \n1. - Genetic testing for APOE3 and early detection of APOE4\n.2 - early of APO4\n3. - ofPO434. - of4. of4. of4.44 of.44 of4 of4 of44 of of4 of of4 of4 of4 of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of",
+    "expected_answer": "A comprehensive strategy would combine early genetic risk stratification (APOE genotyping to identify e4 carriers at elevated risk, with awareness that risk is sex-modified, and family-history screening given the 10-30% risk increase with an affected first-degree relative) with modifiable-factor interventions started in midlife or earlier: promoting physical activity (a consistently protective factor), managing cardiovascular/vascular risk factors, reducing environmental exposures like air pollution, and protecting sleep quality to preserve glymphatic clearance. Because AD is described as starting decades before clinical symptoms, this combined genetic-plus-lifestyle approach targeting non-demented middle-aged and elderly populations offers the greatest potential to prevent or delay onset, complementing emerging disease-modifying drug therapies rather than replacing them.",
+    "vector_hit_rate": null,
+    "graph_hit_rate": 0.14285714285714285,
+    "elapsed_seconds": 20.956963062286377
+  },
+  {
+    "question_id": "q30",
+    "method": "hybridrag",
+    "designed_to_favor": "hybridrag",
+    "generated_answer": "A comprehensive Alzheimer's prevention strategy for Alzheimer's prevention of Alzheimer's disease would include addressing both genetic risk factors, modifiable risk factors, and comorbbidities. This would include lifestyle, physical activity, cognitive stimulation, diet, and, and and, and and, and and, and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+    "expected_answer": "A comprehensive strategy would combine early genetic risk stratification (APOE genotyping to identify e4 carriers at elevated risk, with awareness that risk is sex-modified, and family-history screening given the 10-30% risk increase with an affected first-degree relative) with modifiable-factor interventions started in midlife or earlier: promoting physical activity (a consistently protective factor), managing cardiovascular/vascular risk factors, reducing environmental exposures like air pollution, and protecting sleep quality to preserve glymphatic clearance. Because AD is described as starting decades before clinical symptoms, this combined genetic-plus-lifestyle approach targeting non-demented middle-aged and elderly populations offers the greatest potential to prevent or delay onset, complementing emerging disease-modifying drug therapies rather than replacing them.",
+    "vector_hit_rate": 0.16666666666666666,
+    "graph_hit_rate": 0.14285714285714285,
+    "elapsed_seconds": 19.474960565567017
+  }
+]

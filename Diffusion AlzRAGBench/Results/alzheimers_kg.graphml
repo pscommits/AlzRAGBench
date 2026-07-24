@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="evidence" attr.type="string" />
+  <key id="d4" for="edge" attr.name="source_articles" attr.type="string" />
+  <key id="d3" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="AD">
+      <data key="d0">Alzheimer's Disease</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Most common cause of dementia worldwide; biologically defined by amyloid plaques and neurofibrillary tangles</data>
+    </node>
+    <node id="Dementia">
+      <data key="d0">Dementia</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Umbrella syndrome of acquired cognitive decline affecting daily function</data>
+    </node>
+    <node id="VascularDementia">
+      <data key="d0">Vascular Dementia</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Second most common dementia subtype, driven by cerebrovascular disease</data>
+    </node>
+    <node id="MixedDementia">
+      <data key="d0">Mixed Dementia</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Co-occurrence of more than one dementia pathology, most often AD plus vascular dementia</data>
+    </node>
+    <node id="MCI">
+      <data key="d0">Mild Cognitive Impairment</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Prodromal cognitive decline stage; amnestic MCI often precedes AD</data>
+    </node>
+    <node id="DownSyndrome">
+      <data key="d0">Down Syndrome</data>
+      <data key="d1">Disease</data>
+      <data key="d2">Trisomy 21 condition; extra APP gene copy links it to the amyloid hypothesis</data>
+    </node>
+    <node id="AmyloidBeta">
+      <data key="d0">Amyloid-beta (Abeta)</data>
+      <data key="d1">Protein</data>
+      <data key="d2">Peptide fragment of APP that aggregates into amyloid plaques; core AD biomarker</data>
+    </node>
+    <node id="APP">
+      <data key="d0">Amyloid Precursor Protein / APP gene</data>
+      <data key="d1">Protein_Gene</data>
+      <data key="d2">Transmembrane protein cleaved to release amyloid-beta; gene on chromosome 21</data>
+    </node>
+    <node id="TauProtein">
+      <data key="d0">Tau Protein</data>
+      <data key="d1">Protein</data>
+      <data key="d2">Microtubule-stabilizing protein; hyperphosphorylated form aggregates into tangles</data>
+    </node>
+    <node id="NFT">
+      <data key="d0">Neurofibrillary Tangles</data>
+      <data key="d1">Pathology</data>
+      <data key="d2">Intracellular aggregates of hyperphosphorylated tau; hallmark AD pathology</data>
+    </node>
+    <node id="AmyloidPlaques">
+      <data key="d0">Amyloid Plaques</data>
+      <data key="d1">Pathology</data>
+      <data key="d2">Extracellular aggregates of amyloid-beta fibrils; hallmark AD pathology</data>
+    </node>
+    <node id="APOE">
+      <data key="d0">Apolipoprotein E (APOE)</data>
+      <data key="d1">Protein_Gene</data>
+      <data key="d2">Lipid-transport protein/gene; allele status is the major genetic risk modifier for sporadic AD</data>
+    </node>
+    <node id="APOE_e4">
+      <data key="d0">APOE epsilon-4 allele</data>
+      <data key="d1">GeneVariant</data>
+      <data key="d2">Strongest common genetic risk factor for sporadic AD</data>
+    </node>
+    <node id="APOE_e2">
+      <data key="d0">APOE epsilon-2 allele</data>
+      <data key="d1">GeneVariant</data>
+      <data key="d2">Strongest common genetic protective factor against AD</data>
+    </node>
+    <node id="PSEN1">
+      <data key="d0">Presenilin 1 (PSEN1)</data>
+      <data key="d1">Gene</data>
+      <data key="d2">Gene on chromosome 14; mutations cause autosomal-dominant familial AD</data>
+    </node>
+    <node id="PSEN2">
+      <data key="d0">Presenilin 2 (PSEN2)</data>
+      <data key="d1">Gene</data>
+      <data key="d2">Gene on chromosome 1; mutations cause autosomal-dominant familial AD</data>
+    </node>
+    <node id="Chr21">
+      <data key="d0">Chromosome 21</data>
+      <data key="d1">Chromosome</data>
+      <data key="d2">Carries the APP gene; triplicated in Down syndrome</data>
+    </node>
+    <node id="Chr14">
+      <data key="d0">Chromosome 14</data>
+      <data key="d1">Chromosome</data>
+      <data key="d2">Carries the PSEN1 gene</data>
+    </node>
+    <node id="Chr1">
+      <data key="d0">Chromosome 1</data>
+      <data key="d1">Chromosome</data>
+      <data key="d2">Carries the PSEN2 gene</data>
+    </node>
+    <node id="Hippocampus">
+      <data key="d0">Hippocampus</data>
+      <data key="d1">BrainRegion</data>
+      <data key="d2">Brain region for memory formation; earliest major atrophy site in AD</data>
+    </node>
+    <node id="Microglia">
+      <data key="d0">Microglia</data>
+      <data key="d1">CellType</data>
+      <data key="d2">Brain innate-immune cells; mediate neuroinflammation and interact with Abeta and tau</data>
+    </node>
+    <node id="Neuroinflammation">
+      <data key="d0">Neuroinflammation</data>
+      <data key="d1">Mechanism</data>
+      <data key="d2">Innate immune activation implicated in AD pathogenesis, partly independent of amyloid</data>
+    </node>
+    <node id="GlymphaticSystem">
+      <data key="d0">Glymphatic System</data>
+      <data key="d1">Mechanism</data>
+      <data key="d2">Brain waste-clearance system, most active during sleep; degrades with age</data>
+    </node>
+    <node id="SleepDisturbance">
+      <data key="d0">Sleep Disturbance</data>
+      <data key="d1">RiskFactor</data>
+      <data key="d2">Impaired sleep architecture is a frequent antecedent of dementia onset</data>
+    </node>
+    <node id="SynapticDysfunction">
+      <data key="d0">Synaptic Dysfunction / Loss</data>
+      <data key="d1">Mechanism</data>
+      <data key="d2">Loss of synaptic homeostasis central to AD-associated cognitive decline</data>
+    </node>
+    <node id="AmyloidCascadeHypothesis">
+      <data key="d0">Amyloid Cascade Hypothesis</data>
+      <data key="d1">Theory</data>
+      <data key="d2">Hypothesis that amyloid-beta accumulation triggers downstream tau pathology and neurodegeneration</data>
+    </node>
+    <node id="NMDAReceptor">
+      <data key="d0">NMDA Receptor</data>
+      <data key="d1">MolecularTarget</data>
+      <data key="d2">Glutamate receptor; pathological overstimulation implicated in excitotoxic neurodegeneration</data>
+    </node>
+    <node id="GlutamateExcitotoxicity">
+      <data key="d0">Glutamate Excitotoxicity</data>
+      <data key="d1">Mechanism</data>
+      <data key="d2">Pathological NMDA receptor overstimulation by glutamate, hypothesized to contribute to AD</data>
+    </node>
+    <node id="Acetylcholine">
+      <data key="d0">Acetylcholine</data>
+      <data key="d1">Neurotransmitter</data>
+      <data key="d2">Neurotransmitter reduced in the AD brain; target of cholinesterase inhibitor therapy</data>
+    </node>
+    <node id="CholinesteraseInhibitors">
+      <data key="d0">Cholinesterase Inhibitors</data>
+      <data key="d1">DrugClass</data>
+      <data key="d2">Main symptomatic AD drug class; raises synaptic acetylcholine</data>
+    </node>
+    <node id="Donepezil">
+      <data key="d0">Donepezil</data>
+      <data key="d1">Drug</data>
+      <data key="d2">Reversible cholinesterase inhibitor used for symptomatic AD treatment</data>
+    </node>
+    <node id="Rivastigmine">
+      <data key="d0">Rivastigmine</data>
+      <data key="d1">Drug</data>
+      <data key="d2">Pseudo-irreversible cholinesterase inhibitor used for AD</data>
+    </node>
+    <node id="Galantamine">
+      <data key="d0">Galantamine</data>
+      <data key="d1">Drug</data>
+      <data key="d2">Reversible cholinesterase inhibitor, less well tolerated than donepezil</data>
+    </node>
+    <node id="Tacrine">
+      <data key="d0">Tacrine</data>
+      <data key="d1">Drug</data>
+      <data key="d2">First licensed cholinesterase inhibitor; withdrawn due to hepatotoxicity</data>
+    </node>
+    <node id="Hepatotoxicity">
+      <data key="d0">Hepatotoxicity</data>
+      <data key="d1">AdverseEffect</data>
+      <data key="d2">Liver toxicity that led to tacrine's discontinuation</data>
+    </node>
+    <node id="Memantine">
+      <data key="d0">Memantine</data>
+      <data key="d1">Drug</data>
+      <data key="d2">NMDA receptor antagonist used for moderate-to-severe AD</data>
+    </node>
+    <node id="AntiAmyloidAntibodies">
+      <data key="d0">Anti-Amyloid Monoclonal Antibodies</data>
+      <data key="d1">DrugClass</data>
+      <data key="d2">Disease-modifying antibody class that clears brain amyloid-beta</data>
+    </node>
+    <node id="Lecanemab">
+      <data key="d0">Lecanemab</data>
+      <data key="d1">Drug</data>
+      <data key="d2">FDA-approved (2023) anti-amyloid antibody; slows cognitive decline, can cause ARIA</data>
+    </node>
+    <node id="Aducanumab">
+      <data key="d0">Aducanumab</data>
+      <data key="d1">Drug</data>
+      <data key="d2">FDA accelerated-approval anti-amyloid antibody for early AD</data>
+    </node>
+    <node id="ARIA">
+      <data key="d0">Amyloid-Related Imaging Abnormalities (ARIA)</data>
+      <data key="d1">AdverseEffect</data>
+      <data key="d2">Brain edema/microhemorrhage side effect of anti-amyloid antibody therapy</data>
+    </node>
+    <node id="FluidBiomarkers">
+      <data key="d0">CSF / Plasma Biomarkers (Abeta42, tau)</data>
+      <data key="d1">Biomarker</data>
+      <data key="d2">Cerebrospinal fluid or plasma amyloid-beta and tau levels used for AD diagnosis</data>
+    </node>
+    <node id="AmyloidPET">
+      <data key="d0">Amyloid PET Imaging</data>
+      <data key="d1">Biomarker</data>
+      <data key="d2">In-vivo imaging technique that detects brain amyloid plaque burden</data>
+    </node>
+    <node id="TauPET">
+      <data key="d0">Tau PET Imaging</data>
+      <data key="d1">Biomarker</data>
+      <data key="d2">Imaging technique for tau pathology; aids differential diagnosis and trial selection</data>
+    </node>
+    <node id="MRIAtrophy">
+      <data key="d0">Structural MRI (atrophy)</data>
+      <data key="d1">Biomarker</data>
+      <data key="d2">Detects hippocampal and cortical atrophy for diagnosis and disease tracking</data>
+    </node>
+    <node id="PhysicalActivity">
+      <data key="d0">Physical Activity</data>
+      <data key="d1">ProtectiveFactor</data>
+      <data key="d2">Associated with a meaningfully lower risk of AD and all-cause dementia</data>
+    </node>
+    <node id="CardiovascularRisk">
+      <data key="d0">Cardiovascular / Vascular Risk Factors</data>
+      <data key="d1">RiskFactor</data>
+      <data key="d2">Hypertension and vascular disease raise dementia and AD risk</data>
+    </node>
+    <node id="AirPollution">
+      <data key="d0">Air Pollution (particulate matter)</data>
+      <data key="d1">RiskFactor</data>
+      <data key="d2">Fine particulate matter and related pollutants raise dementia and AD risk</data>
+    </node>
+    <node id="Aging">
+      <data key="d0">Aging</data>
+      <data key="d1">RiskFactor</data>
+      <data key="d2">The single greatest risk factor for AD and dementia generally</data>
+    </node>
+    <node id="FamilyHistory">
+      <data key="d0">Family History / Genetic Predisposition</data>
+      <data key="d1">RiskFactor</data>
+      <data key="d2">A first-degree relative with AD raises personal risk substantially</data>
+    </node>
+    <node id="CaregiverBurden">
+      <data key="d0">Caregiver Burden</data>
+      <data key="d1">SocialImpact</data>
+      <data key="d2">Indirect caregiving cost is the main driver of AD's societal cost</data>
+    </node>
+    <node id="EconomicBurden">
+      <data key="d0">Economic Burden of AD</data>
+      <data key="d1">SocialImpact</data>
+      <data key="d2">Global dementia care cost is projected to reach roughly $2 trillion by 2030</data>
+    </node>
+    <node id="SexDifferences">
+      <data key="d0">Sex / Gender Differences</data>
+      <data key="d1">ModifyingFactor</data>
+      <data key="d2">Biological sex and gender modify AD risk, pathology burden, and resilience</data>
+    </node>
+    <node id="MemoryLoss">
+      <data key="d0">Memory Loss</data>
+      <data key="d1">Symptom</data>
+      <data key="d2">Short-term memory loss is typically the earliest noticeable AD symptom</data>
+    </node>
+    <node id="CognitiveDecline">
+      <data key="d0">Cognitive Decline</data>
+      <data key="d1">Symptom</data>
+      <data key="d2">Progressive decline in cognition and function across AD stages</data>
+    </node>
+    <edge source="AD" target="Dementia" id="0">
+      <data key="d3">SUBTYPE_OF</data>
+      <data key="d4">wikipedia_dementia</data>
+      <data key="d5">AD accounts for roughly 60-70% of all dementia cases worldwide.</data>
+    </edge>
+    <edge source="VascularDementia" target="AD" id="0">
+      <data key="d3">COMORBID_WITH</data>
+      <data key="d4">wikipedia_dementia</data>
+      <data key="d5">AD is frequently diagnosed alongside vascular dementia as mixed dementia.</data>
+    </edge>
+    <edge source="VascularDementia" target="Dementia" id="0">
+      <data key="d3">SUBTYPE_OF</data>
+      <data key="d4">wikipedia_dementia</data>
+      <data key="d5">Vascular dementia is the second most common dementia subtype.</data>
+    </edge>
+    <edge source="MixedDementia" target="AD" id="0">
+      <data key="d3">COMBINES</data>
+      <data key="d4">wikipedia_dementia</data>
+      <data key="d5">The most common mixed-dementia presentation combines AD with vascular dementia.</data>
+    </edge>
+    <edge source="MixedDementia" target="VascularDementia" id="0">
+      <data key="d3">COMBINES</data>
+      <data key="d4">wikipedia_dementia</data>
+      <data key="d5">The most common mixed-dementia presentation combines AD with vascular dementia.</data>
+    </edge>
+    <edge source="MCI" target="AD" id="0">
+      <data key="d3">PRODROMAL_STAGE_OF</data>
+      <data key="d4">wikipedia_mild_cognitive_impairment</data>
+      <data key="d5">Amnestic MCI is frequently a prodromal stage that converts to AD at roughly 10-15% per year.</data>
+    </edge>
+    <edge source="DownSyndrome" target="Chr21" id="0">
+      <data key="d3">EXTRA_COPY_OF</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">Trisomy 21 gives an extra copy of chromosome 21 and therefore an extra APP gene copy.</data>
+    </edge>
+    <edge source="DownSyndrome" target="AmyloidCascadeHypothesis" id="0">
+      <data key="d3">SUPPORTS_EVIDENCE_FOR</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">The APP triplication in Down syndrome is a key line of evidence for the amyloid hypothesis.</data>
+    </edge>
+    <edge source="DownSyndrome" target="AD" id="0">
+      <data key="d3">ELEVATES_RISK_OF</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">Extra APP dosage in Down syndrome markedly raises lifetime AD risk.</data>
+    </edge>
+    <edge source="AmyloidBeta" target="AmyloidPlaques" id="0">
+      <data key="d3">AGGREGATES_INTO</data>
+      <data key="d4">wikipedia_amyloid_beta</data>
+      <data key="d5">Amyloid-beta oligomers aggregate into fibrils that form the plaques seen in AD brains.</data>
+    </edge>
+    <edge source="AmyloidBeta" target="SynapticDysfunction" id="0">
+      <data key="d3">CAUSES</data>
+      <data key="d4">pubmed_31753135</data>
+      <data key="d5">Amyloid-beta accumulation contributes to synaptic strength reduction and synapse loss.</data>
+    </edge>
+    <edge source="APP" target="AmyloidBeta" id="0">
+      <data key="d3">CLEAVED_TO_PRODUCE</data>
+      <data key="d4">pubmed_31753135</data>
+      <data key="d5">Proteolytic cleavage of APP produces the amyloid-beta fragment central to AD pathology.</data>
+    </edge>
+    <edge source="APP" target="Chr21" id="0">
+      <data key="d3">LOCATED_ON</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">The APP gene resides on chromosome 21.</data>
+    </edge>
+    <edge source="APP" target="AD" id="0">
+      <data key="d3">MUTATION_CAUSES</data>
+      <data key="d4">pubmed_23276979</data>
+      <data key="d5">APP mutations are one of three known causes of autosomal-dominant familial AD.</data>
+    </edge>
+    <edge source="TauProtein" target="NFT" id="0">
+      <data key="d3">HYPERPHOSPHORYLATED_TO_FORM</data>
+      <data key="d4">wikipedia_tau_protein</data>
+      <data key="d5">Hyperphosphorylation converts normally microtubule-stabilizing tau into insoluble tangle aggregates.</data>
+    </edge>
+    <edge source="TauProtein" target="SynapticDysfunction" id="0">
+      <data key="d3">CAUSES</data>
+      <data key="d4">pubmed_31753135</data>
+      <data key="d5">Hyperphosphorylated tau aggregation contributes to synaptic strength reduction and synapse loss.</data>
+    </edge>
+    <edge source="NFT" target="AD" id="0">
+      <data key="d3">HALLMARK_OF</data>
+      <data key="d4">pubmed_30135715;pubmed_33986301;pubmed_21371747</data>
+      <data key="d5">Neurofibrillary tangles of hyperphosphorylated tau are one of AD's two classic hallmark pathologies.</data>
+    </edge>
+    <edge source="NFT" target="TauProtein" id="0">
+      <data key="d3">COMPOSED_OF</data>
+      <data key="d4">wikipedia_neurofibrillary_tangle</data>
+      <data key="d5">Neurofibrillary tangles are composed largely of paired helical filaments of hyperphosphorylated tau, distinct from the straight-filament tau seen in other tauopathies.</data>
+    </edge>
+    <edge source="AmyloidPlaques" target="AD" id="0">
+      <data key="d3">HALLMARK_OF</data>
+      <data key="d4">pubmed_30135715;pubmed_33986301</data>
+      <data key="d5">AD is biologically defined by beta-amyloid plaques together with tau neurofibrillary tangles.</data>
+    </edge>
+    <edge source="APOE" target="AmyloidBeta" id="0">
+      <data key="d3">INTERACTS_WITH</data>
+      <data key="d4">pubmed_33340485</data>
+      <data key="d5">APOE was first linked to AD via its effect on amyloid-beta aggregation and clearance.</data>
+    </edge>
+    <edge source="APOE" target="TauProtein" id="0">
+      <data key="d3">INTERACTS_WITH</data>
+      <data key="d4">pubmed_33340485</data>
+      <data key="d5">APOE research has expanded to include effects on tau neurofibrillary degeneration.</data>
+    </edge>
+    <edge source="APOE" target="Microglia" id="0">
+      <data key="d3">MODULATES</data>
+      <data key="d4">pubmed_33340485</data>
+      <data key="d5">APOE genotype shapes microglial and astrocyte inflammatory responses in AD.</data>
+    </edge>
+    <edge source="APOE_e4" target="APOE" id="0">
+      <data key="d3">ALLELE_OF</data>
+      <data key="d4">wikipedia_apolipoprotein_e</data>
+      <data key="d5">APOE has three major alleles; epsilon-4 is one of them.</data>
+    </edge>
+    <edge source="APOE_e4" target="AD" id="0">
+      <data key="d3">STRONGEST_GENETIC_RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_33340485</data>
+      <data key="d5">APOE epsilon-4 remains the strongest genetic risk factor for sporadic AD after large GWAS meta-analyses.</data>
+    </edge>
+    <edge source="APOE_e4" target="SexDifferences" id="0">
+      <data key="d3">RISK_MODIFIED_BY</data>
+      <data key="d4">wikipedia_apolipoprotein_e</data>
+      <data key="d5">Carrying APOE4 raises AD risk more in women than in men.</data>
+    </edge>
+    <edge source="APOE_e2" target="APOE" id="0">
+      <data key="d3">ALLELE_OF</data>
+      <data key="d4">wikipedia_apolipoprotein_e</data>
+      <data key="d5">APOE has three major alleles; epsilon-2 is one of them.</data>
+    </edge>
+    <edge source="APOE_e2" target="AD" id="0">
+      <data key="d3">PROTECTIVE_FACTOR_FOR</data>
+      <data key="d4">pubmed_33340485</data>
+      <data key="d5">APOE epsilon-2 is the strongest known genetic protective factor against AD.</data>
+    </edge>
+    <edge source="PSEN1" target="Chr14" id="0">
+      <data key="d3">LOCATED_ON</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">PSEN1 is located on chromosome 14.</data>
+    </edge>
+    <edge source="PSEN1" target="AD" id="0">
+      <data key="d3">MUTATION_CAUSES</data>
+      <data key="d4">pubmed_23276979</data>
+      <data key="d5">PSEN1 mutations are one of three known causes of autosomal-dominant familial AD.</data>
+    </edge>
+    <edge source="PSEN2" target="Chr1" id="0">
+      <data key="d3">LOCATED_ON</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">PSEN2 is located on chromosome 1.</data>
+    </edge>
+    <edge source="PSEN2" target="AD" id="0">
+      <data key="d3">MUTATION_CAUSES</data>
+      <data key="d4">pubmed_23276979</data>
+      <data key="d5">PSEN2 mutations are one of three known causes of autosomal-dominant familial AD.</data>
+    </edge>
+    <edge source="Hippocampus" target="AD" id="0">
+      <data key="d3">ATROPHIES_IN</data>
+      <data key="d4">pubmed_26827786</data>
+      <data key="d5">Hippocampal volumetry and atrophy tracking are established outcome markers in AD research.</data>
+    </edge>
+    <edge source="Hippocampus" target="MemoryLoss" id="0">
+      <data key="d3">SUPPORTS_FUNCTION_OF</data>
+      <data key="d4">wikipedia_alzheimers_disease</data>
+      <data key="d5">AD targets the hippocampus, the brain region responsible for memory formation.</data>
+    </edge>
+    <edge source="Microglia" target="Neuroinflammation" id="0">
+      <data key="d3">MEDIATES</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">Microglia-mediated responses are the primary drivers of AD-associated neuroinflammation.</data>
+    </edge>
+    <edge source="Microglia" target="AmyloidBeta" id="0">
+      <data key="d3">INTERACTS_WITH</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">Microglia physically interact with amyloid-beta deposits as part of the innate immune response.</data>
+    </edge>
+    <edge source="Microglia" target="TauProtein" id="0">
+      <data key="d3">INTERACTS_WITH</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">Microglia also interact with tau pathology, influencing its spread and clearance.</data>
+    </edge>
+    <edge source="Neuroinflammation" target="AmyloidCascadeHypothesis" id="0">
+      <data key="d3">CHALLENGES</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">Evidence for neuroinflammation's independent role has weakened the pure amyloid-centric model.</data>
+    </edge>
+    <edge source="Neuroinflammation" target="AD" id="0">
+      <data key="d3">CONTRIBUTES_TO</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">Elevated inflammatory markers and innate-immune AD risk genes point to neuroinflammation as a core disease driver.</data>
+    </edge>
+    <edge source="GlymphaticSystem" target="AmyloidBeta" id="0">
+      <data key="d3">CLEARS</data>
+      <data key="d4">pubmed_33004510</data>
+      <data key="d5">The glymphatic system is a proposed clearance route for amyloid-beta and other aggregation-prone proteins.</data>
+    </edge>
+    <edge source="SleepDisturbance" target="Dementia" id="0">
+      <data key="d3">PRECEDES_ONSET_OF</data>
+      <data key="d4">pubmed_33004510</data>
+      <data key="d5">Disrupted sleep architecture frequently precedes clinical dementia onset.</data>
+    </edge>
+    <edge source="SleepDisturbance" target="GlymphaticSystem" id="0">
+      <data key="d3">IMPAIRS</data>
+      <data key="d4">pubmed_33004510</data>
+      <data key="d5">Poor sleep reduces the glymphatic system's brain-clearance activity, which is greatest during sleep.</data>
+    </edge>
+    <edge source="SynapticDysfunction" target="AD" id="0">
+      <data key="d3">CENTRAL_TO</data>
+      <data key="d4">pubmed_33986301</data>
+      <data key="d5">Loss of synaptic homeostasis is framed as central to AD's biological definition.</data>
+    </edge>
+    <edge source="SynapticDysfunction" target="CognitiveDecline" id="0">
+      <data key="d3">LEADS_TO</data>
+      <data key="d4">pubmed_33986301</data>
+      <data key="d5">Progressive synaptic loss underlies the cognitive decline seen across AD stages.</data>
+    </edge>
+    <edge source="AmyloidCascadeHypothesis" target="AD" id="0">
+      <data key="d3">EXPLAINS</data>
+      <data key="d4">pubmed_36911732</data>
+      <data key="d5">The amyloid cascade hypothesis has long been the leading model of AD pathogenesis.</data>
+    </edge>
+    <edge source="NMDAReceptor" target="GlutamateExcitotoxicity" id="0">
+      <data key="d3">OVERSTIMULATED_IN</data>
+      <data key="d4">pubmed_12672860</data>
+      <data key="d5">Pathological NMDA receptor overstimulation by glutamate drives excitotoxic neurodegeneration.</data>
+    </edge>
+    <edge source="GlutamateExcitotoxicity" target="AD" id="0">
+      <data key="d3">CONTRIBUTES_TO</data>
+      <data key="d4">wikipedia_memantine</data>
+      <data key="d5">Glutamatergic excitotoxicity is hypothesized to contribute to AD's etiology.</data>
+    </edge>
+    <edge source="CholinesteraseInhibitors" target="Acetylcholine" id="0">
+      <data key="d3">INCREASES</data>
+      <data key="d4">wikipedia_cholinesterase_inhibitor</data>
+      <data key="d5">Cholinesterase inhibitors block acetylcholine breakdown, raising synaptic acetylcholine levels.</data>
+    </edge>
+    <edge source="CholinesteraseInhibitors" target="AD" id="0">
+      <data key="d3">TREATS</data>
+      <data key="d4">pubmed_33035532</data>
+      <data key="d5">Cholinesterase inhibitors are the main class of drugs used for symptomatic AD treatment.</data>
+    </edge>
+    <edge source="Donepezil" target="CholinesteraseInhibitors" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_33035532;wikipedia_cholinesterase_inhibitor</data>
+      <data key="d5">Donepezil is one of the three cholinesterase inhibitors currently on the market for AD.</data>
+    </edge>
+    <edge source="Donepezil" target="MCI" id="0">
+      <data key="d3">MINOR_BENEFIT_FOR</data>
+      <data key="d4">wikipedia_mild_cognitive_impairment</data>
+      <data key="d5">Donepezil showed only minor, short-term cognitive benefit in MCI trials, with notable side effects.</data>
+    </edge>
+    <edge source="Rivastigmine" target="CholinesteraseInhibitors" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_33035532;wikipedia_cholinesterase_inhibitor</data>
+      <data key="d5">Rivastigmine is one of the three cholinesterase inhibitors currently on the market for AD.</data>
+    </edge>
+    <edge source="Rivastigmine" target="MCI" id="0">
+      <data key="d3">NO_BENEFIT_FOR</data>
+      <data key="d4">wikipedia_mild_cognitive_impairment</data>
+      <data key="d5">Rivastigmine failed to slow progression from MCI to AD in trials.</data>
+    </edge>
+    <edge source="Galantamine" target="CholinesteraseInhibitors" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_33035532;wikipedia_cholinesterase_inhibitor</data>
+      <data key="d5">Galantamine is one of the three cholinesterase inhibitors currently on the market for AD.</data>
+    </edge>
+    <edge source="Tacrine" target="CholinesteraseInhibitors" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_33035532</data>
+      <data key="d5">Tacrine was the first licensed cholinesterase inhibitor for AD.</data>
+    </edge>
+    <edge source="Tacrine" target="Hepatotoxicity" id="0">
+      <data key="d3">DISCONTINUED_DUE_TO</data>
+      <data key="d4">pubmed_33035532</data>
+      <data key="d5">Tacrine was withdrawn from clinical use because of hepatotoxicity.</data>
+    </edge>
+    <edge source="Memantine" target="NMDAReceptor" id="0">
+      <data key="d3">ANTAGONIST_OF</data>
+      <data key="d4">pubmed_12672860;wikipedia_memantine</data>
+      <data key="d5">Memantine is an uncompetitive NMDA receptor antagonist.</data>
+    </edge>
+    <edge source="Memantine" target="AD" id="0">
+      <data key="d3">TREATS</data>
+      <data key="d4">pubmed_12672860</data>
+      <data key="d5">A placebo-controlled trial found memantine reduced clinical deterioration in moderate-to-severe AD.</data>
+    </edge>
+    <edge source="AntiAmyloidAntibodies" target="AmyloidPlaques" id="0">
+      <data key="d3">REDUCES</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">Anti-amyloid antibodies produce a marked reduction in total brain amyloid burden on PET.</data>
+    </edge>
+    <edge source="AntiAmyloidAntibodies" target="CognitiveDecline" id="0">
+      <data key="d3">SLOWS</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">Anti-amyloid antibody trials achieved roughly a 30% slowing of cognitive decline.</data>
+    </edge>
+    <edge source="Lecanemab" target="AntiAmyloidAntibodies" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">Lecanemab is one of the anti-amyloid monoclonal antibodies approved for early AD.</data>
+    </edge>
+    <edge source="Lecanemab" target="AD" id="0">
+      <data key="d3">TREATS</data>
+      <data key="d4">wikipedia_lecanemab</data>
+      <data key="d5">Lecanemab received full FDA approval in 2023 for treating early Alzheimer's disease.</data>
+    </edge>
+    <edge source="Lecanemab" target="ARIA" id="0">
+      <data key="d3">CAUSES</data>
+      <data key="d4">wikipedia_lecanemab</data>
+      <data key="d5">Lecanemab treatment can cause amyloid-related imaging abnormalities (brain edema or microhemorrhage).</data>
+    </edge>
+    <edge source="Aducanumab" target="AntiAmyloidAntibodies" id="0">
+      <data key="d3">MEMBER_OF_CLASS</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">Aducanumab is one of the anti-amyloid monoclonal antibodies approved for early AD.</data>
+    </edge>
+    <edge source="Aducanumab" target="AD" id="0">
+      <data key="d3">TREATS</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">Aducanumab received accelerated FDA approval for treating early Alzheimer's disease.</data>
+    </edge>
+    <edge source="ARIA" target="AntiAmyloidAntibodies" id="0">
+      <data key="d3">SIDE_EFFECT_OF</data>
+      <data key="d4">pubmed_37955845</data>
+      <data key="d5">ARIA monitoring via MRI is a standard safety requirement across anti-amyloid antibody therapies.</data>
+    </edge>
+    <edge source="FluidBiomarkers" target="AmyloidBeta" id="0">
+      <data key="d3">MEASURES</data>
+      <data key="d4">pubmed_26921134</data>
+      <data key="d5">CSF amyloid-beta42 is an established core fluid biomarker for AD.</data>
+    </edge>
+    <edge source="FluidBiomarkers" target="TauProtein" id="0">
+      <data key="d3">MEASURES</data>
+      <data key="d4">pubmed_26921134</data>
+      <data key="d5">CSF tau is an established core fluid biomarker for AD.</data>
+    </edge>
+    <edge source="FluidBiomarkers" target="AD" id="0">
+      <data key="d3">BIOMARKER_FOR</data>
+      <data key="d4">pubmed_34456336</data>
+      <data key="d5">Amyloid-beta pathway biomarkers underpin modern biological definitions of AD.</data>
+    </edge>
+    <edge source="FluidBiomarkers" target="MCI" id="0">
+      <data key="d3">DIAGNOSTIC_FOR</data>
+      <data key="d4">pubmed_38849944</data>
+      <data key="d5">A low plasma Abeta42/40 ratio strongly supported AD diagnosis in an MCI/early-dementia trial cohort.</data>
+    </edge>
+    <edge source="AmyloidPET" target="AmyloidPlaques" id="0">
+      <data key="d3">DETECTS</data>
+      <data key="d4">pubmed_26921134;wikipedia_amyloid_beta</data>
+      <data key="d5">Amyloid PET imaging visualizes brain amyloid plaque burden in vivo.</data>
+    </edge>
+    <edge source="TauPET" target="NFT" id="0">
+      <data key="d3">DETECTS</data>
+      <data key="d4">pubmed_26921134</data>
+      <data key="d5">Tau PET imaging visualizes neurofibrillary tangle burden and aids differential diagnosis.</data>
+    </edge>
+    <edge source="MRIAtrophy" target="Hippocampus" id="0">
+      <data key="d3">MEASURES</data>
+      <data key="d4">pubmed_26827786</data>
+      <data key="d5">Structural MRI is the primary tool for quantifying hippocampal and cortical atrophy in AD.</data>
+    </edge>
+    <edge source="MRIAtrophy" target="AD" id="0">
+      <data key="d3">BIOMARKER_FOR</data>
+      <data key="d4">pubmed_26921134</data>
+      <data key="d5">MRI is an established imaging technique for AD diagnosis and progression tracking.</data>
+    </edge>
+    <edge source="MRIAtrophy" target="MCI" id="0">
+      <data key="d3">DETECTS_PROGRESSION_IN</data>
+      <data key="d4">wikipedia_mild_cognitive_impairment</data>
+      <data key="d5">MRI can track progressive gray-matter loss as MCI converts toward full AD dementia.</data>
+    </edge>
+    <edge source="PhysicalActivity" target="AD" id="0">
+      <data key="d3">PROTECTIVE_FACTOR_FOR</data>
+      <data key="d4">pubmed_35301183</data>
+      <data key="d5">Meta-analysis found physical activity associated with a meaningfully lower AD incidence.</data>
+    </edge>
+    <edge source="PhysicalActivity" target="Dementia" id="0">
+      <data key="d3">PROTECTIVE_FACTOR_FOR</data>
+      <data key="d4">pubmed_35301183</data>
+      <data key="d5">Physical activity is also associated with lower all-cause and vascular dementia incidence.</data>
+    </edge>
+    <edge source="CardiovascularRisk" target="VascularDementia" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_39889875;wikipedia_dementia</data>
+      <data key="d5">Vascular and cardiovascular risk factors are the primary drivers of vascular dementia.</data>
+    </edge>
+    <edge source="CardiovascularRisk" target="AD" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_34101789</data>
+      <data key="d5">Vascular risk factors are among the modifiable contributors to AD risk.</data>
+    </edge>
+    <edge source="AirPollution" target="AD" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_39889875</data>
+      <data key="d5">Fine particulate matter and related pollutants were associated with higher AD dementia risk in an umbrella review.</data>
+    </edge>
+    <edge source="AirPollution" target="VascularDementia" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_39889875</data>
+      <data key="d5">Fine particulate matter and chronic noise were associated with higher vascular dementia risk.</data>
+    </edge>
+    <edge source="Aging" target="AD" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">pubmed_21371747;wikipedia_dementia</data>
+      <data key="d5">Aging is the greatest single risk factor for AD and dementia generally.</data>
+    </edge>
+    <edge source="Aging" target="GlymphaticSystem" id="0">
+      <data key="d3">DEGRADES</data>
+      <data key="d4">pubmed_33004510</data>
+      <data key="d5">Glymphatic clearance efficiency declines with age.</data>
+    </edge>
+    <edge source="FamilyHistory" target="AD" id="0">
+      <data key="d3">RISK_FACTOR_FOR</data>
+      <data key="d4">textbook_statpearls_alzheimer_disease</data>
+      <data key="d5">A first-degree relative with AD raises personal risk by roughly 10-30%.</data>
+    </edge>
+    <edge source="CaregiverBurden" target="AD" id="0">
+      <data key="d3">RESULTS_FROM</data>
+      <data key="d4">pubmed_37972428</data>
+      <data key="d5">Indirect caregiving costs are the largest single contributor to AD's societal cost.</data>
+    </edge>
+    <edge source="CaregiverBurden" target="EconomicBurden" id="0">
+      <data key="d3">CONTRIBUTES_TO</data>
+      <data key="d4">pubmed_37972428</data>
+      <data key="d5">Indirect caregiving cost is the main driver of AD's overall societal economic burden.</data>
+    </edge>
+    <edge source="EconomicBurden" target="AD" id="0">
+      <data key="d3">RESULTS_FROM</data>
+      <data key="d4">pubmed_37972428</data>
+      <data key="d5">The global cost of AD-related dementia care is projected to reach roughly $2 trillion by 2030.</data>
+    </edge>
+    <edge source="SexDifferences" target="AD" id="0">
+      <data key="d3">MODIFIES_RISK_OF</data>
+      <data key="d4">pubmed_38967222</data>
+      <data key="d5">Sex and gender jointly shape AD risk-factor prevalence, pathology burden, and cognitive resilience.</data>
+    </edge>
+    <edge source="MemoryLoss" target="AD" id="0">
+      <data key="d3">EARLY_SYMPTOM_OF</data>
+      <data key="d4">wikipedia_alzheimers_disease</data>
+      <data key="d5">Short-term memory loss is typically the most noticeable early AD symptom.</data>
+    </edge>
+    <edge source="CognitiveDecline" target="AD" id="0">
+      <data key="d3">SYMPTOM_OF</data>
+      <data key="d4">pubmed_31753135</data>
+      <data key="d5">Progressive cognitive and functional decline defines the clinical course of AD.</data>
+    </edge>
+  </graph>
+</graphml>
