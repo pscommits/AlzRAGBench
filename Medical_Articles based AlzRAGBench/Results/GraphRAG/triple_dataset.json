@@ -1,0 +1,1088 @@
+[
+  {
+    "doc_id": 0,
+    "chunk_id": 0,
+    "pmid": "12672860",
+    "title": "Memantine in moderate-to-severe Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "HEAD",
+        "relation": "RELATION",
+        "tail": "TAIL"
+      },
+      {
+        "head": "Memantine",
+        "relation": "TREATS",
+        "tail": "alzheimer 's disease"
+      },
+      {
+        "head": "Memantine",
+        "relation": "INHIBITS",
+        "tail": "excitatory Amino Acid Antagonists"
+      },
+      {
+        "head": "Memantine",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "disease Progression"
+      }
+    ]
+  },
+  {
+    "doc_id": 1,
+    "chunk_id": 0,
+    "pmid": "21371747",
+    "title": "Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "24 million"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "dementia"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATES_WITH",
+        "tail": "biomark"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "amyloid beta-Peptides"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "tau Proteins"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "brain"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "neurofibrillary Tangles"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "plaque, amyloid"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "neurologic examination"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "diagnostic imaging"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "humans"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "prevalence"
+      },
+      {
+        "head": "Alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "risk factors"
+      }
+    ]
+  },
+  {
+    "doc_id": 2,
+    "chunk_id": 0,
+    "pmid": "23276979",
+    "title": "Genetics of familial and sporadic Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Amyloid beta-Protein Precursor",
+        "relation": "TARGETS",
+        "tail": "Neurofibrillary Tangles"
+      },
+      {
+        "head": "Genetic Predisposition to Disease",
+        "relation": "PREDISPOSES_TO",
+        "tail": "alzheimer ' s disease"
+      },
+      {
+        "head": "Genome-Wide Association Study",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Genetic Predisposition to Disease"
+      },
+      {
+        "head": "Mutation",
+        "relation": "CAUSES",
+        "tail": "alzheimer ' s disease"
+      },
+      {
+        "head": "Humans",
+        "relation": "EXPRESSED_IN",
+        "tail": "alzheimer ' s disease"
+      },
+      {
+        "head": "Models, Genetic",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Genetic Predisposition to Disease"
+      },
+      {
+        "head": "late onset",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "alzheimer ' s disease"
+      }
+    ]
+  },
+  {
+    "doc_id": 3,
+    "chunk_id": 0,
+    "pmid": "26827786",
+    "title": "Brain atrophy in Alzheimer's Disease and aging.",
+    "triples": [
+      {
+        "head": "Human",
+        "relation": "TREATED_BY",
+        "tail": "Magnetic Resonance Imaging"
+      },
+      {
+        "head": "Human",
+        "relation": "CAUSES",
+        "tail": "Brain Atrophy"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Alzheimer's Disease"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Aging"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "White Matter"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Hippocampus"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Cortical Atrophy"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Disease Progression"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Striatum"
+      },
+      {
+        "head": "Human",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Basal Forebrain"
+      }
+    ]
+  },
+  {
+    "doc_id": 4,
+    "chunk_id": 0,
+    "pmid": "26921134",
+    "title": "Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "alzheimer 's disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "dementia"
+      },
+      {
+        "head": "alzheimer 's disease",
+        "relation": "TREATS",
+        "tail": "cognitive decline"
+      },
+      {
+        "head": "alzheimer 's disease",
+        "relation": "CAUSES",
+        "tail": "cognitive decline"
+      },
+      {
+        "head": "Amyloid beta-Peptides",
+        "relation": "PART_OF",
+        "tail": "amy"
+      },
+      {
+        "head": "Amyloid beta-Peptides",
+        "relation": "INTERACTS_WITH",
+        "tail": "tau proteins"
+      },
+      {
+        "head": "Amyloid \u03b242",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "amyloid"
+      },
+      {
+        "head": "Amyloid \u03b242",
+        "relation": "PART_OF",
+        "tail": "amyloid"
+      },
+      {
+        "head": "Amyloid \u03b2 oligomers",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "amyloid"
+      },
+      {
+        "head": "Amyloid \u03b2 oligomers",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "tau proteins"
+      },
+      {
+        "head": "Amyloid PET",
+        "relation": "INTERACTS_WITH",
+        "tail": "diagnosis"
+      },
+      {
+        "head": "MRI",
+        "relation": "INTERACTS_WITH",
+        "tail": "diagnosis"
+      },
+      {
+        "head": "Fluorodeoxyglucose F18",
+        "relation": "USED_IN",
+        "tail": "diagnosis"
+      },
+      {
+        "head": "Amyloid PET",
+        "relation": "GAINING_TRACTION_IN",
+        "tail": "clinical arena"
+      },
+      {
+        "head": "Tau PET",
+        "relation": "MIGHT_OFFER_NEW_INSIGHTS",
+        "tail": "differential diagnosis"
+      },
+      {
+        "head": "Tau PET",
+        "relation": "MIGHT_BE_OF_GREAT_HELP",
+        "tail": "differential diagnosis"
+      },
+      {
+        "head": "Tau PET",
+        "relation": "MIGHT_BE_OF_GREAT_HELP",
+        "tail": "selection of patients for trials"
+      },
+      {
+        "head": "lifestyle factors",
+        "relation": "TARGETS",
+        "tail": "risk reduction behavior"
+      }
+    ]
+  },
+  {
+    "doc_id": 5,
+    "chunk_id": 0,
+    "pmid": "30135715",
+    "title": "Current understanding of Alzheimer's disease diagnosis and treatment.",
+    "triples": [
+      {
+        "head": "Alzheimer Disease",
+        "relation": "CAUSES",
+        "tail": "dementia"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "\u03b2-amyloid plaque deposition"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "neurofibrillary tangles"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "TREATS",
+        "tail": "symptomatic therapy"
+      }
+    ]
+  },
+  {
+    "doc_id": 6,
+    "chunk_id": 0,
+    "pmid": "31753135",
+    "title": "Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "AD dementia"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "PART_OF",
+        "tail": "neurodegenerative dementia"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "REGULATES",
+        "tail": "amyloid precursor protein (APP)"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "CAUSES",
+        "tail": "cognitive and functional decline"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "amyloid-beta (A\u03b2)"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "tau protein"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "synapse loss"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "neurodegeneration"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "metabolic changes"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "vascular changes"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "inflammatory changes"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "cognitive deficits"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "memory deficits"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "behavioral changes"
+      }
+    ]
+  },
+  {
+    "doc_id": 7,
+    "chunk_id": 0,
+    "pmid": "33004510",
+    "title": "Glymphatic failure as a final common pathway to dementia.",
+    "triples": [
+      {
+        "head": "Aging",
+        "relation": "CAUSES",
+        "tail": "Glymphatic failure"
+      },
+      {
+        "head": "Aging",
+        "relation": "INHIBITS",
+        "tail": "Sleep"
+      },
+      {
+        "head": "Sleep disturbance",
+        "relation": "CAUSES",
+        "tail": "Glymphatic failure"
+      },
+      {
+        "head": "Sleep disturbance",
+        "relation": "CAUSES",
+        "tail": "Symptomatic progression"
+      }
+    ]
+  },
+  {
+    "doc_id": 8,
+    "chunk_id": 0,
+    "pmid": "33035532",
+    "title": "Efficacy of acetylcholinesterase inhibitors in Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Alzheimer's disease",
+        "relation": "CAUSES",
+        "tail": "Dementia"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "TREATS",
+        "tail": "Alzheimer's disease"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Excitatory Amino Acid Antagonists"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Antioxidants"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Drug Therapy, Combination"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Cholinesterase Inhibitors"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Donepezil"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Rivastigmine"
+      },
+      {
+        "head": "ChE-Is",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Galantamine"
+      }
+    ]
+  },
+  {
+    "doc_id": 9,
+    "chunk_id": 0,
+    "pmid": "33340485",
+    "title": "APOE and Alzheimer's disease: advances in genetics, pathophysiology, and therapeutic approaches.",
+    "triples": [
+      {
+        "head": "APOE \u03b54 allele",
+        "relation": "CAUSES",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "APOE \u03b52 allele",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "APOE",
+        "relation": "INTERACTS_WITH",
+        "tail": "Amyloid-\u03b2 peptide"
+      },
+      {
+        "head": "APOE",
+        "relation": "INHIBITS",
+        "tail": "Microglia"
+      },
+      {
+        "head": "APOE",
+        "relation": "INHIBITS",
+        "tail": "Astrocyte"
+      },
+      {
+        "head": "APOE",
+        "relation": "REGULATES",
+        "tail": "Blood-brain barrier"
+      }
+    ]
+  },
+  {
+    "doc_id": 10,
+    "chunk_id": 0,
+    "pmid": "33986301",
+    "title": "Alzheimer disease.",
+    "triples": [
+      {
+        "head": "Alzheimer disease",
+        "relation": "CAUSES",
+        "tail": "cognitive impairment"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Neurodegenerative Diseases"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Neurofibrillary Tangles"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Amyloid beta-Peptides"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "tau"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "TREATS",
+        "tail": "cognitive impairment"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "REGULATES",
+        "tail": "synaptic homeostasis"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "INTERACTS_WITH",
+        "tail": "endosomal / lysosomal clearance"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "INHIBITS",
+        "tail": "endosomal / lysosomal clearance"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "TARGETS",
+        "tail": "amyloid beta-Peptides"
+      },
+      {
+        "head": "Alzheimer disease",
+        "relation": "TARGETS",
+        "tail": "tau"
+      }
+    ]
+  },
+  {
+    "doc_id": 11,
+    "chunk_id": 0,
+    "pmid": "34101789",
+    "title": "The Epidemiology of Alzheimer's Disease Modifiable Risk Factors and Prevention.",
+    "triples": [
+      {
+        "head": "Alzheimer Disease",
+        "relation": "CAUSES",
+        "tail": "Urodegenerative"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Protective Factors"
+      },
+      {
+        "head": "Alzheimer Disease",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Risk Factors"
+      }
+    ]
+  },
+  {
+    "doc_id": 12,
+    "chunk_id": 0,
+    "pmid": "34456336",
+    "title": "The Amyloid-\u03b2 Pathway in Alzheimer's Disease.",
+    "triples": [
+      {
+        "head": "Amyloid beta-Peptides",
+        "relation": "TREATS",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "alterations",
+        "relation": "CAUSES",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "Amyloid beta-Peptides",
+        "relation": "INTERACTS_WITH",
+        "tail": "tau Proteins"
+      }
+    ]
+  },
+  {
+    "doc_id": 13,
+    "chunk_id": 0,
+    "pmid": "35301183",
+    "title": "Physical activity as a protective factor for dementia and Alzheimer's disease: systematic review, meta-analysis and quality assessment of cohort and case-control studies.",
+    "triples": [
+      {
+        "head": "Exercise",
+        "relation": "TREATS",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Exercise",
+        "relation": "TREATS",
+        "tail": "alzheimer ' s disease"
+      },
+      {
+        "head": "Exercise",
+        "relation": "TREATS",
+        "tail": "vascular dementia"
+      },
+      {
+        "head": "Exercise",
+        "relation": "CAUSES",
+        "tail": "cause dementia"
+      }
+    ]
+  },
+  {
+    "doc_id": 14,
+    "chunk_id": 0,
+    "pmid": "36911732",
+    "title": "The effects of microglia-associated neuroinflammation on Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Microglia",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "Microglia",
+        "relation": "INTERACTS_WITH",
+        "tail": "amyloid"
+      },
+      {
+        "head": "Microglia",
+        "relation": "INTERACTS_WITH",
+        "tail": "tau"
+      },
+      {
+        "head": "Microglia",
+        "relation": "INTERACTS_WITH",
+        "tail": "neurons"
+      }
+    ]
+  },
+  {
+    "doc_id": 15,
+    "chunk_id": 0,
+    "pmid": "37955845",
+    "title": "Anti-Amyloid Monoclonal Antibodies for the Treatment of Alzheimer's Disease.",
+    "triples": [
+      {
+        "head": "Anti-Amyloid Monoclonal Antibodies",
+        "relation": "TREATS",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "Amyloid beta-Peptides",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Anti-Amyloid Monoclonal Antibodies"
+      },
+      {
+        "head": "Antibodies, Monoclonal",
+        "relation": "TARGETS",
+        "tail": "Amyloid beta-Peptides"
+      },
+      {
+        "head": "Humans",
+        "relation": "PREDISPOSES_TO",
+        "tail": "Alzheimer Disease"
+      },
+      {
+        "head": "cognitive decline",
+        "relation": "SLOWED_BY",
+        "tail": "Anti-Amyloid Monoclonal Antibodies"
+      },
+      {
+        "head": "dementia",
+        "relation": "ONSET_DELAYED_BY",
+        "tail": "Anti-Amyloid Monoclonal Antibodies"
+      }
+    ]
+  },
+  {
+    "doc_id": 16,
+    "chunk_id": 0,
+    "pmid": "37972428",
+    "title": "Economic Burden of Alzheimer's Disease: A Systematic Review.",
+    "triples": [
+      {
+        "head": "Humans",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "urodegenerative disorders"
+      },
+      {
+        "head": "Humans",
+        "relation": "TREATS",
+        "tail": "alzheimer ' s"
+      },
+      {
+        "head": "Humans",
+        "relation": "TREATS",
+        "tail": "dementia"
+      },
+      {
+        "head": "Humans",
+        "relation": "CAUSES",
+        "tail": "dementias"
+      },
+      {
+        "head": "Humans",
+        "relation": "EXPRESSED_IN",
+        "tail": "humans"
+      },
+      {
+        "head": "Humans",
+        "relation": "PART_OF",
+        "tail": "urodegenerative disorders"
+      },
+      {
+        "head": "Humans",
+        "relation": "PREDISPOSES_TO",
+        "tail": "alzheimer ' s"
+      },
+      {
+        "head": "Humans",
+        "relation": "PREDISPOSES_TO",
+        "tail": "dementia"
+      },
+      {
+        "head": "Humans",
+        "relation": "INTERACTS_WITH",
+        "tail": "health care costs"
+      },
+      {
+        "head": "Humans",
+        "relation": "INTERACTS_WITH",
+        "tail": "cost of illness"
+      },
+      {
+        "head": "Humans",
+        "relation": "REGULATES",
+        "tail": "cost of illness"
+      },
+      {
+        "head": "Humans",
+        "relation": "REGULATES",
+        "tail": "health care costs"
+      },
+      {
+        "head": "Humans",
+        "relation": "ACTIVATES",
+        "tail": "cost of illness"
+      },
+      {
+        "head": "Humans",
+        "relation": "INHIBITS",
+        "tail": "cost of illness"
+      },
+      {
+        "head": "Humans",
+        "relation": "ACTIVATES",
+        "tail": "health care costs"
+      },
+      {
+        "head": "Humans",
+        "relation": "INHIBITS",
+        "tail": "health care costs"
+      },
+      {
+        "head": "Humans",
+        "relation": "TARGETS",
+        "tail": "cost of illness"
+      },
+      {
+        "head": "Humans",
+        "relation": "TARGETS",
+        "tail": "health care costs"
+      },
+      {
+        "head": "Humans",
+        "relation": "ACTIVATES",
+        "tail": "caregivers"
+      },
+      {
+        "head": "Humans",
+        "relation": "INHIBITS",
+        "tail": "caregivers"
+      },
+      {
+        "head": "Humans",
+        "relation": "TARGETS",
+        "tail": "caregivers"
+      }
+    ]
+  },
+  {
+    "doc_id": 17,
+    "chunk_id": 0,
+    "pmid": "38849944",
+    "title": "Effects of intensive lifestyle changes on the progression of mild cognitive impairment or early dementia due to Alzheimer's disease: a randomized, controlled clinical trial.",
+    "triples": [
+      {
+        "head": "1 : 20 weeks",
+        "relation": "INCREASED",
+        "tail": "A\u03b242/40 ratio"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "DECREASED",
+        "tail": "A\u03b242/40 ratio"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "IMPROVED",
+        "tail": "cognition and function"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "LESS PROGRESSION",
+        "tail": "CDR-SB"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "IMPROVED",
+        "tail": "CGIC"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "IMPROVED",
+        "tail": "CDR Global"
+      },
+      {
+        "head": "1 : 20 weeks",
+        "relation": "IMPROVED",
+        "tail": "ADAS-Cog"
+      }
+    ]
+  },
+  {
+    "doc_id": 17,
+    "chunk_id": 1,
+    "pmid": "38849944",
+    "title": "Effects of intensive lifestyle changes on the progression of mild cognitive impairment or early dementia due to Alzheimer's disease: a randomized, controlled clinical trial.",
+    "triples": [
+      {
+        "head": "cognition",
+        "relation": "IMPROVED",
+        "tail": "function"
+      },
+      {
+        "head": "cdr - sb",
+        "relation": "WORSENED",
+        "tail": "intervention"
+      },
+      {
+        "head": "A\u03b242/40 ratio",
+        "relation": "INCREASED",
+        "tail": "intervention"
+      },
+      {
+        "head": "A\u03b242/40 ratio",
+        "relation": "DECREASED",
+        "tail": "control"
+      },
+      {
+        "head": "lifestyle",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "cognitive function"
+      },
+      {
+        "head": "lifestyle",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "plasma A\u03b242/40 ratio"
+      },
+      {
+        "head": "microbiome",
+        "relation": "IMPROVED",
+        "tail": "intervention"
+      }
+    ]
+  },
+  {
+    "doc_id": 18,
+    "chunk_id": 0,
+    "pmid": "38967222",
+    "title": "Sex and gender differences in cognitive resilience to aging and Alzheimer's disease.",
+    "triples": [
+      {
+        "head": "Cognition",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Brain"
+      },
+      {
+        "head": "Cognition",
+        "relation": "PREDISPOSES_TO",
+        "tail": "Cognitive Dysfunction"
+      },
+      {
+        "head": "Sex Characteristics",
+        "relation": "INTERACTS_WITH",
+        "tail": "Risk Factors"
+      },
+      {
+        "head": "Sex Characteristics",
+        "relation": "REGULATES",
+        "tail": "Resilience, Psychological"
+      },
+      {
+        "head": "Sex Factors",
+        "relation": "CAUSES",
+        "tail": "Cognitive Dysfunction"
+      }
+    ]
+  },
+  {
+    "doc_id": 19,
+    "chunk_id": 0,
+    "pmid": "39889875",
+    "title": "Environmental risk factors for all-cause dementia, Alzheimer's disease dementia, vascular dementia, and mild cognitive impairment: An umbrella review and meta-analysis.",
+    "triples": [
+      {
+        "head": "Environmental Exposure",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Environmental Exposure",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia, Vascular"
+      },
+      {
+        "head": "Environmental Exposure",
+        "relation": "CAUSES",
+        "tail": "Cognitive Impairment"
+      },
+      {
+        "head": "Environmental Exposure",
+        "relation": "CAUSES",
+        "tail": "Disorders"
+      },
+      {
+        "head": "Neighbourhood",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Cognitive"
+      },
+      {
+        "head": "Neighbourhood",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Noise"
+      },
+      {
+        "head": "Shift Work",
+        "relation": "CAUSES",
+        "tail": "S Disease"
+      },
+      {
+        "head": "Chronic Noise",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Chronic Noise",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      },
+      {
+        "head": "Fine Particulate Matter",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Fine Particulate Matter",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      },
+      {
+        "head": "Extremely-Low Frequency Magnetic Fields",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Extremely-Low Frequency Magnetic Fields",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      },
+      {
+        "head": "Nitrogen Oxides",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Nitrogen Oxides",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      },
+      {
+        "head": "Nitrogen Dioxide",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Nitrogen Dioxide",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      },
+      {
+        "head": "Carbon Monoxide",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Carbon Monoxide",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Vascular Dementia"
+      }
+    ]
+  },
+  {
+    "doc_id": 19,
+    "chunk_id": 1,
+    "pmid": "39889875",
+    "title": "Environmental risk factors for all-cause dementia, Alzheimer's disease dementia, vascular dementia, and mild cognitive impairment: An umbrella review and meta-analysis.",
+    "triples": [
+      {
+        "head": "Dementia",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Environmental Exposure"
+      },
+      {
+        "head": "Dementia",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Risk Factors"
+      },
+      {
+        "head": "Neighbourhood",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      },
+      {
+        "head": "Occupational",
+        "relation": "ASSOCIATED_WITH",
+        "tail": "Dementia"
+      }
+    ]
+  }
+]
