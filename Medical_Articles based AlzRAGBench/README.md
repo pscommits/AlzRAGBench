@@ -1,4 +1,4 @@
-# Medical Articles AlzRAGBench — VectorRAG vs. GraphRAG
+# Medical Articles based AlzRAGBench — VectorRAG vs. GraphRAG
 
 This is the **Medical Articles arm** of [AlzRAGBench](.), a multi-part project comparing
 Retrieval-Augmented Generation (RAG) architectures on an Alzheimer's disease knowledge
