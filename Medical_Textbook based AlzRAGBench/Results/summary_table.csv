@@ -1,0 +1,4 @@
+Method,Similarity,ROUGE-L,Exact Match,Avg Time(s)
+VectorRAG,0.4062,0.1692,0.00%,0.58
+GraphRAG,0.1621,0.0596,0.00%,4.96
+HybridRAG,0.6119,0.2305,0.00%,5.45
