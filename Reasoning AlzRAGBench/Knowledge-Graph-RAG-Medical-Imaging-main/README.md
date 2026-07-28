@@ -1,4 +1,4 @@
-# KG-MMRAG
+# KG-MMRAG Phase 1
 
 **Knowledge Graph–Augmented Multimodal Retrieval-Augmented Generation for Medical Imaging**
 
