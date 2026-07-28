@@ -1,0 +1,33 @@
+# Core
+torch>=2.1.0
+transformers>=4.44.0
+accelerate>=0.33.0
+
+# Embedding (BiomedCLIP)
+open_clip_torch>=2.24.0
+Pillow>=10.0.0
+
+# Retrieval
+faiss-cpu>=1.8.0          # swap for faiss-gpu if CUDA is available
+networkx>=3.2
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Medical imaging I/O
+nibabel>=5.2.0
+pydicom>=2.4.0
+SimpleITK>=2.3.0
+
+# Config / CLI
+pyyaml>=6.0
+tqdm>=4.66.0
+
+# Evaluation
+scikit-learn>=1.4.0
+pandas>=2.1.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+matplotlib>=3.8.0
+
+# App
+gradio>=4.44.0

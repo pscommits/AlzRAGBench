@@ -1,0 +1,37 @@
+{
+  "_comment": "PLACEHOLDER — overwritten by `python scripts/run_eval.py --ablations`. Do not hand-edit; if this file and the README table disagree, regenerate both.",
+  "meta": {
+    "timestamp": null,
+    "config": "configs/eval.yaml",
+    "split": "test",
+    "n_samples": null,
+    "seed": 42,
+    "embedding_model": "microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224",
+    "generation_model": "TODO"
+  },
+  "results": {
+    "no_retrieval": {
+      "n_samples": null,
+      "generation": {"accuracy": null, "f1": null, "rouge_l": null},
+      "hallucination_rate": null
+    },
+    "dense_only": {
+      "n_samples": null,
+      "retrieval": {"recall@1": null, "recall@5": null, "recall@10": null, "mrr": null},
+      "generation": {"accuracy": null, "f1": null, "rouge_l": null},
+      "hallucination_rate": null
+    },
+    "graph_only": {
+      "n_samples": null,
+      "retrieval": {"recall@1": null, "recall@5": null, "recall@10": null, "mrr": null},
+      "generation": {"accuracy": null, "f1": null, "rouge_l": null},
+      "hallucination_rate": null
+    },
+    "fused": {
+      "n_samples": null,
+      "retrieval": {"recall@1": null, "recall@5": null, "recall@10": null, "mrr": null},
+      "generation": {"accuracy": null, "f1": null, "rouge_l": null},
+      "hallucination_rate": null
+    }
+  }
+}

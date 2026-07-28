@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "timestamp": "2026-07-11T17:35:09",
+    "dataset": "SLAKE (BoKelvin/SLAKE), English, test split",
+    "n_samples": 200,
+    "seed": 42,
+    "encoder": "openai/clip-vit-base-patch32",
+    "generator": "google/medgemma-4b-it",
+    "decoding": "greedy (temperature=0.0), max_new_tokens=24",
+    "retrieval": {
+      "top_k_vec": 3,
+      "top_k_kg": 8,
+      "kg_hops": 1,
+      "index": "FAISS IndexFlatIP (cosine)"
+    }
+  },
+  "results": {
+    "baseline": {
+      "n_samples": 200,
+      "overall": {
+        "exact_match": 59.0,
+        "token_f1": 62.89,
+        "em_ci95": [
+          52.1,
+          65.6
+        ]
+      },
+      "open": {
+        "n": 122,
+        "exact_match": 45.08,
+        "token_f1": 51.45
+      },
+      "closed": {
+        "n": 78,
+        "exact_match": 80.77,
+        "token_f1": 80.77
+      },
+      "kg_hit_rate": 0.0
+    },
+    "vec_only": {
+      "n_samples": 200,
+      "overall": {
+        "exact_match": 63.0,
+        "token_f1": 67.89,
+        "em_ci95": [
+          56.1,
+          69.4
+        ]
+      },
+      "open": {
+        "n": 122,
+        "exact_match": 51.64,
+        "token_f1": 59.66
+      },
+      "closed": {
+        "n": 78,
+        "exact_match": 80.77,
+        "token_f1": 80.77
+      },
+      "kg_hit_rate": 0.0
+    },
+    "kg_only": {
+      "n_samples": 200,
+      "overall": {
+        "exact_match": 59.0,
+        "token_f1": 62.75,
+        "em_ci95": [
+          52.1,
+          65.6
+        ]
+      },
+      "open": {
+        "n": 122,
+        "exact_match": 46.72,
+        "token_f1": 52.86
+      },
+      "closed": {
+        "n": 78,
+        "exact_match": 78.21,
+        "token_f1": 78.21
+      },
+      "kg_hit_rate": 0.435
+    },
+    "full": {
+      "n_samples": 200,
+      "overall": {
+        "exact_match": 64.0,
+        "token_f1": 68.78,
+        "em_ci95": [
+          57.1,
+          70.3
+        ]
+      },
+      "open": {
+        "n": 122,
+        "exact_match": 53.28,
+        "token_f1": 61.12
+      },
+      "closed": {
+        "n": 78,
+        "exact_match": 80.77,
+        "token_f1": 80.77
+      },
+      "kg_hit_rate": 0.435
+    }
+  },
+  "significance_mcnemar_em": {
+    "baseline_vs_vec_only": {
+      "gains": 10,
+      "losses": 2,
+      "p_value": 0.0386,
+      "significant": true
+    },
+    "baseline_vs_kg_only": {
+      "gains": 5,
+      "losses": 5,
+      "p_value": 1.0,
+      "significant": false
+    },
+    "baseline_vs_full": {
+      "gains": 14,
+      "losses": 4,
+      "p_value": 0.0309,
+      "significant": true
+    },
+    "vec_only_vs_full": {
+      "gains": 8,
+      "losses": 6,
+      "p_value": 0.7905,
+      "significant": false
+    }
+  },
+  "kg_hit_subgroup": {
+    "hit": {
+      "n": 87,
+      "baseline_em": 43.68,
+      "vec_only_em": 49.43,
+      "full_em": 51.72,
+      "lift_vs_baseline": 8.05,
+      "lift_vs_vec_only": 2.3
+    },
+    "miss": {
+      "n": 113,
+      "baseline_em": 70.8,
+      "vec_only_em": 73.45,
+      "full_em": 73.45,
+      "lift_vs_baseline": 2.65,
+      "lift_vs_vec_only": 0.0
+    },
+    "note": "KG-hit questions are intrinsically harder (baseline EM 43.7 vs 70.8). Raw full-config EM is LOWER on the hit subset, but the paired lift over baseline is ~3x larger. Selection effect, not a KG failure."
+  }
+}

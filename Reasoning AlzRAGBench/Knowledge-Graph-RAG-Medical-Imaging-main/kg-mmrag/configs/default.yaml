@@ -1,0 +1,90 @@
+# KG-MMRAG — primary configuration.
+# Nothing in src/ should hardcode a path, model name, or threshold.
+# If you find yourself editing source to change behaviour, add a key here instead.
+
+experiment:
+  name: kg-mmrag-baseline
+  seed: 42
+  device: cuda          # cuda | cpu | mps
+  output_dir: artifacts/
+
+paths:
+  data_root: data/
+  raw_dir: data/raw/
+  processed_dir: data/processed/
+  index_dir: artifacts/indices/
+  graph_dir: artifacts/graphs/
+  cache_dir: artifacts/cache/
+
+models:
+  embedding:
+    name: BiomedCLIP-PubMedBERT_256-vit_base_patch16_224
+    hf_id: microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224
+    embed_dim: 512
+    image_size: 224
+    batch_size: 32
+    normalize: true
+
+  generation:
+    name: medgemma
+    hf_id: google/medgemma-4b-it     # TODO: confirm the exact checkpoint you are using
+    max_new_tokens: 512
+    temperature: 0.2                 # low — this is a grounding task, not a creative one
+    top_p: 0.9
+    dtype: bfloat16
+
+  hallucination:
+    # Model used to check whether each generated claim is entailed by retrieved evidence
+    hf_id: TODO/nli-or-entailment-model
+    threshold: 0.5                   # claims scoring below this are flagged ungrounded
+
+datasets:
+  # TODO: confirm splits and enable/disable per experiment
+  slake:
+    enabled: true
+    root: data/raw/slake/
+    modality: radiology
+    splits: [train, val, test]
+  brats:
+    enabled: true
+    root: data/raw/brats/
+    modality: mri_brain
+    splits: [train, val]
+  rocov2:
+    enabled: true
+    root: data/raw/rocov2/
+    modality: multi
+    splits: [train, val, test]
+
+retrieval:
+  dense:
+    index_type: IndexFlatIP          # IndexFlatIP | IndexIVFFlat | IndexHNSWFlat
+    metric: inner_product            # embeddings are L2-normalised -> IP == cosine
+    top_k: 10
+    nlist: 100                       # only used by IVF indices
+    nprobe: 10
+
+  graph:
+    max_hops: 2
+    top_k_entities: 5
+    max_subgraph_nodes: 50
+    edge_types: [has_finding, located_in, indicates, associated_with]
+    entity_linker: exact             # exact | fuzzy | embedding
+
+  fusion:
+    strategy: weighted               # weighted | rerank | concat
+    dense_weight: 0.6
+    graph_weight: 0.4
+    max_evidence_items: 8
+    dedupe: true
+
+prompting:
+  system: |
+    You are a medical imaging assistant. Answer the question using ONLY the
+    evidence provided. If the evidence is insufficient, say so explicitly
+    rather than speculating. Cite the evidence item number supporting each claim.
+  include_evidence_ids: true
+
+logging:
+  level: INFO
+  log_dir: logs/
