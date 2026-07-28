@@ -1,5 +1,3 @@
-# AlzRAGBench
-
 # Reasoning LM based HybridRAG
 
 Alzheimer's-domain HybridRAG built on a purpose-built PubMed knowledge graph and a
@@ -51,6 +49,7 @@ Run order: 01 → 03 → 02 → 04. Notebook 04 needs the artifacts from 01 and 
 | `graphrag` | KG triples: bridge edges between question and option entities, plus per-entity neighbourhoods, plus CoT traces |
 | `vectorrag` | top-*k* FAISS chunks retrieved on stem + options |
 | `hybridrag` | both, reciprocal-rank fused |
+| `hybridrag_gated` | `hybridrag` evidence passed through a similarity gate — passages and KG facts below a relevance threshold are dropped before fusion, so the model sees a much smaller, higher-precision context (or none at all) instead of a fixed-size budget |
 
 ### Why reciprocal rank fusion
 
@@ -76,7 +75,7 @@ jupyter nbconvert --to script 04_hybridrag_and_evaluation.ipynb
 hf jobs uv run --flavor l4x1 --timeout 6h \
     --secrets HF_TOKEN \
     --env KG_REPO=<your-hf-user>/alzheimers-kg \
-    --env GENERATOR=google/medgemma-27b-text-it \
+    --env GENERATOR=google/medgemma-4b-it \
     --env LIMIT=0 \
     04_hybridrag_and_evaluation.py
 ```
@@ -145,18 +144,74 @@ which is what makes it defensible under questioning.
 
 ## Results
 
-<!-- Fill in after the full run. -->
+Run metadata: generated **2026-07-24 19:14 UTC**, generator `google/medgemma-4b-it`,
+self-consistency **off (greedy)**, runtime **29 min**, n = **54** Alzheimer's MIRAGE
+items (MedQA, MedMCQA, BioASQ, MMLU-Med).
+
+This run compared `closed_book` against `hybridrag` and a gated variant
+(`hybridrag_gated`) rather than the full four-arm sweep — no standalone
+`graphrag`/`vectorrag` numbers are reported here.
 
 | Strategy | Accuracy | 95% CI | Fixed | Broke | p (vs closed-book) |
 |---|---|---|---|---|---|
-| `closed_book` | | | — | — | — |
-| `graphrag` | | | | | |
-| `vectorrag` | | | | | |
-| `hybridrag` | | | | | |
+| `closed_book` | 0.6481 | [0.515, 0.762] | — | — | base |
+| `hybridrag` | 0.6296 | [0.496, 0.746] | 7 | 8 | 1.0000 |
+| `hybridrag_gated` | 0.6481 | [0.515, 0.762] | 1 | 1 | 0.4795 |
 
-Retrieval coverage: KG entity-linked _/_, KG bridge facts _/_, vector mean top-1 cosine _.
+Head-to-head, `hybridrag` vs `hybridrag_gated`: fixed 7, broke 6, p = 1.0000.
 
-Mean closed-book margin: _.
+Best-performing strategy: `closed_book` (tied with `hybridrag_gated`), both at
+0.6481 — i.e. neither retrieval arm beats the no-retrieval baseline at this
+sample size.
+
+### Retrieval coverage
+
+| Metric | Value |
+|---|---|
+| KG entity-linked | 52 / 54 |
+| KG bridge facts | 14 / 54 |
+| Vector mean top-1 cosine | 0.531 |
+| Mean closed-book letter margin | 0.9257 |
+
+The mean closed-book margin of 0.9257 is very close to 1.0 — the model is
+already near-certain before seeing any retrieved evidence on most questions,
+which is consistent with retrieval having little room to move the accuracy
+needle in this run (see "Interpreting the numbers" above).
+
+### Evidence volume (mean per question)
+
+| Strategy | Facts | Chunks | Context (chars) |
+|---|---|---|---|
+| `closed_book` | 0.0 | 0.0 | 0 |
+| `hybridrag` | 11.6 | 10.0 | 5941 |
+| `hybridrag_gated` | 0.8 | 0.6 | 296 |
+
+The gate is aggressive: it drops the fused context from ~5.9k chars down to
+~300 chars on average (a ~20× reduction), which is why `hybridrag_gated`
+tracks `closed_book` so closely — most questions end up answered with
+little or no retrieved evidence at all.
+
+### Corpus / index size
+
+| Component | Size |
+|---|---|
+| Knowledge graph | 1039 nodes / 1356 edges |
+| Vector index | 1488 chunks (`NeuML/pubmedbert-base-embeddings`) |
+
+### Disagreement patterns
+
+Across the 15 logged disagreements, two clusters stand out:
+
+- **BioASQ drug-effectiveness questions** (Semagacestat, Lanabecestat,
+  Verubecestat) account for 6 of the 15 disagreements. `closed_book` answers
+  "A" on all of these; gold is split between A and B, and `hybridrag`
+  correctly flips several to match gold — this is the clearest case of
+  retrieval adding real signal rather than noise.
+- **MedQA clinical vignettes** account for most of the rest, where
+  `hybridrag` diverges from both `closed_book` and gold, while
+  `hybridrag_gated` tends to agree with `closed_book` — consistent with the
+  gate suppressing the (apparently unhelpful) extra context that led plain
+  `hybridrag` astray on these items.
 
 ## Artifacts
 
